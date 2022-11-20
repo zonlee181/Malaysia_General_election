@@ -42,6 +42,8 @@ urls = [
     ,'https://election.thestar.com.my/json/11.json'
     ,'https://election.thestar.com.my/json/12.json'
     ,'https://election.thestar.com.my/json/13.json'
+    ,'https://election.thestar.com.my/json/14.json'
+    ,'https://election.thestar.com.my/json/15.json'
 
 ]
 
