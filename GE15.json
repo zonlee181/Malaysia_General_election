@@ -2,6 +2,7 @@
   "P1": {
     "name": "padang besar",
     "registered_voters": 60192,
+    "state": "Perlis",
     "data": [
       {
         "candidate": "Rushdan Rusmi",
@@ -33,6 +34,7 @@
   "P2": {
     "name": "kangar",
     "registered_voters": 74859,
+    "state": "Perlis",
     "data": [
       {
         "candidate": "Zakri Hassan",
@@ -64,6 +66,7 @@
   "P3": {
     "name": "arau",
     "registered_voters": 60876,
+    "state": "Perlis",
     "data": [
       {
         "candidate": "Shahidan Kassim",
@@ -85,6 +88,7 @@
   "P4": {
     "name": "langkawi",
     "registered_voters": 66777,
+    "state": "Kedah",
     "data": [
       {
         "candidate": "Mohd Suhaimi Abdullah",
@@ -116,6 +120,7 @@
   "P5": {
     "name": "jerlun",
     "registered_voters": 67601,
+    "state": "Kedah",
     "data": [
       {
         "candidate": "Abd Ghani Ahmad",
@@ -142,6 +147,7 @@
   "P6": {
     "name": "kubang pasu",
     "registered_voters": 108217,
+    "state": "Kedah",
     "data": [
       {
         "candidate": "Ku Abd Rahman Ku Ismail",
@@ -168,6 +174,7 @@
   "P7": {
     "name": "padang terap",
     "registered_voters": 59806,
+    "state": "Kedah",
     "data": [
       {
         "candidate": "Nurul Amin Hamid",
@@ -194,6 +201,7 @@
   "P8": {
     "name": "pokok sena",
     "registered_voters": 114838,
+    "state": "Kedah",
     "data": [
       {
         "candidate": "Ahmad Saad @ Yahaya",
@@ -220,6 +228,7 @@
   "P9": {
     "name": "alor setar",
     "registered_voters": 105994,
+    "state": "Kedah",
     "data": [
       {
         "candidate": "Afnan Hamimi Taib Azamudden",
@@ -261,6 +270,7 @@
   "P10": {
     "name": "kuala kedah",
     "registered_voters": 132500,
+    "state": "Kedah",
     "data": [
       {
         "candidate": "Ahmad Fakhruddin Fakhrurazi",
@@ -292,6 +302,7 @@
   "P11": {
     "name": "pendang",
     "registered_voters": 94547,
+    "state": "Kedah",
     "data": [
       {
         "candidate": "Awang Solahudin",
@@ -318,6 +329,7 @@
   "P12": {
     "name": "jerai",
     "registered_voters": 105001,
+    "state": "Kedah",
     "data": [
       {
         "candidate": "Sabri Azit",
@@ -344,6 +356,7 @@
   "P13": {
     "name": "sik",
     "registered_voters": 63126,
+    "state": "Kedah",
     "data": [
       {
         "candidate": "Ahmad Tarmizi Sulaiman",
@@ -365,6 +378,7 @@
   "P14": {
     "name": "merbok",
     "registered_voters": 132444,
+    "state": "Kedah",
     "data": [
       {
         "candidate": "Mohd Nazri Abu Hassan",
@@ -396,6 +410,7 @@
   "P15": {
     "name": "sungai petani",
     "registered_voters": 168847,
+    "state": "Kedah",
     "data": [
       {
         "candidate": "Mohammed Taufiq Johari",
@@ -427,6 +442,7 @@
   "P16": {
     "name": "baling",
     "registered_voters": 132099,
+    "state": "Kedah",
     "data": [
       {
         "candidate": "Hassan Saad",
@@ -453,6 +469,7 @@
   "P18": {
     "name": "kulim-bandar baharu",
     "registered_voters": 90141,
+    "state": "Kedah",
     "data": [
       {
         "candidate": "Roslan Hashim",
@@ -479,6 +496,7 @@
   "P19": {
     "name": "tumpat",
     "registered_voters": 149371,
+    "state": "Kelantan",
     "data": [
       {
         "candidate": "Mumtaz Md. Nawi (Kak Taz)",
@@ -510,6 +528,7 @@
   "P20": {
     "name": "pengkalan chepa",
     "registered_voters": 106982,
+    "state": "Kelantan",
     "data": [
       {
         "candidate": "Ahmad Marzuk Shaary",
@@ -541,6 +560,7 @@
   "P21": {
     "name": "kota bharu",
     "registered_voters": 115450,
+    "state": "Kelantan",
     "data": [
       {
         "candidate": "Takiyuddin Hassan",
@@ -577,6 +597,7 @@
   "P22": {
     "name": "pasir mas",
     "registered_voters": 94544,
+    "state": "Kelantan",
     "data": [
       {
         "candidate": "Ahmad Fadhli Shaary (Ustaz Fadhli Shaari)",
@@ -603,6 +624,7 @@
   "P23": {
     "name": "rantau panjang",
     "registered_voters": 93248,
+    "state": "Kelantan",
     "data": [
       {
         "candidate": "Siti Zailah Mohd. Yusoff (Kak Lah)",
@@ -634,6 +656,7 @@
   "P24": {
     "name": "kubang kerian",
     "registered_voters": 113640,
+    "state": "Kelantan",
     "data": [
       {
         "candidate": "Tuan Ibrahim Tuan Man",
@@ -660,6 +683,7 @@
   "P25": {
     "name": "bachok",
     "registered_voters": 123183,
+    "state": "Kelantan",
     "data": [
       {
         "candidate": "Mohd Syahir Che Sulaiman",
@@ -691,6 +715,7 @@
   "P26": {
     "name": "ketereh",
     "registered_voters": 85281,
+    "state": "Kelantan",
     "data": [
       {
         "candidate": "Khilir Mohd Nor",
@@ -717,6 +742,7 @@
   "P27": {
     "name": "tanah merah",
     "registered_voters": 98782,
+    "state": "Kelantan",
     "data": [
       {
         "candidate": "Ikmal Hisyam Abdul Aziz",
@@ -748,6 +774,7 @@
   "P28": {
     "name": "pasir puteh",
     "registered_voters": 113070,
+    "state": "Kelantan",
     "data": [
       {
         "candidate": "Nik Muhd Zawawi Salleh",
@@ -774,6 +801,7 @@
   "P29": {
     "name": "machang",
     "registered_voters": 88825,
+    "state": "Kelantan",
     "data": [
       {
         "candidate": "Wan Ahmad Fasyhal Wan Kamal",
@@ -800,6 +828,7 @@
   "P30": {
     "name": "jeli",
     "registered_voters": 59798,
+    "state": "Kelantan",
     "data": [
       {
         "candidate": "Zahari Kechik (Pok Zahari)",
@@ -826,6 +855,7 @@
   "P31": {
     "name": "kuala krai",
     "registered_voters": 92335,
+    "state": "Kelantan",
     "data": [
       {
         "candidate": "Abdul Latiff Abdul Rahman",
@@ -852,6 +882,7 @@
   "P32": {
     "name": "gua musang",
     "registered_voters": 70254,
+    "state": "Kelantan",
     "data": [
       {
         "candidate": "Mohd. Azizi Abu Naim",
@@ -878,6 +909,7 @@
   "P33": {
     "name": "besut",
     "registered_voters": 111650,
+    "state": "Terengganu",
     "data": [
       {
         "candidate": "Che Mohamad Zulkifly Jusoh (Abe Zul)",
@@ -904,6 +936,7 @@
   "P34": {
     "name": "setiu",
     "registered_voters": 107294,
+    "state": "Terengganu",
     "data": [
       {
         "candidate": "Shaharizukirnain Abdul Kadir",
@@ -930,6 +963,7 @@
   "P35": {
     "name": "kuala nerus",
     "registered_voters": 105952,
+    "state": "Terengganu",
     "data": [
       {
         "candidate": "Alias Razak",
@@ -956,6 +990,7 @@
   "P36": {
     "name": "kuala terengganu",
     "registered_voters": 123305,
+    "state": "Terengganu",
     "data": [
       {
         "candidate": "Ahmad Amzad Mohamed @ Hashim",
@@ -982,6 +1017,7 @@
   "P37": {
     "name": "marang",
     "registered_voters": 131756,
+    "state": "Terengganu",
     "data": [
       {
         "candidate": "Abdul Hadi Awang",
@@ -1008,6 +1044,7 @@
   "P38": {
     "name": "hulu terengganu",
     "registered_voters": 87917,
+    "state": "Terengganu",
     "data": [
       {
         "candidate": "Rosol Wahid",
@@ -1034,6 +1071,7 @@
   "P39": {
     "name": "dungun",
     "registered_voters": 115559,
+    "state": "Terengganu",
     "data": [
       {
         "candidate": "Wan Hassan Mohd. Ramli",
@@ -1065,6 +1103,7 @@
   "P40": {
     "name": "kemaman",
     "registered_voters": 139423,
+    "state": "Terengganu",
     "data": [
       {
         "candidate": "Che Alias Hamid",
@@ -1091,6 +1130,7 @@
   "P41": {
     "name": "kepala batas",
     "registered_voters": 83081,
+    "state": "Penang",
     "data": [
       {
         "candidate": "Mastura Muhammad",
@@ -1117,6 +1157,7 @@
   "P42": {
     "name": "tasek gelugor",
     "registered_voters": 80868,
+    "state": "Penang",
     "data": [
       {
         "candidate": "Wan Saifulrudin Wan Jan",
@@ -1148,6 +1189,7 @@
   "P43": {
     "name": "bagan",
     "registered_voters": 89447,
+    "state": "Penang",
     "data": [
       {
         "candidate": "Lim Guan Eng",
@@ -1174,6 +1216,7 @@
   "P44": {
     "name": "permatang pauh",
     "registered_voters": 107186,
+    "state": "Penang",
     "data": [
       {
         "candidate": "Muhammad Fawwaz Mat Jan",
@@ -1200,6 +1243,7 @@
   "P45": {
     "name": "bukit mertajam",
     "registered_voters": 120819,
+    "state": "Penang",
     "data": [
       {
         "candidate": "Steven Sim Chee Keong",
@@ -1221,6 +1265,7 @@
   "P46": {
     "name": "batu kawan",
     "registered_voters": 88812,
+    "state": "Penang",
     "data": [
       {
         "candidate": "Chow Kon Yeow",
@@ -1252,6 +1297,7 @@
   "P47": {
     "name": "nibong tebal",
     "registered_voters": 100062,
+    "state": "Penang",
     "data": [
       {
         "candidate": "Fadhlina Sidek",
@@ -1278,6 +1324,7 @@
   "P48": {
     "name": "bukit bendera",
     "registered_voters": 92521,
+    "state": "Penang",
     "data": [
       {
         "candidate": "Syerleena Abdul Rashid",
@@ -1309,6 +1356,7 @@
   "P49": {
     "name": "tanjong",
     "registered_voters": 52803,
+    "state": "Penang",
     "data": [
       {
         "candidate": "Lim Hui Ying",
@@ -1330,6 +1378,7 @@
   "P50": {
     "name": "jelutong",
     "registered_voters": 93989,
+    "state": "Penang",
     "data": [
       {
         "candidate": "Sanisvara Nethaji Rayer Rajaji",
@@ -1366,6 +1415,7 @@
   "P51": {
     "name": "bukit gelugor",
     "registered_voters": 117134,
+    "state": "Penang",
     "data": [
       {
         "candidate": "Ramkarpal Singh",
@@ -1387,6 +1437,7 @@
   "P52": {
     "name": "bayan baru",
     "registered_voters": 119640,
+    "state": "Penang",
     "data": [
       {
         "candidate": "Sim Tze Tzin",
@@ -1423,6 +1474,7 @@
   "P53": {
     "name": "balik pulau",
     "registered_voters": 80264,
+    "state": "Penang",
     "data": [
       {
         "candidate": "Muhammad Bakhtiar Wan Chik",
@@ -1459,6 +1511,7 @@
   "P54": {
     "name": "gerik",
     "registered_voters": 47565,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Fathul Huzir Ayob",
@@ -1480,6 +1533,7 @@
   "P55": {
     "name": "lenggong",
     "registered_voters": 36950,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Shamsul Anuar Nasarah",
@@ -1501,6 +1555,7 @@
   "P56": {
     "name": "larut",
     "registered_voters": 65719,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Hamzah Zainudin",
@@ -1527,6 +1582,7 @@
   "P57": {
     "name": "parit buntar",
     "registered_voters": 68502,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Mohd Misbahul Munir Masduki (Ustaz Misbah)",
@@ -1553,6 +1609,7 @@
   "P58": {
     "name": "bagan serai",
     "registered_voters": 80293,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Idris Ahmad",
@@ -1579,6 +1636,7 @@
   "P59": {
     "name": "bukit gantang",
     "registered_voters": 94253,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Syed Abu Hussin Hafiz Syed Abdul Fasal",
@@ -1605,6 +1663,7 @@
   "P60": {
     "name": "taiping",
     "registered_voters": 121566,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Wong Kah Woh",
@@ -1641,6 +1700,7 @@
   "P61": {
     "name": "padang rengas",
     "registered_voters": 38686,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Azahari Hasan",
@@ -1662,6 +1722,7 @@
   "P62": {
     "name": "sungai siput",
     "registered_voters": 72395,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Kesavan Subramaniam",
@@ -1703,6 +1764,7 @@
   "P63": {
     "name": "tambun",
     "registered_voters": 160558,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Anwar Ibrahim",
@@ -1729,6 +1791,7 @@
   "P64": {
     "name": "ipoh timor",
     "registered_voters": 118178,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Howard Lee Chuan How",
@@ -1750,6 +1813,7 @@
   "P65": {
     "name": "ipoh barat",
     "registered_voters": 114654,
+    "state": "Perak",
     "data": [
       {
         "candidate": "M. Kulasegaran",
@@ -1776,6 +1840,7 @@
   "P66": {
     "name": "batu gajah",
     "registered_voters": 111896,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Sivakumar Varatharaju Naidu",
@@ -1797,6 +1862,7 @@
   "P67": {
     "name": "kuala kangsar",
     "registered_voters": 46985,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Iskandar Dzulkarnain Abdul Khalid",
@@ -1823,6 +1889,7 @@
   "P68": {
     "name": "beruas",
     "registered_voters": 108249,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Ngeh Koo Ham",
@@ -1844,6 +1911,7 @@
   "P69": {
     "name": "parit",
     "registered_voters": 47915,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Muhammad Ismi Mat Taib",
@@ -1870,6 +1938,7 @@
   "P70": {
     "name": "kampar",
     "registered_voters": 89894,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Chong Zhemin",
@@ -1896,6 +1965,7 @@
   "P71": {
     "name": "gopeng",
     "registered_voters": 143657,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Tan Kar Hing",
@@ -1922,6 +1992,7 @@
   "P72": {
     "name": "tapah",
     "registered_voters": 61946,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Saravanan Murugan",
@@ -1958,6 +2029,7 @@
   "P73": {
     "name": "pasir salak",
     "registered_voters": 74761,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Jamaluddin Yahya",
@@ -1984,6 +2056,7 @@
   "P74": {
     "name": "lumut",
     "registered_voters": 92972,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Nordin Ahmad Ismail",
@@ -2015,6 +2088,7 @@
   "P75": {
     "name": "bagan datuk",
     "registered_voters": 58183,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Ahmad Zahid Hamidi",
@@ -2041,6 +2115,7 @@
   "P76": {
     "name": "teluk intan",
     "registered_voters": 87222,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Nga Kor Ming",
@@ -2067,6 +2142,7 @@
   "P77": {
     "name": "tanjong malim",
     "registered_voters": 93873,
+    "state": "Perak",
     "data": [
       {
         "candidate": "Chang Lih Kang",
@@ -2103,6 +2179,7 @@
   "P78": {
     "name": "cameron highlands",
     "registered_voters": 46020,
+    "state": "Pahang",
     "data": [
       {
         "candidate": "Ramli Mohd Nor",
@@ -2124,6 +2201,7 @@
   "P79": {
     "name": "lipis",
     "registered_voters": 47124,
+    "state": "Pahang",
     "data": [
       {
         "candidate": "Abdul Rahman Mohamad",
@@ -2150,6 +2228,7 @@
   "P80": {
     "name": "raub",
     "registered_voters": 75064,
+    "state": "Pahang",
     "data": [
       {
         "candidate": "Chow Yu Hui",
@@ -2176,6 +2255,7 @@
   "P81": {
     "name": "jerantut",
     "registered_voters": 87051,
+    "state": "Pahang",
     "data": [
       {
         "candidate": "Khairil Nizam Khirudin",
@@ -2197,6 +2277,7 @@
   "P82": {
     "name": "indera mahkota",
     "registered_voters": 120549,
+    "state": "Pahang",
     "data": [
       {
         "candidate": "Saifuddin Abdullah",
@@ -2223,6 +2304,7 @@
   "P83": {
     "name": "kuantan",
     "registered_voters": 87597,
+    "state": "Pahang",
     "data": [
       {
         "candidate": "Wan Razali Wan Nor",
@@ -2249,6 +2331,7 @@
   "P84": {
     "name": "paya besar",
     "registered_voters": 79744,
+    "state": "Pahang",
     "data": [
       {
         "candidate": "Indera Mohd Shahar Abdullah",
@@ -2275,6 +2358,7 @@
   "P85": {
     "name": "pekan",
     "registered_voters": 119443,
+    "state": "Pahang",
     "data": [
       {
         "candidate": "Sh Mohmed Puzi Sh Ali",
@@ -2306,6 +2390,7 @@
   "P86": {
     "name": "maran",
     "registered_voters": 53128,
+    "state": "Pahang",
     "data": [
       {
         "candidate": "Ismail Abd Muttalib",
@@ -2332,6 +2417,7 @@
   "P87": {
     "name": "kuala krau",
     "registered_voters": 60537,
+    "state": "Pahang",
     "data": [
       {
         "candidate": "Kamal Ashaari",
@@ -2358,6 +2444,7 @@
   "P88": {
     "name": "temerloh",
     "registered_voters": 106829,
+    "state": "Pahang",
     "data": [
       {
         "candidate": "Salamiah Mohd Nor",
@@ -2384,6 +2471,7 @@
   "P89": {
     "name": "bentong",
     "registered_voters": 87058,
+    "state": "Pahang",
     "data": [
       {
         "candidate": "Young Syefura Othman",
@@ -2415,6 +2503,7 @@
   "P90": {
     "name": "bera",
     "registered_voters": 77669,
+    "state": "Pahang",
     "data": [
       {
         "candidate": "Ismail Sabri Yaakob",
@@ -2436,6 +2525,7 @@
   "P91": {
     "name": "rompin",
     "registered_voters": 89131,
+    "state": "Pahang",
     "data": [
       {
         "candidate": "Khalib",
@@ -2462,6 +2552,7 @@
   "P92": {
     "name": "sabak bernam",
     "registered_voters": 51609,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Kalam Salan",
@@ -2488,6 +2579,7 @@
   "P93": {
     "name": "sungai besar",
     "registered_voters": 64382,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Muslimin Yahaya",
@@ -2514,6 +2606,7 @@
   "P94": {
     "name": "hulu selangor",
     "registered_voters": 154317,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Mohd Hasnizan Harun",
@@ -2550,6 +2643,7 @@
   "P95": {
     "name": "tanjong karang",
     "registered_voters": 62194,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Zulkafpheri Hanafi",
@@ -2581,6 +2675,7 @@
   "P96": {
     "name": "kuala selangor",
     "registered_voters": 102951,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Dzulkefly Ahmad",
@@ -2607,6 +2702,7 @@
   "P97": {
     "name": "selayang",
     "registered_voters": 181539,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "William Leong Jee Keen",
@@ -2638,6 +2734,7 @@
   "P98": {
     "name": "gombak",
     "registered_voters": 206744,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Amirudin Shari",
@@ -2669,6 +2766,7 @@
   "P99": {
     "name": "ampang",
     "registered_voters": 133494,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Rodziah Ismail",
@@ -2720,6 +2818,7 @@
   "P100": {
     "name": "pandan",
     "registered_voters": 148730,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Rafizi Ramli",
@@ -2751,6 +2850,7 @@
   "P101": {
     "name": "hulu langat",
     "registered_voters": 166902,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Mohd Sany Hamzan",
@@ -2787,6 +2887,7 @@
   "P102": {
     "name": "bangi",
     "registered_voters": 303430,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Syahredzan Johan",
@@ -2833,6 +2934,7 @@
   "P103": {
     "name": "puchong",
     "registered_voters": 152861,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Yeo Bee Yin",
@@ -2859,6 +2961,7 @@
   "P104": {
     "name": "subang",
     "registered_voters": 230940,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Wong Chen",
@@ -2880,6 +2983,7 @@
   "P105": {
     "name": "petaling jaya",
     "registered_voters": 195148,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Lee Chean Chung",
@@ -2916,6 +3020,7 @@
   "P106": {
     "name": "damansara",
     "registered_voters": 239103,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Gobind Singh Deo",
@@ -2937,6 +3042,7 @@
   "P107": {
     "name": "sungai buloh",
     "registered_voters": 158090,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Ramanan Ramakrishnan",
@@ -2978,6 +3084,7 @@
   "P108": {
     "name": "shah alam",
     "registered_voters": 165744,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Azli Yusof",
@@ -3004,6 +3111,7 @@
   "P109": {
     "name": "kapar",
     "registered_voters": 189369,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Halimah Ali",
@@ -3045,6 +3153,7 @@
   "P110": {
     "name": "klang",
     "registered_voters": 208913,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Ganabatirau Veraman",
@@ -3086,6 +3195,7 @@
   "P111": {
     "name": "kota raja",
     "registered_voters": 244712,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Mohamad Sabu",
@@ -3132,6 +3242,7 @@
   "P112": {
     "name": "kuala langat",
     "registered_voters": 148637,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Ahmad Yunus Hairi",
@@ -3168,6 +3279,7 @@
   "P113": {
     "name": "sepang",
     "registered_voters": 168039,
+    "state": "Selangor",
     "data": [
       {
         "candidate": "Raj Munni Sabu (Aiman Athirah)",
@@ -3214,6 +3326,7 @@
   "P114": {
     "name": "kepong",
     "registered_voters": 94285,
+    "state": "Federal Territories",
     "data": [
       {
         "candidate": "Lim Lip Eng",
@@ -3245,6 +3358,7 @@
   "P115": {
     "name": "batu",
     "registered_voters": 113863,
+    "state": "Federal Territories",
     "data": [
       {
         "candidate": "Prabakaran Parameswaran",
@@ -3301,6 +3415,7 @@
   "P116": {
     "name": "wangsa maju",
     "registered_voters": 120323,
+    "state": "Federal Territories",
     "data": [
       {
         "candidate": "Zahir Hassan",
@@ -3337,6 +3452,7 @@
   "P117": {
     "name": "segambut",
     "registered_voters": 119652,
+    "state": "Federal Territories",
     "data": [
       {
         "candidate": "Hannah Yeoh",
@@ -3358,6 +3474,7 @@
   "P118": {
     "name": "setiawangsa",
     "registered_voters": 95753,
+    "state": "Federal Territories",
     "data": [
       {
         "candidate": "Nik Nazmi Nik Ahmad",
@@ -3394,6 +3511,7 @@
   "P119": {
     "name": "titiwangsa",
     "registered_voters": 80747,
+    "state": "Federal Territories",
     "data": [
       {
         "candidate": "Johari Abdul Ghani",
@@ -3420,6 +3538,7 @@
   "P120": {
     "name": "bukit bintang",
     "registered_voters": 79782,
+    "state": "Federal Territories",
     "data": [
       {
         "candidate": "Fong Kui Lun",
@@ -3441,6 +3560,7 @@
   "P121": {
     "name": "lembah pantai",
     "registered_voters": 101828,
+    "state": "Federal Territories",
     "data": [
       {
         "candidate": "Ahmad Fahmi Muhamed Fadzil",
@@ -3467,6 +3587,7 @@
   "P122": {
     "name": "seputeh",
     "registered_voters": 124805,
+    "state": "Federal Territories",
     "data": [
       {
         "candidate": "Teresa Kok",
@@ -3498,6 +3619,7 @@
   "P123": {
     "name": "cheras",
     "registered_voters": 101184,
+    "state": "Federal Territories",
     "data": [
       {
         "candidate": "Tan Kok Wai",
@@ -3519,6 +3641,7 @@
   "P124": {
     "name": "bandar tun razak",
     "registered_voters": 119185,
+    "state": "Federal Territories",
     "data": [
       {
         "candidate": "Wan Azizah Wan Ismail",
@@ -3540,6 +3663,7 @@
   "P125": {
     "name": "putrajaya",
     "registered_voters": 42881,
+    "state": "Federal Territories",
     "data": [
       {
         "candidate": "Radzi Jidin",
@@ -3576,6 +3700,7 @@
   "P166": {
     "name": "labuan",
     "registered_voters": 44484,
+    "state": "Federal Territories",
     "data": [
       {
         "candidate": "Suhaili Abdul Rahman",
@@ -3612,6 +3737,7 @@
   "P126": {
     "name": "jelebu",
     "registered_voters": 59561,
+    "state": "Negri Sembilan",
     "data": [
       {
         "candidate": "Jalaluddin Alias",
@@ -3638,6 +3764,7 @@
   "P127": {
     "name": "jempol",
     "registered_voters": 95813,
+    "state": "Negri Sembilan",
     "data": [
       {
         "candidate": "Shamshulkahar Mohd Deli",
@@ -3664,6 +3791,7 @@
   "P128": {
     "name": "seremban",
     "registered_voters": 157244,
+    "state": "Negri Sembilan",
     "data": [
       {
         "candidate": "Anthony Loke Siew Fook",
@@ -3695,6 +3823,7 @@
   "P129": {
     "name": "kuala pilah",
     "registered_voters": 63247,
+    "state": "Negri Sembilan",
     "data": [
       {
         "candidate": "Adnan Abu Hassan",
@@ -3726,6 +3855,7 @@
   "P130": {
     "name": "rasah",
     "registered_voters": 155896,
+    "state": "Negri Sembilan",
     "data": [
       {
         "candidate": "Cha Kee Chin",
@@ -3747,6 +3877,7 @@
   "P131": {
     "name": "rembau",
     "registered_voters": 133555,
+    "state": "Negri Sembilan",
     "data": [
       {
         "candidate": "Mohamad Hasan (Tok Mat)",
@@ -3778,6 +3909,7 @@
   "P132": {
     "name": "port dickson",
     "registered_voters": 104450,
+    "state": "Negri Sembilan",
     "data": [
       {
         "candidate": "Aminuddin Harun",
@@ -3809,6 +3941,7 @@
   "P133": {
     "name": "tampin",
     "registered_voters": 81099,
+    "state": "Negri Sembilan",
     "data": [
       {
         "candidate": "Mohd Isam Mohd Isa",
@@ -3835,6 +3968,7 @@
   "P134": {
     "name": "masjid tanah",
     "registered_voters": 69174,
+    "state": "Melaka",
     "data": [
       {
         "candidate": "Mas Ermieyati Samsudin",
@@ -3861,6 +3995,7 @@
   "P135": {
     "name": "alor gajah",
     "registered_voters": 93311,
+    "state": "Melaka",
     "data": [
       {
         "candidate": "Adly Zahari",
@@ -3887,6 +4022,7 @@
   "P136": {
     "name": "tangga batu",
     "registered_voters": 115998,
+    "state": "Melaka",
     "data": [
       {
         "candidate": "Bakri Jamaluddin",
@@ -3918,6 +4054,7 @@
   "P137": {
     "name": "hang tuah jaya",
     "registered_voters": 118493,
+    "state": "Melaka",
     "data": [
       {
         "candidate": "Adam Adli Abdul Halim",
@@ -3944,6 +4081,7 @@
   "P138": {
     "name": "kota melaka",
     "registered_voters": 164140,
+    "state": "Melaka",
     "data": [
       {
         "candidate": "Khoo Poay Tiong",
@@ -3970,6 +4108,7 @@
   "P139": {
     "name": "jasin",
     "registered_voters": 96208,
+    "state": "Melaka",
     "data": [
       {
         "candidate": "Zulkifli Ismail",
@@ -3996,6 +4135,7 @@
   "P140": {
     "name": "segamat",
     "registered_voters": 69360,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Yuneswaran Ramaraj",
@@ -4022,6 +4162,7 @@
   "P141": {
     "name": "sekijang",
     "registered_voters": 63981,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Zaliha Mustafa",
@@ -4053,6 +4194,7 @@
   "P142": {
     "name": "labis",
     "registered_voters": 49846,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Pang Hok Liong",
@@ -4074,6 +4216,7 @@
   "P143": {
     "name": "pagoh",
     "registered_voters": 69939,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Mahiaddin Md Yasin (Muhyiddin Md Yasin)",
@@ -4095,6 +4238,7 @@
   "P144": {
     "name": "ledang",
     "registered_voters": 104577,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Syed Ibrahim Syed Nor",
@@ -4131,6 +4275,7 @@
   "P145": {
     "name": "bakri",
     "registered_voters": 97335,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Tan Hong Pin",
@@ -4157,6 +4302,7 @@
   "P146": {
     "name": "muar",
     "registered_voters": 68925,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Syed Saddiq Syed Abdul Rahman",
@@ -4178,6 +4324,7 @@
   "P147": {
     "name": "parit sulong",
     "registered_voters": 79484,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Noraini Ahmad",
@@ -4199,6 +4346,7 @@
   "P148": {
     "name": "ayer hitam",
     "registered_voters": 61041,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Wee Ka Siong",
@@ -4220,6 +4368,7 @@
   "P149": {
     "name": "sri gading",
     "registered_voters": 78602,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Aminolhuda Hassan (Cikgu Huda)",
@@ -4246,6 +4395,7 @@
   "P150": {
     "name": "batu pahat",
     "registered_voters": 133910,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Onn Abu Bakar",
@@ -4277,6 +4427,7 @@
   "P151": {
     "name": "simpang renggam",
     "registered_voters": 59033,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Hasni Mohammad",
@@ -4303,6 +4454,7 @@
   "P152": {
     "name": "kluang",
     "registered_voters": 132342,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Wong Shu Qi",
@@ -4329,6 +4481,7 @@
   "P153": {
     "name": "sembrong",
     "registered_voters": 54982,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Hishammuddin Hussein",
@@ -4350,6 +4503,7 @@
   "P154": {
     "name": "mersing",
     "registered_voters": 66275,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Muhammad Islahuddin Abas",
@@ -4381,6 +4535,7 @@
   "P155": {
     "name": "tenggara",
     "registered_voters": 67294,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Manndzri Nasib",
@@ -4407,6 +4562,7 @@
   "P156": {
     "name": "kota tinggi",
     "registered_voters": 61291,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Khaled Nordin (Mohamed Khaled Nordin)",
@@ -4428,6 +4584,7 @@
   "P157": {
     "name": "pengerang",
     "registered_voters": 55316,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Azalina Othman Said",
@@ -4449,6 +4606,7 @@
   "P158": {
     "name": "tebrau",
     "registered_voters": 223301,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Jimmy Puah Wee Tse",
@@ -4470,6 +4628,7 @@
   "P159": {
     "name": "pasir gudang",
     "registered_voters": 198485,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Hassan Abdul Karim",
@@ -4496,6 +4655,7 @@
   "P160": {
     "name": "johor bahru",
     "registered_voters": 136368,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Akmal Nasrullah Mohd Nasir",
@@ -4522,6 +4682,7 @@
   "P161": {
     "name": "pulai",
     "registered_voters": 165313,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Salahuddin Ayub",
@@ -4543,6 +4704,7 @@
   "P162": {
     "name": "iskandar puteri",
     "registered_voters": 222437,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Liew Chin Tong",
@@ -4564,6 +4726,7 @@
   "P163": {
     "name": "kulai",
     "registered_voters": 151247,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Teo Nie Ching",
@@ -4585,6 +4748,7 @@
   "P164": {
     "name": "pontian",
     "registered_voters": 75212,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Ahmad Maslan",
@@ -4611,6 +4775,7 @@
   "P165": {
     "name": "tanjung piai",
     "registered_voters": 70679,
+    "state": "Johor",
     "data": [
       {
         "candidate": "Wee Jeck Seng",
@@ -4632,6 +4797,7 @@
   "P167": {
     "name": "kudat",
     "registered_voters": 75724,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Verdon Bahanda",
@@ -4663,6 +4829,7 @@
   "P168": {
     "name": "kota marudu",
     "registered_voters": 80735,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Wetrom Bahanda",
@@ -4699,6 +4866,7 @@
   "P169": {
     "name": "kota belud",
     "registered_voters": 79885,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Munirah Majilis",
@@ -4720,6 +4888,7 @@
   "P170": {
     "name": "tuaran",
     "registered_voters": 83419,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Madius Tangau",
@@ -4756,6 +4925,7 @@
   "P171": {
     "name": "sepanggar",
     "registered_voters": 108370,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Mustapha Sakmud",
@@ -4787,6 +4957,7 @@
   "P172": {
     "name": "kota kinabalu",
     "registered_voters": 74059,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Chan Foong Hin",
@@ -4818,6 +4989,7 @@
   "P173": {
     "name": "putatan",
     "registered_voters": 63173,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Shahelmey Yahya",
@@ -4844,6 +5016,7 @@
   "P174": {
     "name": "penampang",
     "registered_voters": 77214,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Ewon Benedick",
@@ -4870,6 +5043,7 @@
   "P175": {
     "name": "papar",
     "registered_voters": 59942,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Armizan Mohd Ali",
@@ -4906,6 +5080,7 @@
   "P176": {
     "name": "kimanis",
     "registered_voters": 40763,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Mohamad Alamin",
@@ -4937,6 +5112,7 @@
   "P177": {
     "name": "beaufort",
     "registered_voters": 43248,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Siti Aminah Aching",
@@ -4973,6 +5149,7 @@
   "P178": {
     "name": "sipitang",
     "registered_voters": 45871,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Matbali Musah",
@@ -4994,6 +5171,7 @@
   "P179": {
     "name": "ranau",
     "registered_voters": 66517,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Jonathan Yasin",
@@ -5025,6 +5203,7 @@
   "P180": {
     "name": "keningau",
     "registered_voters": 87588,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Jeffrey Gapari Kitingan",
@@ -5051,6 +5230,7 @@
   "P181": {
     "name": "tenom",
     "registered_voters": 42045,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Riduan Rubin",
@@ -5082,6 +5262,7 @@
   "P182": {
     "name": "pensiangan",
     "registered_voters": 55672,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Arthur Joseph Kurup",
@@ -5113,6 +5294,7 @@
   "P183": {
     "name": "beluran",
     "registered_voters": 44727,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Ronald Kiandee",
@@ -5144,6 +5326,7 @@
   "P184": {
     "name": "libaran",
     "registered_voters": 72332,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Suhaimi Nasir",
@@ -5180,6 +5363,7 @@
   "P185": {
     "name": "batu sapi",
     "registered_voters": 43916,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Khairul Firdaus Akbar Khan",
@@ -5211,6 +5395,7 @@
   "P186": {
     "name": "sandakan",
     "registered_voters": 55542,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Vivian Wong Shir Yee",
@@ -5247,6 +5432,7 @@
   "P187": {
     "name": "kinabatangan",
     "registered_voters": 44773,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Bung Moktar Radin",
@@ -5263,6 +5449,7 @@
   "P188": {
     "name": "lahad datu",
     "registered_voters": 100256,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Mohammad Yusof Apdal",
@@ -5284,6 +5471,7 @@
   "P189": {
     "name": "semporna",
     "registered_voters": 72169,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Mohd Shafie Apdal",
@@ -5310,6 +5498,7 @@
   "P190": {
     "name": "tawau",
     "registered_voters": 87477,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Lo Su Fui",
@@ -5346,6 +5535,7 @@
   "P191": {
     "name": "kalabakan",
     "registered_voters": 83970,
+    "state": "Sabah",
     "data": [
       {
         "candidate": "Andi Muhammad Suryady Bandy",
@@ -5377,6 +5567,7 @@
   "P192": {
     "name": "mas gading",
     "registered_voters": 47171,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Mordi Bimol",
@@ -5398,6 +5589,7 @@
   "P193": {
     "name": "santubong",
     "registered_voters": 79540,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Nancy Shukri",
@@ -5419,6 +5611,7 @@
   "P194": {
     "name": "petra jaya",
     "registered_voters": 109809,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Fadillah Yusof",
@@ -5440,6 +5633,7 @@
   "P195": {
     "name": "bandar kuching",
     "registered_voters": 109710,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Kelvin Yii Lee Wuen",
@@ -5461,6 +5655,7 @@
   "P196": {
     "name": "stampin",
     "registered_voters": 121009,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Chong Chieng Jen",
@@ -5482,6 +5677,7 @@
   "P197": {
     "name": "kota samarahan",
     "registered_voters": 82229,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Rubiah Wang",
@@ -5498,6 +5694,7 @@
   "P198": {
     "name": "puncak borneo",
     "registered_voters": 79969,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Willie Mongin",
@@ -5519,6 +5716,7 @@
   "P199": {
     "name": "serian",
     "registered_voters": 65273,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Richard Riot Jaem",
@@ -5545,6 +5743,7 @@
   "P200": {
     "name": "batang sadong",
     "registered_voters": 32640,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Rodiyah Sapiee",
@@ -5561,6 +5760,7 @@
   "P201": {
     "name": "batang lupar",
     "registered_voters": 43072,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Mohamad Shafizan (Kepli)",
@@ -5582,6 +5782,7 @@
   "P202": {
     "name": "sri aman",
     "registered_voters": 50164,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Doris Sophia Brodi",
@@ -5608,6 +5809,7 @@
   "P203": {
     "name": "lubok antu",
     "registered_voters": 28995,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Roy Angau Gingkoi",
@@ -5634,6 +5836,7 @@
   "P204": {
     "name": "betong",
     "registered_voters": 41743,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Richard Rapu",
@@ -5655,6 +5858,7 @@
   "P205": {
     "name": "saratok",
     "registered_voters": 44531,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Ali Biju",
@@ -5676,6 +5880,7 @@
   "P206": {
     "name": "tanjong manis",
     "registered_voters": 32948,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Yusuf Wahab",
@@ -5692,6 +5897,7 @@
   "P207": {
     "name": "igan",
     "registered_voters": 28290,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Ahmad Johnie Zawawi",
@@ -5708,6 +5914,7 @@
   "P208": {
     "name": "sarikei",
     "registered_voters": 55018,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Huang Tiong Sii",
@@ -5724,6 +5931,7 @@
   "P209": {
     "name": "julau",
     "registered_voters": 34850,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Larry Soon @ Larry Sng Wei Shien",
@@ -5750,6 +5958,7 @@
   "P210": {
     "name": "kanowit",
     "registered_voters": 30988,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Aaron Ago Dagang",
@@ -5781,6 +5990,7 @@
   "P211": {
     "name": "lanang",
     "registered_voters": 87356,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Alice Lau Kiong Yieng",
@@ -5807,6 +6017,7 @@
   "P212": {
     "name": "sibu",
     "registered_voters": 105875,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Oscar Ling Chai Yew",
@@ -5828,6 +6039,7 @@
   "P213": {
     "name": "mukah",
     "registered_voters": 46964,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Hanifah Hajar Taib",
@@ -5844,6 +6056,7 @@
   "P214": {
     "name": "selangau",
     "registered_voters": 45743,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Edwin Banta",
@@ -5865,6 +6078,7 @@
   "P215": {
     "name": "kapit",
     "registered_voters": 45210,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Alexander Nanta Linggi",
@@ -5886,6 +6100,7 @@
   "P216": {
     "name": "hulu rajang",
     "registered_voters": 43438,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Ugak Kumbong",
@@ -5902,6 +6117,7 @@
   "P217": {
     "name": "bintulu",
     "registered_voters": 113599,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Tiong King Sing",
@@ -5923,6 +6139,7 @@
   "P218": {
     "name": "sibuti",
     "registered_voters": 58522,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Lukanisman Awang Sauni",
@@ -5944,6 +6161,7 @@
   "P219": {
     "name": "miri",
     "registered_voters": 143229,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Chiew Choon Man",
@@ -5965,6 +6183,7 @@
   "P221": {
     "name": "limbang",
     "registered_voters": 41999,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Hasbi Habibollah",
@@ -5981,6 +6200,7 @@
   "P222": {
     "name": "lawas",
     "registered_voters": 33655,
+    "state": "Sarawak",
     "data": [
       {
         "candidate": "Henry Sum Agong",
