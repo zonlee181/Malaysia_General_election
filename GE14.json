@@ -3,6 +3,7 @@
     "name": "PADANG BESAR",
     "registered_voters": 46096,
     "state": "PERLIS",
+    "number_of_voter": 36500,
     "data": [
       {
         "candidate": "ZAHIDI ZAINUL ABIDIN",
@@ -25,6 +26,7 @@
     "name": "KANGAR",
     "registered_voters": 55938,
     "state": "PERLIS",
+    "number_of_voter": 44680,
     "data": [
       {
         "candidate": "NOOR AMIN AHMAD",
@@ -47,6 +49,7 @@
     "name": "ARAU",
     "registered_voters": 48187,
     "state": "PERLIS",
+    "number_of_voter": 39600,
     "data": [
       {
         "candidate": "SHAHIDAN KASSIM",
@@ -69,6 +72,7 @@
     "name": "LANGKAWI",
     "registered_voters": 42697,
     "state": "KEDAH",
+    "number_of_voter": 34527,
     "data": [
       {
         "candidate": "MAHATHIR MOHAMAD",
@@ -91,6 +95,7 @@
     "name": "JERLUN",
     "registered_voters": 54132,
     "state": "KEDAH",
+    "number_of_voter": 43937,
     "data": [
       {
         "candidate": "MUKHRIZ MAHATHIR",
@@ -113,6 +118,7 @@
     "name": "KUBANG PASU",
     "registered_voters": 73881,
     "state": "KEDAH",
+    "number_of_voter": 60334,
     "data": [
       {
         "candidate": "AMIRUDDIN HAMZAH",
@@ -135,6 +141,7 @@
     "name": "PADANG TERAP",
     "registered_voters": 46644,
     "state": "KEDAH",
+    "number_of_voter": 38923,
     "data": [
       {
         "candidate": "MAHDZIR KHALID",
@@ -157,6 +164,7 @@
     "name": "POKOK SENA",
     "registered_voters": 86892,
     "state": "KEDAH",
+    "number_of_voter": 70750,
     "data": [
       {
         "candidate": "MAHFUZ OMAR",
@@ -179,6 +187,7 @@
     "name": "ALOR SETAR",
     "registered_voters": 80272,
     "state": "KEDAH",
+    "number_of_voter": 63931,
     "data": [
       {
         "candidate": "CHAN MING KAI",
@@ -201,6 +210,7 @@
     "name": "KUALA KEDAH",
     "registered_voters": 97753,
     "state": "KEDAH",
+    "number_of_voter": 79167,
     "data": [
       {
         "candidate": "AZMAN ISMAIL",
@@ -223,6 +233,7 @@
     "name": "PENDANG",
     "registered_voters": 74867,
     "state": "KEDAH",
+    "number_of_voter": 62246,
     "data": [
       {
         "candidate": "AWANG SOLAHUDIN",
@@ -250,6 +261,7 @@
     "name": "JERAI",
     "registered_voters": 79976,
     "state": "KEDAH",
+    "number_of_voter": 65736,
     "data": [
       {
         "candidate": "SABRI AZIT",
@@ -272,6 +284,7 @@
     "name": "SIK",
     "registered_voters": 50385,
     "state": "KEDAH",
+    "number_of_voter": 41928,
     "data": [
       {
         "candidate": "AHMAD TARMIZI SULAIMAN",
@@ -294,6 +307,7 @@
     "name": "MERBOK",
     "registered_voters": 87782,
     "state": "KEDAH",
+    "number_of_voter": 71350,
     "data": [
       {
         "candidate": "NOR AZRINA SURIP",
@@ -316,6 +330,7 @@
     "name": "SUNGAI PETANI",
     "registered_voters": 112577,
     "state": "KEDAH",
+    "number_of_voter": 92534,
     "data": [
       {
         "candidate": "JOHARI ABDUL",
@@ -343,6 +358,7 @@
     "name": "BALING",
     "registered_voters": 107213,
     "state": "KEDAH",
+    "number_of_voter": 90512,
     "data": [
       {
         "candidate": "ABDUL AZEEZ ABDUL RAHIM",
@@ -365,6 +381,7 @@
     "name": "PADANG SERAI",
     "registered_voters": 84834,
     "state": "KEDAH",
+    "number_of_voter": 70084,
     "data": [
       {
         "candidate": "KARUPAIYA MUTUSAMI",
@@ -387,6 +404,7 @@
     "name": "KULIM-BANDAR BAHARU",
     "registered_voters": 66587,
     "state": "KEDAH",
+    "number_of_voter": 54343,
     "data": [
       {
         "candidate": "SAIFUDDIN NASUTION ISMAIL",
@@ -409,6 +427,7 @@
     "name": "TUMPAT",
     "registered_voters": 110924,
     "state": "KELANTAN",
+    "number_of_voter": 86585,
     "data": [
       {
         "candidate": "CHE ABDULLAH MAT NAWI",
@@ -431,6 +450,7 @@
     "name": "PENGKALAN CHEPA",
     "registered_voters": 75384,
     "state": "KELANTAN",
+    "number_of_voter": 59387,
     "data": [
       {
         "candidate": "AHMAD MARZUK SHAARY",
@@ -453,6 +473,7 @@
     "name": "KOTA BHARU",
     "registered_voters": 88708,
     "state": "KELANTAN",
+    "number_of_voter": 66969,
     "data": [
       {
         "candidate": "TAKIYUDDIN HASSAN",
@@ -475,6 +496,7 @@
     "name": "PASIR MAS",
     "registered_voters": 71222,
     "state": "KELANTAN",
+    "number_of_voter": 53551,
     "data": [
       {
         "candidate": "AHMAD FADHLI SHAARI",
@@ -502,6 +524,7 @@
     "name": "RANTAU PANJANG",
     "registered_voters": 66115,
     "state": "KELANTAN",
+    "number_of_voter": 48373,
     "data": [
       {
         "candidate": "SITI ZAILAH MOHD YUSOFF",
@@ -524,6 +547,7 @@
     "name": "KUBANG KERIAN",
     "registered_voters": 82018,
     "state": "KELANTAN",
+    "number_of_voter": 63428,
     "data": [
       {
         "candidate": "TUAN IBRAHIM TUAN MAN",
@@ -546,6 +570,7 @@
     "name": "BACHOK",
     "registered_voters": 92606,
     "state": "KELANTAN",
+    "number_of_voter": 73964,
     "data": [
       {
         "candidate": "NIK MOHAMAD ABDUH NIK ABD AZIZ",
@@ -568,6 +593,7 @@
     "name": "KETEREH",
     "registered_voters": 65238,
     "state": "KELANTAN",
+    "number_of_voter": 53107,
     "data": [
       {
         "candidate": "ANNUAR MUSA",
@@ -590,6 +616,7 @@
     "name": "TANAH MERAH",
     "registered_voters": 73172,
     "state": "KELANTAN",
+    "number_of_voter": 58122,
     "data": [
       {
         "candidate": "IKMAL HISHAM ABDUL AZIZ",
@@ -612,6 +639,7 @@
     "name": "PASIR PUTEH",
     "registered_voters": 85411,
     "state": "KELANTAN",
+    "number_of_voter": 68150,
     "data": [
       {
         "candidate": "NIK MUHAMMAD ZAWAWI SALLEH",
@@ -634,6 +662,7 @@
     "name": "MACHANG",
     "registered_voters": 68387,
     "state": "KELANTAN",
+    "number_of_voter": 55023,
     "data": [
       {
         "candidate": "AHMAD JAZLAN YAAKUB",
@@ -656,6 +685,7 @@
     "name": "JELI",
     "registered_voters": 47470,
     "state": "KELANTAN",
+    "number_of_voter": 38761,
     "data": [
       {
         "candidate": "MUSTAPA MOHAMED",
@@ -678,6 +708,7 @@
     "name": "KUALA KRAI",
     "registered_voters": 70348,
     "state": "KELANTAN",
+    "number_of_voter": 54987,
     "data": [
       {
         "candidate": "ABDUL LATIFF ABDUL RAHMAN",
@@ -700,6 +731,7 @@
     "name": "GUA MUSANG",
     "registered_voters": 52524,
     "state": "KELANTAN",
+    "number_of_voter": 39936,
     "data": [
       {
         "candidate": "TENGKU RAZALEIGH TENGKU MOHD HAMZAH",
@@ -722,6 +754,7 @@
     "name": "BESUT",
     "registered_voters": 86627,
     "state": "TERENGGANU",
+    "number_of_voter": 70935,
     "data": [
       {
         "candidate": "IDRIS JUSOH",
@@ -744,6 +777,7 @@
     "name": "SETIU",
     "registered_voters": 86247,
     "state": "TERENGGANU",
+    "number_of_voter": 71978,
     "data": [
       {
         "candidate": "SHAHARIZUKIRNAIN ABD KADIR",
@@ -766,6 +800,7 @@
     "name": "KUALA NERUS",
     "registered_voters": 83663,
     "state": "TERENGGANU",
+    "number_of_voter": 72105,
     "data": [
       {
         "candidate": "MOHD KHAIRUDDIN AMAN RAZALI",
@@ -788,6 +823,7 @@
     "name": "KUALA TERENGGANU",
     "registered_voters": 103611,
     "state": "TERENGGANU",
+    "number_of_voter": 86583,
     "data": [
       {
         "candidate": "AHMAD AMZAD MOHAMED @ HASHIM",
@@ -810,6 +846,7 @@
     "name": "MARANG",
     "registered_voters": 104898,
     "state": "TERENGGANU",
+    "number_of_voter": 90682,
     "data": [
       {
         "candidate": "ABDUL HADI AWANG",
@@ -832,6 +869,7 @@
     "name": "HULU TERENGGANU",
     "registered_voters": 73487,
     "state": "TERENGGANU",
+    "number_of_voter": 62346,
     "data": [
       {
         "candidate": "ROSOL WAHID",
@@ -854,6 +892,7 @@
     "name": "DUNGUN",
     "registered_voters": 90506,
     "state": "TERENGGANU",
+    "number_of_voter": 75414,
     "data": [
       {
         "candidate": "WAN HASSAN MOHD RAMLI",
@@ -876,6 +915,7 @@
     "name": "KEMAMAN",
     "registered_voters": 107593,
     "state": "TERENGGANU",
+    "number_of_voter": 90504,
     "data": [
       {
         "candidate": "CHE ALIAS HAMID",
@@ -898,6 +938,7 @@
     "name": "KEPALA BATAS",
     "registered_voters": 60523,
     "state": "PENANG",
+    "number_of_voter": 52302,
     "data": [
       {
         "candidate": "REEZAL MERICAN NAINA MERICAN",
@@ -920,6 +961,7 @@
     "name": "TASEK GELUGOR",
     "registered_voters": 60850,
     "state": "PENANG",
+    "number_of_voter": 51904,
     "data": [
       {
         "candidate": "SHABUDIN YAHAYA",
@@ -942,6 +984,7 @@
     "name": "BAGAN",
     "registered_voters": 71583,
     "state": "PENANG",
+    "number_of_voter": 60087,
     "data": [
       {
         "candidate": "LIM GUAN ENG",
@@ -969,6 +1012,7 @@
     "name": "PERMATANG PAUH",
     "registered_voters": 81789,
     "state": "PENANG",
+    "number_of_voter": 69828,
     "data": [
       {
         "candidate": "NURUL IZZAH ANWAR",
@@ -991,6 +1035,7 @@
     "name": "BUKIT MERTAJAM",
     "registered_voters": 88998,
     "state": "PENANG",
+    "number_of_voter": 74691,
     "data": [
       {
         "candidate": "SIM CHEE KEONG",
@@ -1008,6 +1053,7 @@
     "name": "BATU KAWAN",
     "registered_voters": 65394,
     "state": "PENANG",
+    "number_of_voter": 54705,
     "data": [
       {
         "candidate": "KASTHURIRAANI PATTO",
@@ -1035,6 +1081,7 @@
     "name": "NIBONG TEBAL",
     "registered_voters": 73383,
     "state": "PENANG",
+    "number_of_voter": 62179,
     "data": [
       {
         "candidate": "MANSOR OTHMAN",
@@ -1062,6 +1109,7 @@
     "name": "BUKIT BENDERA",
     "registered_voters": 75069,
     "state": "PENANG",
+    "number_of_voter": 59706,
     "data": [
       {
         "candidate": "WONG HON WAI",
@@ -1084,6 +1132,7 @@
     "name": "TANJONG",
     "registered_voters": 49586,
     "state": "PENANG",
+    "number_of_voter": 39727,
     "data": [
       {
         "candidate": "CHOW KON YEOW",
@@ -1101,6 +1150,7 @@
     "name": "JELUTONG",
     "registered_voters": 76991,
     "state": "PENANG",
+    "number_of_voter": 63666,
     "data": [
       {
         "candidate": "SANISVARA NETHAJI RAYER RAJAJI",
@@ -1123,6 +1173,7 @@
     "name": "BUKIT GELUGOR",
     "registered_voters": 91595,
     "state": "PENANG",
+    "number_of_voter": 75705,
     "data": [
       {
         "candidate": "RAMKARPAL SINGH KARPAL SINGH",
@@ -1145,6 +1196,7 @@
     "name": "BAYAN BARU",
     "registered_voters": 90780,
     "state": "PENANG",
+    "number_of_voter": 74849,
     "data": [
       {
         "candidate": "SIM TZE TZIN",
@@ -1172,6 +1224,7 @@
     "name": "BALIK PULAU",
     "registered_voters": 59086,
     "state": "PENANG",
+    "number_of_voter": 49776,
     "data": [
       {
         "candidate": "MUHAMMAD BAKHTIAR WAN CHIK",
@@ -1194,6 +1247,7 @@
     "name": "GERIK",
     "registered_voters": 35903,
     "state": "PERAK",
+    "number_of_voter": 27311,
     "data": [
       {
         "candidate": "HASBULLAH OSMAN",
@@ -1216,6 +1270,7 @@
     "name": "LENGGONG",
     "registered_voters": 29752,
     "state": "PERAK",
+    "number_of_voter": 23205,
     "data": [
       {
         "candidate": "SHAMSUL ANUAR NASARAH",
@@ -1238,6 +1293,7 @@
     "name": "LARUT",
     "registered_voters": 49453,
     "state": "PERAK",
+    "number_of_voter": 39620,
     "data": [
       {
         "candidate": "HAMZAH ZAINUDIN",
@@ -1260,6 +1316,7 @@
     "name": "PARIT BUNTAR",
     "registered_voters": 51860,
     "state": "PERAK",
+    "number_of_voter": 42720,
     "data": [
       {
         "candidate": "MUJAHID YUSOF",
@@ -1282,6 +1339,7 @@
     "name": "BAGAN SERAI",
     "registered_voters": 59293,
     "state": "PERAK",
+    "number_of_voter": 47255,
     "data": [
       {
         "candidate": "NOOR AZMI GHAZALI",
@@ -1304,6 +1362,7 @@
     "name": "BUKIT GANTANG",
     "registered_voters": 69873,
     "state": "PERAK",
+    "number_of_voter": 56863,
     "data": [
       {
         "candidate": "SYED ABU HUSSIN HAFIZ SYED ABDUL FASAL",
@@ -1326,6 +1385,7 @@
     "name": "TAIPING",
     "registered_voters": 90729,
     "state": "PERAK",
+    "number_of_voter": 69743,
     "data": [
       {
         "candidate": "TEH KOK LIM",
@@ -1348,6 +1408,7 @@
     "name": "PADANG RENGAS",
     "registered_voters": 30996,
     "state": "PERAK",
+    "number_of_voter": 25281,
     "data": [
       {
         "candidate": "MOHAMED NAZRI ABDUL AZIZ",
@@ -1370,6 +1431,7 @@
     "name": "SUNGAI SIPUT",
     "registered_voters": 55002,
     "state": "PERAK",
+    "number_of_voter": 42726,
     "data": [
       {
         "candidate": "KESAVAN SUBRAMANIAM",
@@ -1397,6 +1459,7 @@
     "name": "TAMBUN",
     "registered_voters": 107763,
     "state": "PERAK",
+    "number_of_voter": 86950,
     "data": [
       {
         "candidate": "AHMAD FAIZAL AZUMU",
@@ -1419,6 +1482,7 @@
     "name": "IPOH TIMOR",
     "registered_voters": 91486,
     "state": "PERAK",
+    "number_of_voter": 70241,
     "data": [
       {
         "candidate": "WONG KAH WOH",
@@ -1436,6 +1500,7 @@
     "name": "IPOH BARAT",
     "registered_voters": 84874,
     "state": "PERAK",
+    "number_of_voter": 65502,
     "data": [
       {
         "candidate": "KULASEGARAN MURUGESON",
@@ -1453,6 +1518,7 @@
     "name": "BATU GAJAH",
     "registered_voters": 81399,
     "state": "PERAK",
+    "number_of_voter": 62787,
     "data": [
       {
         "candidate": "SIVAKUMAR VARATHARAJU NAIDU",
@@ -1475,6 +1541,7 @@
     "name": "KUALA KANGSAR",
     "registered_voters": 36954,
     "state": "PERAK",
+    "number_of_voter": 30056,
     "data": [
       {
         "candidate": "MASTURA MOHD YAZID",
@@ -1497,6 +1564,7 @@
     "name": "BERUAS",
     "registered_voters": 79794,
     "state": "PERAK",
+    "number_of_voter": 60267,
     "data": [
       {
         "candidate": "NGEH KOO HAM",
@@ -1519,6 +1587,7 @@
     "name": "PARIT",
     "registered_voters": 35910,
     "state": "PERAK",
+    "number_of_voter": 28990,
     "data": [
       {
         "candidate": "MOHD NIZAR ZAKARIA",
@@ -1541,6 +1610,7 @@
     "name": "KAMPAR",
     "registered_voters": 69436,
     "state": "PERAK",
+    "number_of_voter": 52495,
     "data": [
       {
         "candidate": "SU KEONG SIONG",
@@ -1563,6 +1633,7 @@
     "name": "GOPENG",
     "registered_voters": 99167,
     "state": "PERAK",
+    "number_of_voter": 79233,
     "data": [
       {
         "candidate": "LEE BOON CHYE",
@@ -1585,6 +1656,7 @@
     "name": "TAPAH",
     "registered_voters": 47128,
     "state": "PERAK",
+    "number_of_voter": 36174,
     "data": [
       {
         "candidate": "SARAVANAN MURUGAN",
@@ -1607,6 +1679,7 @@
     "name": "PASIR SALAK",
     "registered_voters": 54671,
     "state": "PERAK",
+    "number_of_voter": 43445,
     "data": [
       {
         "candidate": "TAJUDDIN ABDUL RAHMAN",
@@ -1629,6 +1702,7 @@
     "name": "LUMUT",
     "registered_voters": 67157,
     "state": "PERAK",
+    "number_of_voter": 53645,
     "data": [
       {
         "candidate": "MOHD HATTA MD RAMLI",
@@ -1651,6 +1725,7 @@
     "name": "BAGAN DATUK",
     "registered_voters": 47309,
     "state": "PERAK",
+    "number_of_voter": 36806,
     "data": [
       {
         "candidate": "AHMAD ZAHID HAMIDI",
@@ -1673,6 +1748,7 @@
     "name": "TELUK INTAN",
     "registered_voters": 66487,
     "state": "PERAK",
+    "number_of_voter": 53655,
     "data": [
       {
         "candidate": "NGA KOR MING",
@@ -1695,6 +1771,7 @@
     "name": "TANJONG MALIM",
     "registered_voters": 68468,
     "state": "PERAK",
+    "number_of_voter": 54297,
     "data": [
       {
         "candidate": "CHANG LIH KANG",
@@ -1717,6 +1794,7 @@
     "name": "CAMERON HIGHLANDS",
     "registered_voters": 32048,
     "state": "PAHANG",
+    "number_of_voter": 24365,
     "data": [
       {
         "candidate": "SIVARAJ CHANDRAN",
@@ -1749,6 +1827,7 @@
     "name": "LIPIS",
     "registered_voters": 35294,
     "state": "PAHANG",
+    "number_of_voter": 28092,
     "data": [
       {
         "candidate": "ABDUL RAHMAN MOHAMAD",
@@ -1771,6 +1850,7 @@
     "name": "RAUB",
     "registered_voters": 57723,
     "state": "PAHANG",
+    "number_of_voter": 46025,
     "data": [
       {
         "candidate": "TENGKU ZULPURI SHAH RAJA PUJI",
@@ -1793,6 +1873,7 @@
     "name": "JERANTUT",
     "registered_voters": 63609,
     "state": "PAHANG",
+    "number_of_voter": 50249,
     "data": [
       {
         "candidate": "AHMAD NAZLAN IDRIS",
@@ -1815,6 +1896,7 @@
     "name": "INDERA MAHKOTA",
     "registered_voters": 77208,
     "state": "PAHANG",
+    "number_of_voter": 63721,
     "data": [
       {
         "candidate": "SAIFUDDIN ABDULLAH",
@@ -1837,6 +1919,7 @@
     "name": "KUANTAN",
     "registered_voters": 62696,
     "state": "PAHANG",
+    "number_of_voter": 51170,
     "data": [
       {
         "candidate": "FUZIAH SALLEH",
@@ -1859,6 +1942,7 @@
     "name": "PAYA BESAR",
     "registered_voters": 55135,
     "state": "PAHANG",
+    "number_of_voter": 44100,
     "data": [
       {
         "candidate": "MOHD SHAHAR ABDULLAH",
@@ -1881,6 +1965,7 @@
     "name": "PEKAN",
     "registered_voters": 88899,
     "state": "PAHANG",
+    "number_of_voter": 70614,
     "data": [
       {
         "candidate": "MOHD NAJIB ABD RAZAK",
@@ -1908,6 +1993,7 @@
     "name": "MARAN",
     "registered_voters": 41036,
     "state": "PAHANG",
+    "number_of_voter": 32725,
     "data": [
       {
         "candidate": "ISMAIL ABD MUTTALIB",
@@ -1930,6 +2016,7 @@
     "name": "KUALA KRAU",
     "registered_voters": 47264,
     "state": "PAHANG",
+    "number_of_voter": 38311,
     "data": [
       {
         "candidate": "ISMAIL MOHAMED SAID",
@@ -1952,6 +2039,7 @@
     "name": "TEMERLOH",
     "registered_voters": 75081,
     "state": "PAHANG",
+    "number_of_voter": 61050,
     "data": [
       {
         "candidate": "MOHD ANUAR MOHD TAHIR",
@@ -1984,6 +2072,7 @@
     "name": "BENTONG",
     "registered_voters": 67359,
     "state": "PAHANG",
+    "number_of_voter": 55106,
     "data": [
       {
         "candidate": "WONG TACK",
@@ -2006,6 +2095,7 @@
     "name": "BERA",
     "registered_voters": 58711,
     "state": "PAHANG",
+    "number_of_voter": 47305,
     "data": [
       {
         "candidate": "ISMAIL SABRI YAAKOB",
@@ -2028,6 +2118,7 @@
     "name": "ROMPIN",
     "registered_voters": 61918,
     "state": "PAHANG",
+    "number_of_voter": 49737,
     "data": [
       {
         "candidate": "HASAN ARIFIN",
@@ -2050,6 +2141,7 @@
     "name": "SABAK BERNAM",
     "registered_voters": 40863,
     "state": "SELANGOR",
+    "number_of_voter": 33350,
     "data": [
       {
         "candidate": "MOHD FASIAH MOHD FAKEH",
@@ -2072,6 +2164,7 @@
     "name": "SUNGAI BESAR",
     "registered_voters": 48739,
     "state": "SELANGOR",
+    "number_of_voter": 41206,
     "data": [
       {
         "candidate": "MUSLIMIN YAHAYA",
@@ -2094,6 +2187,7 @@
     "name": "HULU SELANGOR",
     "registered_voters": 100990,
     "state": "SELANGOR",
+    "number_of_voter": 85221,
     "data": [
       {
         "candidate": "LEOW HSIAD HUI",
@@ -2121,6 +2215,7 @@
     "name": "TANJONG KARANG",
     "registered_voters": 47198,
     "state": "SELANGOR",
+    "number_of_voter": 40498,
     "data": [
       {
         "candidate": "NOH OMAR",
@@ -2143,6 +2238,7 @@
     "name": "KUALA SELANGOR",
     "registered_voters": 69397,
     "state": "SELANGOR",
+    "number_of_voter": 59721,
     "data": [
       {
         "candidate": "DZULKEFLY AHMAD",
@@ -2165,6 +2261,7 @@
     "name": "SELAYANG",
     "registered_voters": 116176,
     "state": "SELANGOR",
+    "number_of_voter": 98002,
     "data": [
       {
         "candidate": "WILLIAM LEONG JEE KEEN",
@@ -2187,6 +2284,7 @@
     "name": "GOMBAK",
     "registered_voters": 141112,
     "state": "SELANGOR",
+    "number_of_voter": 119042,
     "data": [
       {
         "candidate": "MOHAMED AZMIN ALI",
@@ -2209,6 +2307,7 @@
     "name": "AMPANG",
     "registered_voters": 91737,
     "state": "SELANGOR",
+    "number_of_voter": 76550,
     "data": [
       {
         "candidate": "ZURAIDA KAMARUDDIN",
@@ -2236,6 +2335,7 @@
     "name": "PANDAN",
     "registered_voters": 101319,
     "state": "SELANGOR",
+    "number_of_voter": 85774,
     "data": [
       {
         "candidate": "WAN AZIZAH WAN ISMAIL",
@@ -2268,6 +2368,7 @@
     "name": "HULU LANGAT",
     "registered_voters": 102363,
     "state": "SELANGOR",
+    "number_of_voter": 88247,
     "data": [
       {
         "candidate": "HASANUDDIN MOHD YUNUS",
@@ -2290,6 +2391,7 @@
     "name": "BANGI",
     "registered_voters": 178790,
     "state": "SELANGOR",
+    "number_of_voter": 156327,
     "data": [
       {
         "candidate": "ONG KIAN MING",
@@ -2317,6 +2419,7 @@
     "name": "PUCHONG",
     "registered_voters": 96437,
     "state": "SELANGOR",
+    "number_of_voter": 83478,
     "data": [
       {
         "candidate": "GOBIND SINGH DEO",
@@ -2339,6 +2442,7 @@
     "name": "SUBANG",
     "registered_voters": 146422,
     "state": "SELANGOR",
+    "number_of_voter": 125705,
     "data": [
       {
         "candidate": "WONG CHEN",
@@ -2366,6 +2470,7 @@
     "name": "PETALING JAYA",
     "registered_voters": 140920,
     "state": "SELANGOR",
+    "number_of_voter": 115279,
     "data": [
       {
         "candidate": "MARIA CHIN ABDULLAH",
@@ -2388,6 +2493,7 @@
     "name": "DAMANSARA",
     "registered_voters": 164322,
     "state": "SELANGOR",
+    "number_of_voter": 136280,
     "data": [
       {
         "candidate": "PUA KIAM WEE",
@@ -2410,6 +2516,7 @@
     "name": "SUNGAI BULOH",
     "registered_voters": 90707,
     "state": "SELANGOR",
+    "number_of_voter": 77951,
     "data": [
       {
         "candidate": "SIVARASA RASIAH",
@@ -2437,6 +2544,7 @@
     "name": "SHAH ALAM",
     "registered_voters": 107316,
     "state": "SELANGOR",
+    "number_of_voter": 93243,
     "data": [
       {
         "candidate": "KHALID ABD SAMAD",
@@ -2459,6 +2567,7 @@
     "name": "KAPAR",
     "registered_voters": 124983,
     "state": "SELANGOR",
+    "number_of_voter": 106093,
     "data": [
       {
         "candidate": "ABDULLAH SANI ABDUL HAMID",
@@ -2486,6 +2595,7 @@
     "name": "KLANG",
     "registered_voters": 149348,
     "state": "SELANGOR",
+    "number_of_voter": 127074,
     "data": [
       {
         "candidate": "CHARLES ANTHONY R SANTIAGO",
@@ -2513,6 +2623,7 @@
     "name": "KOTA RAJA",
     "registered_voters": 149021,
     "state": "SELANGOR",
+    "number_of_voter": 128126,
     "data": [
       {
         "candidate": "MOHAMAD SABU",
@@ -2535,6 +2646,7 @@
     "name": "KUALA LANGAT",
     "registered_voters": 102406,
     "state": "SELANGOR",
+    "number_of_voter": 88097,
     "data": [
       {
         "candidate": "XAVIER JAYAKUMAR ARULANANDAM",
@@ -2557,6 +2669,7 @@
     "name": "SEPANG",
     "registered_voters": 104508,
     "state": "SELANGOR",
+    "number_of_voter": 90657,
     "data": [
       {
         "candidate": "MOHAMED HANIPA MAIDIN",
@@ -2579,6 +2692,7 @@
     "name": "KEPONG",
     "registered_voters": 72696,
     "state": "FEDERAL TERRITORIES",
+    "number_of_voter": 61404,
     "data": [
       {
         "candidate": "LIM LIP ENG",
@@ -2596,6 +2710,7 @@
     "name": "BATU",
     "registered_voters": 76328,
     "state": "FEDERAL TERRITORIES",
+    "number_of_voter": 62805,
     "data": [
       {
         "candidate": "PRABAKARAN PARAMESWARAN",
@@ -2623,6 +2738,7 @@
     "name": "WANGSA MAJU",
     "registered_voters": 88482,
     "state": "FEDERAL TERRITORIES",
+    "number_of_voter": 73608,
     "data": [
       {
         "candidate": "TAN YEE KEW",
@@ -2645,6 +2761,7 @@
     "name": "SEGAMBUT",
     "registered_voters": 77956,
     "state": "FEDERAL TERRITORIES",
+    "number_of_voter": 64727,
     "data": [
       {
         "candidate": "HANNAH YEOH",
@@ -2667,6 +2784,7 @@
     "name": "SETIAWANGSA",
     "registered_voters": 72136,
     "state": "FEDERAL TERRITORIES",
+    "number_of_voter": 60852,
     "data": [
       {
         "candidate": "NIK NAZMI NIK AHMAD",
@@ -2689,6 +2807,7 @@
     "name": "TITIWANGSA",
     "registered_voters": 61598,
     "state": "FEDERAL TERRITORIES",
+    "number_of_voter": 50386,
     "data": [
       {
         "candidate": "RINA MOHD HARUN",
@@ -2711,6 +2830,7 @@
     "name": "BUKIT BINTANG",
     "registered_voters": 69526,
     "state": "FEDERAL TERRITORIES",
+    "number_of_voter": 52408,
     "data": [
       {
         "candidate": "FONG KUI LUN",
@@ -2733,6 +2853,7 @@
     "name": "LEMBAH PANTAI",
     "registered_voters": 80346,
     "state": "FEDERAL TERRITORIES",
+    "number_of_voter": 66305,
     "data": [
       {
         "candidate": "AHMAD FAHMI MOHAMED FADZIL",
@@ -2755,6 +2876,7 @@
     "name": "SEPUTEH",
     "registered_voters": 86256,
     "state": "FEDERAL TERRITORIES",
+    "number_of_voter": 70129,
     "data": [
       {
         "candidate": "TERESA KOK SUH SIM",
@@ -2772,6 +2894,7 @@
     "name": "CHERAS",
     "registered_voters": 78819,
     "state": "FEDERAL TERRITORIES",
+    "number_of_voter": 63677,
     "data": [
       {
         "candidate": "TAN KOK WAI",
@@ -2789,6 +2912,7 @@
     "name": "BANDAR TUN RAZAK",
     "registered_voters": 83650,
     "state": "FEDERAL TERRITORIES",
+    "number_of_voter": 70206,
     "data": [
       {
         "candidate": "KAMARUDIN JAFFAR",
@@ -2811,6 +2935,7 @@
     "name": "PUTRAJAYA",
     "registered_voters": 27306,
     "state": "FEDERAL TERRITORIES",
+    "number_of_voter": 24558,
     "data": [
       {
         "candidate": "TENGKU ADNAN TENGKU MANSOR",
@@ -2833,6 +2958,7 @@
     "name": "LABUAN",
     "registered_voters": 28356,
     "state": "FEDERAL TERRITORIES",
+    "number_of_voter": 21358,
     "data": [
       {
         "candidate": "ROZMAN ISLI",
@@ -2860,6 +2986,7 @@
     "name": "JELEBU",
     "registered_voters": 48522,
     "state": "NEGRI SEMBILAN",
+    "number_of_voter": 38957,
     "data": [
       {
         "candidate": "JALALUDIN ALIAS",
@@ -2882,6 +3009,7 @@
     "name": "JEMPOL",
     "registered_voters": 72122,
     "state": "NEGRI SEMBILAN",
+    "number_of_voter": 57274,
     "data": [
       {
         "candidate": "MOHD SALIM SHARIF",
@@ -2904,6 +3032,7 @@
     "name": "SEREMBAN",
     "registered_voters": 110168,
     "state": "NEGRI SEMBILAN",
+    "number_of_voter": 91818,
     "data": [
       {
         "candidate": "LOKE SIEW FOOK",
@@ -2926,6 +3055,7 @@
     "name": "KUALA PILAH",
     "registered_voters": 49801,
     "state": "NEGRI SEMBILAN",
+    "number_of_voter": 40237,
     "data": [
       {
         "candidate": "EDDIN SYAZLEE SHITH",
@@ -2948,6 +3078,7 @@
     "name": "RASAH",
     "registered_voters": 102838,
     "state": "NEGRI SEMBILAN",
+    "number_of_voter": 85307,
     "data": [
       {
         "candidate": "CHA KEE CHIN",
@@ -2975,6 +3106,7 @@
     "name": "REMBAU",
     "registered_voters": 88365,
     "state": "NEGRI SEMBILAN",
+    "number_of_voter": 73856,
     "data": [
       {
         "candidate": "KHAIRY JAMALUDIN ABU BAKAR",
@@ -2997,6 +3129,7 @@
     "name": "PORT DICKSON",
     "registered_voters": 75212,
     "state": "NEGRI SEMBILAN",
+    "number_of_voter": 61334,
     "data": [
       {
         "candidate": "DANYAL BALAGOPAL ABDULLAH",
@@ -3019,6 +3152,7 @@
     "name": "TAMPIN",
     "registered_voters": 60765,
     "state": "NEGRI SEMBILAN",
+    "number_of_voter": 48466,
     "data": [
       {
         "candidate": "HASAN BAHROM",
@@ -3041,6 +3175,7 @@
     "name": "MASJID TANAH",
     "registered_voters": 51441,
     "state": "MELAKA",
+    "number_of_voter": 42325,
     "data": [
       {
         "candidate": "MAS ERMIEYATI SAMSUDIN",
@@ -3063,6 +3198,7 @@
     "name": "ALOR GAJAH",
     "registered_voters": 70364,
     "state": "MELAKA",
+    "number_of_voter": 57815,
     "data": [
       {
         "candidate": "MOHD REDZUAN MD YUSOF",
@@ -3085,6 +3221,7 @@
     "name": "TANGGA BATU",
     "registered_voters": 83213,
     "state": "MELAKA",
+    "number_of_voter": 69142,
     "data": [
       {
         "candidate": "RUSNAH ALUAI",
@@ -3107,6 +3244,7 @@
     "name": "HANG TUAH JAYA",
     "registered_voters": 89364,
     "state": "MELAKA",
+    "number_of_voter": 76583,
     "data": [
       {
         "candidate": "SHAMSUL ISKANDAR @ YUSRE MOHD AKIN",
@@ -3129,6 +3267,7 @@
     "name": "KOTA MELAKA",
     "registered_voters": 126848,
     "state": "MELAKA",
+    "number_of_voter": 105276,
     "data": [
       {
         "candidate": "KHOO POAY TIONG",
@@ -3151,6 +3290,7 @@
     "name": "JASIN",
     "registered_voters": 73432,
     "state": "MELAKA",
+    "number_of_voter": 61761,
     "data": [
       {
         "candidate": "AHMAD HAMZAH",
@@ -3173,6 +3313,7 @@
     "name": "SEGAMAT",
     "registered_voters": 55350,
     "state": "JOHOR",
+    "number_of_voter": 45320,
     "data": [
       {
         "candidate": "SANTHARA KUMAR RAMANAIDU",
@@ -3195,6 +3336,7 @@
     "name": "SEKIJANG",
     "registered_voters": 45596,
     "state": "JOHOR",
+    "number_of_voter": 37837,
     "data": [
       {
         "candidate": "NATRAH ISMAIL",
@@ -3212,6 +3354,7 @@
     "name": "LABIS",
     "registered_voters": 40356,
     "state": "JOHOR",
+    "number_of_voter": 32030,
     "data": [
       {
         "candidate": "PANG HOK LIONG",
@@ -3234,6 +3377,7 @@
     "name": "PAGOH",
     "registered_voters": 51512,
     "state": "JOHOR",
+    "number_of_voter": 42672,
     "data": [
       {
         "candidate": "MUHYIDDIN YASSIN",
@@ -3256,6 +3400,7 @@
     "name": "LEDANG",
     "registered_voters": 77474,
     "state": "JOHOR",
+    "number_of_voter": 65414,
     "data": [
       {
         "candidate": "SYED IBRAHIM SYED NOR",
@@ -3278,6 +3423,7 @@
     "name": "BAKRI",
     "registered_voters": 73883,
     "state": "JOHOR",
+    "number_of_voter": 61800,
     "data": [
       {
         "candidate": "YEO BEE YIN",
@@ -3300,6 +3446,7 @@
     "name": "MUAR",
     "registered_voters": 50843,
     "state": "JOHOR",
+    "number_of_voter": 42083,
     "data": [
       {
         "candidate": "SYED SADDIQ SYED ABDUL RAHMAN",
@@ -3322,6 +3469,7 @@
     "name": "PARIT SULONG",
     "registered_voters": 59609,
     "state": "JOHOR",
+    "number_of_voter": 49769,
     "data": [
       {
         "candidate": "NORAINI AHMAD",
@@ -3344,6 +3492,7 @@
     "name": "AYER HITAM",
     "registered_voters": 46157,
     "state": "JOHOR",
+    "number_of_voter": 38824,
     "data": [
       {
         "candidate": "WEE KA SIONG",
@@ -3366,6 +3515,7 @@
     "name": "SRI GADING",
     "registered_voters": 52119,
     "state": "JOHOR",
+    "number_of_voter": 44282,
     "data": [
       {
         "candidate": "SHARUDDIN MD SALLEH",
@@ -3388,6 +3538,7 @@
     "name": "BATU PAHAT",
     "registered_voters": 98543,
     "state": "JOHOR",
+    "number_of_voter": 82137,
     "data": [
       {
         "candidate": "MOHD RASHID HASNON",
@@ -3410,6 +3561,7 @@
     "name": "SIMPANG RENGGAM",
     "registered_voters": 43998,
     "state": "JOHOR",
+    "number_of_voter": 35822,
     "data": [
       {
         "candidate": "MASZLEE MALIK",
@@ -3432,6 +3584,7 @@
     "name": "KLUANG",
     "registered_voters": 96915,
     "state": "JOHOR",
+    "number_of_voter": 80531,
     "data": [
       {
         "candidate": "WONG SHU QI",
@@ -3454,6 +3607,7 @@
     "name": "SEMBRONG",
     "registered_voters": 44137,
     "state": "JOHOR",
+    "number_of_voter": 36044,
     "data": [
       {
         "candidate": "HISHAMMUDDIN HUSSEIN",
@@ -3471,6 +3625,7 @@
     "name": "MERSING",
     "registered_voters": 48176,
     "state": "JOHOR",
+    "number_of_voter": 37368,
     "data": [
       {
         "candidate": "ABD. LATIFF AHMAD",
@@ -3493,6 +3648,7 @@
     "name": "TENGGARA",
     "registered_voters": 44749,
     "state": "JOHOR",
+    "number_of_voter": 37034,
     "data": [
       {
         "candidate": "ADHAM BABA",
@@ -3515,6 +3671,7 @@
     "name": "KOTA TINGGI",
     "registered_voters": 46677,
     "state": "JOHOR",
+    "number_of_voter": 38193,
     "data": [
       {
         "candidate": "HALIMAH MOHD SADIQUE",
@@ -3532,6 +3689,7 @@
     "name": "PENGERANG",
     "registered_voters": 40479,
     "state": "JOHOR",
+    "number_of_voter": 32241,
     "data": [
       {
         "candidate": "AZALINA OTHMAN",
@@ -3549,6 +3707,7 @@
     "name": "TEBRAU",
     "registered_voters": 123033,
     "state": "JOHOR",
+    "number_of_voter": 103943,
     "data": [
       {
         "candidate": "CHOONG SHIAU YOON",
@@ -3571,6 +3730,7 @@
     "name": "PASIR GUDANG",
     "registered_voters": 124172,
     "state": "JOHOR",
+    "number_of_voter": 105009,
     "data": [
       {
         "candidate": "HASSAN ABDUL KARIM",
@@ -3598,6 +3758,7 @@
     "name": "JOHOR BAHRU",
     "registered_voters": 101409,
     "state": "JOHOR",
+    "number_of_voter": 80322,
     "data": [
       {
         "candidate": "AKMAL NASRULLAH MOHD NASIR",
@@ -3615,6 +3776,7 @@
     "name": "PULAI",
     "registered_voters": 106268,
     "state": "JOHOR",
+    "number_of_voter": 86893,
     "data": [
       {
         "candidate": "SALAHUDDIN AYUB",
@@ -3642,6 +3804,7 @@
     "name": "ISKANDAR PUTERI",
     "registered_voters": 138299,
     "state": "JOHOR",
+    "number_of_voter": 116588,
     "data": [
       {
         "candidate": "LIM KIT SIANG",
@@ -3659,6 +3822,7 @@
     "name": "KULAI",
     "registered_voters": 99147,
     "state": "JOHOR",
+    "number_of_voter": 84543,
     "data": [
       {
         "candidate": "TEO NIE CHING",
@@ -3681,6 +3845,7 @@
     "name": "PONTIAN",
     "registered_voters": 55570,
     "state": "JOHOR",
+    "number_of_voter": 45726,
     "data": [
       {
         "candidate": "AHMAD MASLAN",
@@ -3703,6 +3868,7 @@
     "name": "TANJUNG PIAI",
     "registered_voters": 53528,
     "state": "JOHOR",
+    "number_of_voter": 44948,
     "data": [
       {
         "candidate": "MD FARID MD RAFIK",
@@ -3725,6 +3891,7 @@
     "name": "KUDAT",
     "registered_voters": 52251,
     "state": "SABAH",
+    "number_of_voter": 37079,
     "data": [
       {
         "candidate": "ABD RAHIM BAKRI",
@@ -3747,6 +3914,7 @@
     "name": "KOTA MARUDU",
     "registered_voters": 47007,
     "state": "SABAH",
+    "number_of_voter": 33906,
     "data": [
       {
         "candidate": "JOHNITY @ MAXIMUS ONGKILI",
@@ -3774,6 +3942,7 @@
     "name": "KOTA BELUD",
     "registered_voters": 57919,
     "state": "SABAH",
+    "number_of_voter": 46098,
     "data": [
       {
         "candidate": "ISNARAISSAH MUNIRAH MAJILIS @ FAKHARUDY",
@@ -3801,6 +3970,7 @@
     "name": "TUARAN",
     "registered_voters": 54400,
     "state": "SABAH",
+    "number_of_voter": 43643,
     "data": [
       {
         "candidate": "MADIUS TANGAU",
@@ -3833,6 +4003,7 @@
     "name": "SEPANGGAR",
     "registered_voters": 62415,
     "state": "SABAH",
+    "number_of_voter": 47785,
     "data": [
       {
         "candidate": "MOHD AZIS JAMMAN",
@@ -3860,6 +4031,7 @@
     "name": "KOTA KINABALU",
     "registered_voters": 56220,
     "state": "SABAH",
+    "number_of_voter": 42310,
     "data": [
       {
         "candidate": "CHAN FOONG HIN",
@@ -3882,6 +4054,7 @@
     "name": "PUTATAN",
     "registered_voters": 41312,
     "state": "SABAH",
+    "number_of_voter": 30790,
     "data": [
       {
         "candidate": "AWANG HUSAINI SAHARI",
@@ -3914,6 +4087,7 @@
     "name": "PENAMPANG",
     "registered_voters": 53131,
     "state": "SABAH",
+    "number_of_voter": 43108,
     "data": [
       {
         "candidate": "IGNATIUS DORELL LEIKING",
@@ -3941,6 +4115,7 @@
     "name": "PAPAR",
     "registered_voters": 43586,
     "state": "SABAH",
+    "number_of_voter": 35836,
     "data": [
       {
         "candidate": "AHMAD HASSAN",
@@ -3968,6 +4143,7 @@
     "name": "KIMANIS",
     "registered_voters": 29618,
     "state": "SABAH",
+    "number_of_voter": 25028,
     "data": [
       {
         "candidate": "ANIFAH AMAN @ HANIFF AMMAN",
@@ -3990,6 +4166,7 @@
     "name": "BEAUFORT",
     "registered_voters": 33342,
     "state": "SABAH",
+    "number_of_voter": 27212,
     "data": [
       {
         "candidate": "AZIZAH MOHD DUN",
@@ -4012,6 +4189,7 @@
     "name": "SIPITANG",
     "registered_voters": 31882,
     "state": "SABAH",
+    "number_of_voter": 24771,
     "data": [
       {
         "candidate": "YAMANI HAFEZ MUSA",
@@ -4034,6 +4212,7 @@
     "name": "RANAU",
     "registered_voters": 43706,
     "state": "SABAH",
+    "number_of_voter": 32942,
     "data": [
       {
         "candidate": "JONATHAN YASIN",
@@ -4061,6 +4240,7 @@
     "name": "KENINGAU",
     "registered_voters": 51177,
     "state": "SABAH",
+    "number_of_voter": 40149,
     "data": [
       {
         "candidate": "JEFFREY KITINGAN",
@@ -4098,6 +4278,7 @@
     "name": "TENOM",
     "registered_voters": 29182,
     "state": "SABAH",
+    "number_of_voter": 22238,
     "data": [
       {
         "candidate": "NOORITA SUAL",
@@ -4120,6 +4301,7 @@
     "name": "PENSIANGAN",
     "registered_voters": 31377,
     "state": "SABAH",
+    "number_of_voter": 24368,
     "data": [
       {
         "candidate": "ARTHUR JOSEPH KURUP",
@@ -4152,6 +4334,7 @@
     "name": "BELURAN",
     "registered_voters": 28509,
     "state": "SABAH",
+    "number_of_voter": 20698,
     "data": [
       {
         "candidate": "RONALD KIANDEE",
@@ -4189,6 +4372,7 @@
     "name": "LIBARAN",
     "registered_voters": 47914,
     "state": "SABAH",
+    "number_of_voter": 36143,
     "data": [
       {
         "candidate": "ZAKARIA MOHD EDRIS @ TUBAU",
@@ -4211,6 +4395,7 @@
     "name": "BATU SAPI",
     "registered_voters": 32574,
     "state": "SABAH",
+    "number_of_voter": 23261,
     "data": [
       {
         "candidate": "LIEW VUI KEONG",
@@ -4238,6 +4423,7 @@
     "name": "SANDAKAN",
     "registered_voters": 39777,
     "state": "SABAH",
+    "number_of_voter": 28090,
     "data": [
       {
         "candidate": "WONG TIEN FATT @ WONG NYUK FOH",
@@ -4255,6 +4441,7 @@
     "name": "KINABATANGAN",
     "registered_voters": 28730,
     "state": "SABAH",
+    "number_of_voter": 21518,
     "data": [
       {
         "candidate": "MOKTAR RADIN",
@@ -4277,6 +4464,7 @@
     "name": "SILAM",
     "registered_voters": 60942,
     "state": "SABAH",
+    "number_of_voter": 43040,
     "data": [
       {
         "candidate": "MOHAMADDIN KETAPI",
@@ -4304,6 +4492,7 @@
     "name": "SEMPORNA",
     "registered_voters": 48248,
     "state": "SABAH",
+    "number_of_voter": 33426,
     "data": [
       {
         "candidate": "MOHD SHAFIE APDAL",
@@ -4331,6 +4520,7 @@
     "name": "TAWAU",
     "registered_voters": 59919,
     "state": "SABAH",
+    "number_of_voter": 42753,
     "data": [
       {
         "candidate": "LIEW CHIN JIN",
@@ -4358,6 +4548,7 @@
     "name": "KALABAKAN",
     "registered_voters": 52199,
     "state": "SABAH",
+    "number_of_voter": 36909,
     "data": [
       {
         "candidate": "MUN SULAIMAN",
@@ -4385,6 +4576,7 @@
     "name": "MAS GADING",
     "registered_voters": 29617,
     "state": "SARAWAK",
+    "number_of_voter": 22518,
     "data": [
       {
         "candidate": "MORDI BIMOL",
@@ -4402,6 +4594,7 @@
     "name": "SANTUBONG",
     "registered_voters": 45628,
     "state": "SARAWAK",
+    "number_of_voter": 33273,
     "data": [
       {
         "candidate": "WAN JUNAIDI TUANKU JAAFAR",
@@ -4419,6 +4612,7 @@
     "name": "PETRA JAYA",
     "registered_voters": 57925,
     "state": "SARAWAK",
+    "number_of_voter": 42945,
     "data": [
       {
         "candidate": "FADILLAH YUSOF",
@@ -4441,6 +4635,7 @@
     "name": "BANDAR KUCHING",
     "registered_voters": 81856,
     "state": "SARAWAK",
+    "number_of_voter": 61123,
     "data": [
       {
         "candidate": "KELVIN YII LEE WUEN",
@@ -4458,6 +4653,7 @@
     "name": "STAMPIN",
     "registered_voters": 66240,
     "state": "SARAWAK",
+    "number_of_voter": 51899,
     "data": [
       {
         "candidate": "CHONG CHIENG JEN",
@@ -4475,6 +4671,7 @@
     "name": "KOTA SAMARAHAN",
     "registered_voters": 46300,
     "state": "SARAWAK",
+    "number_of_voter": 35867,
     "data": [
       {
         "candidate": "RUBIAH WANG",
@@ -4497,6 +4694,7 @@
     "name": "PUNCAK BORNEO",
     "registered_voters": 46180,
     "state": "SARAWAK",
+    "number_of_voter": 34520,
     "data": [
       {
         "candidate": "WILLIE MONGIN",
@@ -4519,6 +4717,7 @@
     "name": "SERIAN",
     "registered_voters": 37629,
     "state": "SARAWAK",
+    "number_of_voter": 27419,
     "data": [
       {
         "candidate": "RICHARD RIOT JAEM",
@@ -4541,6 +4740,7 @@
     "name": "BATANG SADONG",
     "registered_voters": 23213,
     "state": "SARAWAK",
+    "number_of_voter": 17066,
     "data": [
       {
         "candidate": "NANCY SHUKRI",
@@ -4563,6 +4763,7 @@
     "name": "BATANG LUPAR",
     "registered_voters": 29811,
     "state": "SARAWAK",
+    "number_of_voter": 20151,
     "data": [
       {
         "candidate": "ROHANI ABDUL KARIM",
@@ -4585,6 +4786,7 @@
     "name": "SRI AMAN",
     "registered_voters": 33016,
     "state": "SARAWAK",
+    "number_of_voter": 23000,
     "data": [
       {
         "candidate": "MASIR KUJAT",
@@ -4607,6 +4809,7 @@
     "name": "LUBOK ANTU",
     "registered_voters": 20801,
     "state": "SARAWAK",
+    "number_of_voter": 14551,
     "data": [
       {
         "candidate": "TAMBAT @ JUGAH MUYANG",
@@ -4629,6 +4832,7 @@
     "name": "BETONG",
     "registered_voters": 29145,
     "state": "SARAWAK",
+    "number_of_voter": 20720,
     "data": [
       {
         "candidate": "ROBERT LAWSON CHUAT",
@@ -4651,6 +4855,7 @@
     "name": "SARATOK",
     "registered_voters": 30517,
     "state": "SARAWAK",
+    "number_of_voter": 22707,
     "data": [
       {
         "candidate": "ALI BIJU",
@@ -4668,6 +4873,7 @@
     "name": "TANJONG MANIS",
     "registered_voters": 21899,
     "state": "SARAWAK",
+    "number_of_voter": 14130,
     "data": [
       {
         "candidate": "YUSUF ABD WAHAB",
@@ -4685,6 +4891,7 @@
     "name": "IGAN",
     "registered_voters": 19592,
     "state": "SARAWAK",
+    "number_of_voter": 12581,
     "data": [
       {
         "candidate": "AHMAD JOHNIE ZAWAWI",
@@ -4702,6 +4909,7 @@
     "name": "SARIKEI",
     "registered_voters": 39561,
     "state": "SARAWAK",
+    "number_of_voter": 30476,
     "data": [
       {
         "candidate": "WONG LING BIU",
@@ -4724,6 +4932,7 @@
     "name": "JULAU",
     "registered_voters": 25380,
     "state": "SARAWAK",
+    "number_of_voter": 18279,
     "data": [
       {
         "candidate": "LARRY SOON @ LARRY SNG WEI SHIEN",
@@ -4741,6 +4950,7 @@
     "name": "KANOWIT",
     "registered_voters": 21022,
     "state": "SARAWAK",
+    "number_of_voter": 14792,
     "data": [
       {
         "candidate": "AGO DAGANG",
@@ -4758,6 +4968,7 @@
     "name": "LANANG",
     "registered_voters": 61973,
     "state": "SARAWAK",
+    "number_of_voter": 45892,
     "data": [
       {
         "candidate": "ALICE LAU KIONG YIENG",
@@ -4780,6 +4991,7 @@
     "name": "SIBU",
     "registered_voters": 74149,
     "state": "SARAWAK",
+    "number_of_voter": 56753,
     "data": [
       {
         "candidate": "OSCAR LING CHAI YEW",
@@ -4807,6 +5019,7 @@
     "name": "MUKAH",
     "registered_voters": 30608,
     "state": "SARAWAK",
+    "number_of_voter": 20706,
     "data": [
       {
         "candidate": "HANIFAH HAJAR TAIB",
@@ -4824,6 +5037,7 @@
     "name": "SELANGAU",
     "registered_voters": 30026,
     "state": "SARAWAK",
+    "number_of_voter": 21970,
     "data": [
       {
         "candidate": "BARU BIAN",
@@ -4841,6 +5055,7 @@
     "name": "KAPIT",
     "registered_voters": 30658,
     "state": "SARAWAK",
+    "number_of_voter": 18125,
     "data": [
       {
         "candidate": "ALEXANDER NANTA LINGGI",
@@ -4858,6 +5073,7 @@
     "name": "HULU RAJANG",
     "registered_voters": 27520,
     "state": "SARAWAK",
+    "number_of_voter": 17353,
     "data": [
       {
         "candidate": "UGAK KUMBONG",
@@ -4875,6 +5091,7 @@
     "name": "BINTULU",
     "registered_voters": 65049,
     "state": "SARAWAK",
+    "number_of_voter": 47458,
     "data": [
       {
         "candidate": "TIONG KING SING",
@@ -4897,6 +5114,7 @@
     "name": "SIBUTI",
     "registered_voters": 31868,
     "state": "SARAWAK",
+    "number_of_voter": 22369,
     "data": [
       {
         "candidate": "LUKANISMAN AWANG SAUNI",
@@ -4919,6 +5137,7 @@
     "name": "MIRI",
     "registered_voters": 80386,
     "state": "SARAWAK",
+    "number_of_voter": 57815,
     "data": [
       {
         "candidate": "MICHAEL TEO YU KENG",
@@ -4936,6 +5155,7 @@
     "name": "BARAM",
     "registered_voters": 35685,
     "state": "SARAWAK",
+    "number_of_voter": 22352,
     "data": [
       {
         "candidate": "ANYI NGAU",
@@ -4953,6 +5173,7 @@
     "name": "LIMBANG",
     "registered_voters": 26409,
     "state": "SARAWAK",
+    "number_of_voter": 17468,
     "data": [
       {
         "candidate": "HASBI HABIBOLLAH",
@@ -4970,6 +5191,7 @@
     "name": "LAWAS",
     "registered_voters": 21297,
     "state": "SARAWAK",
+    "number_of_voter": 14250,
     "data": [
       {
         "candidate": "HENRY SUM AGONG",
