@@ -919,37 +919,37 @@
         "name": "PADANG SERAI",
         "registered_voters": 133867,
         "state": "KEDAH",
-        "number_of_voter": 0,
+        "number_of_voter": 91416,
         "data": [
-          {
-            "candidate": "HAMZAH ABD RAHMAN",
-            "party": "GTA - PEJUANG",
-            "number_of_voters": 0
-          },
           {
             "candidate": "AZMAN NASRUDIN",
             "party": "PN - BERSATU",
-            "number_of_voters": 0
-          },
-          {
-            "candidate": "ANANDA AK",
-            "party": "IND",
-            "number_of_voters": 0
+            "number_of_voters": 51637
           },
           {
             "candidate": "SOFEE RAZAK",
             "party": "PH - PKR",
-            "number_of_voters": 0
-          },
-          {
-            "candidate": "MOHD BAKHRI HASHIM",
-            "party": "WARISAN",
-            "number_of_voters": 0
+            "number_of_voters": 35377
           },
           {
             "candidate": "SIVARAJ CHANDRAN",
             "party": "BN - MIC",
-            "number_of_voters": 0
+            "number_of_voters": 2983
+          },
+          {
+            "candidate": "ANANDA AK",
+            "party": "IND",
+            "number_of_voters": 846
+          },
+          {
+            "candidate": "HAMZAH ABD RAHMAN",
+            "party": "GTA - PEJUANG",
+            "number_of_voters": 424
+          },
+          {
+            "candidate": "MOHD BAKHRI HASHIM",
+            "party": "WARISAN",
+            "number_of_voters": 149
           }
         ]
       },
@@ -5666,32 +5666,32 @@
       "N42": {
         "name": "TIOMAN",
         "registered_voters": 28108,
-        "number_of_voter": 0,
+        "number_of_voter": 16508,
         "data": [
           {
-            "candidate": "MOHD FADZLI MOHD RAMLY",
-            "party": "PH - AMANAH",
-            "number_of_voters": 0
+            "candidate": "MOHD JOHARI HUSIN",
+            "party": "BN - UMNO",
+            "number_of_voters": 8080
           },
           {
             "candidate": "NOR IDAYU HASHIM",
             "party": "PN - PAS",
-            "number_of_voters": 0
+            "number_of_voters": 7507
+          },
+          {
+            "candidate": "MOHD FADZLI MOHD RAMLY",
+            "party": "PH - AMANAH",
+            "number_of_voters": 784
           },
           {
             "candidate": "CIKGU OSMAN BAKAR",
             "party": "GTA - PEJUANG",
-            "number_of_voters": 0
-          },
-          {
-            "candidate": "MOHD JOHARI HUSIN",
-            "party": "BN - UMNO",
-            "number_of_voters": 0
+            "number_of_voters": 79
           },
           {
             "candidate": "SULAIMAN BAKAR",
             "party": "IND",
-            "number_of_voters": 0
+            "number_of_voters": 58
           }
         ]
       }
