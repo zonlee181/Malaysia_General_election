@@ -982,7 +982,675 @@
         ]
       }
     },
-    "n": {}
+    "n": {
+      "N1": {
+        "name": "AYER HANGAT",
+        "registered_voters": 33156,
+        "number_of_voter": 22621,
+        "data": [
+          {
+            "candidate": "SHAMSILAH SIRU",
+            "party": "PN - BERSATU",
+            "number_of_voters": 10701
+          },
+          {
+            "candidate": "SAFWAN HANIF",
+            "party": "IND",
+            "number_of_voters": 6877
+          },
+          {
+            "candidate": "HISHAM SUHAILY OTHMAN",
+            "party": "BN - UMNO",
+            "number_of_voters": 4909
+          },
+          {
+            "candidate": "ZULFADLI MOHD YUSOFF",
+            "party": "IND",
+            "number_of_voters": 134
+          }
+        ]
+      },
+      "N2": {
+        "name": "KUAH",
+        "registered_voters": 34694,
+        "number_of_voter": 20771,
+        "data": [
+          {
+            "candidate": "AMAR PARED MAHAMUD",
+            "party": "PN - BERSATU",
+            "number_of_voters": 13364
+          },
+          {
+            "candidate": "AHMAD FAUZI CHIK",
+            "party": "PH - PKR",
+            "number_of_voters": 5394
+          },
+          {
+            "candidate": "MAZLAN AHMAD",
+            "party": "IND",
+            "number_of_voters": 2013
+          }
+        ]
+      },
+      "N3": {
+        "name": "KOTA SIPUTEH",
+        "registered_voters": 29777,
+        "number_of_voter": 21582,
+        "data": [
+          {
+            "candidate": "MOHD ASHRAF MUSTAQIM",
+            "party": "PN - BERSATU",
+            "number_of_voters": 17180
+          },
+          {
+            "candidate": "SALMEE SAID",
+            "party": "PH - AMANAH",
+            "number_of_voters": 4090
+          },
+          {
+            "candidate": "ABDULLAH RAMLI",
+            "party": "IND",
+            "number_of_voters": 312
+          }
+        ]
+      },
+      "N4": {
+        "name": "AYER HITAM",
+        "registered_voters": 37819,
+        "number_of_voter": 28183,
+        "data": [
+          {
+            "candidate": "AZHAR IBRAHIM (CIKGU AZHAR)",
+            "party": "PN - PAS",
+            "number_of_voters": 22078
+          },
+          {
+            "candidate": "HAYAZI AZIZAN",
+            "party": "BN - UMNO",
+            "number_of_voters": 6105
+          }
+        ]
+      },
+      "N5": {
+        "name": "BUKIT KAYU HITAM",
+        "registered_voters": 46054,
+        "number_of_voter": 33668,
+        "data": [
+          {
+            "candidate": "HALIMATON SHAADIAH SAAD (KAK TON)",
+            "party": "PN - BERSATU",
+            "number_of_voters": 24551
+          },
+          {
+            "candidate": "ZAINOL ABIDIN MOHAMAD (CIKGU NON)",
+            "party": "BN - UMNO",
+            "number_of_voters": 9117
+          }
+        ]
+      },
+      "N6": {
+        "name": "JITRA",
+        "registered_voters": 63059,
+        "number_of_voter": 45512,
+        "data": [
+          {
+            "candidate": "HAIM HILMAN ABDULLAH (PROF HAIM)",
+            "party": "PN - PAS",
+            "number_of_voters": 34342
+          },
+          {
+            "candidate": "SABRINA AHMAD",
+            "party": "PH - PKR",
+            "number_of_voters": 11170
+          }
+        ]
+      },
+      "N7": {
+        "name": "KUALA NERANG",
+        "registered_voters": 31481,
+        "number_of_voter": 23876,
+        "data": [
+          {
+            "candidate": "MUNIR ZAKARIA (HJ. MUNIR)",
+            "party": "PN - PAS",
+            "number_of_voters": 19661
+          },
+          {
+            "candidate": "RIDZWAN ABU BAKAR",
+            "party": "PH - AMANAH",
+            "number_of_voters": 4215
+          }
+        ]
+      },
+      "N8": {
+        "name": "PEDU",
+        "registered_voters": 28606,
+        "number_of_voter": 22421,
+        "data": [
+          {
+            "candidate": "MOHD RADZI MD AMIN",
+            "party": "PN - PAS",
+            "number_of_voters": 14397
+          },
+          {
+            "candidate": "MAHDZIR KHALID",
+            "party": "BN - UMNO",
+            "number_of_voters": 8024
+          }
+        ]
+      },
+      "N9": {
+        "name": "BUKIT LADA",
+        "registered_voters": 40729,
+        "number_of_voter": 30955,
+        "data": [
+          {
+            "candidate": "HAFIZ",
+            "party": "PN - PAS",
+            "number_of_voters": 24183
+          },
+          {
+            "candidate": "SAID ALI SYED RASTAN",
+            "party": "BN - UMNO",
+            "number_of_voters": 6772
+          }
+        ]
+      },
+      "N10": {
+        "name": "BUKIT PINANG",
+        "registered_voters": 36791,
+        "number_of_voter": 27821,
+        "data": [
+          {
+            "candidate": "WAN ROMANI WAN SALIM",
+            "party": "PN - PAS",
+            "number_of_voters": 23041
+          },
+          {
+            "candidate": "HAZIR MAT ZAIN",
+            "party": "PH - PKR",
+            "number_of_voters": 4780
+          }
+        ]
+      },
+      "N11": {
+        "name": "DERGA",
+        "registered_voters": 37738,
+        "number_of_voter": 25445,
+        "data": [
+          {
+            "candidate": "MUHAMAD AMRI WAHAB",
+            "party": "PN - BERSATU",
+            "number_of_voters": 14433
+          },
+          {
+            "candidate": "TAN KOK YEW",
+            "party": "PH - DAP",
+            "number_of_voters": 10771
+          },
+          {
+            "candidate": "MAN BASIRON",
+            "party": "IND",
+            "number_of_voters": 241
+          }
+        ]
+      },
+      "N12": {
+        "name": "SUKA MENANTI",
+        "registered_voters": 41957,
+        "number_of_voter": 28547,
+        "data": [
+          {
+            "candidate": "DZOWAHIR AB GHANI",
+            "party": "PN - BERSATU",
+            "number_of_voters": 18396
+          },
+          {
+            "candidate": "ZAMRI YUSUF",
+            "party": "PH - PKR",
+            "number_of_voters": 10151
+          }
+        ]
+      },
+      "N13": {
+        "name": "KOTA DARUL AMAN",
+        "registered_voters": 25829,
+        "number_of_voter": 16706,
+        "data": [
+          {
+            "candidate": "TEH SWEE LEONG",
+            "party": "PH - DAP",
+            "number_of_voters": 11178
+          },
+          {
+            "candidate": "CHUAH SEE SENG",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 5528
+          }
+        ]
+      },
+      "N14": {
+        "name": "ALOR MENGKUDU",
+        "registered_voters": 38193,
+        "number_of_voter": 27768,
+        "data": [
+          {
+            "candidate": "RADHI MAT DIN",
+            "party": "PN - PAS",
+            "number_of_voters": 18936
+          },
+          {
+            "candidate": "MAHFUZ OMAR",
+            "party": "PH - AMANAH",
+            "number_of_voters": 8832
+          }
+        ]
+      },
+      "N15": {
+        "name": "ANAK BUKIT",
+        "registered_voters": 36491,
+        "number_of_voter": 27645,
+        "data": [
+          {
+            "candidate": "RASHIDI RAZAK",
+            "party": "PN - PAS",
+            "number_of_voters": 21738
+          },
+          {
+            "candidate": "NOOR HASITA MD ISA",
+            "party": "BN - UMNO",
+            "number_of_voters": 5907
+          }
+        ]
+      },
+      "N16": {
+        "name": "KUBANG ROTAN",
+        "registered_voters": 50233,
+        "number_of_voter": 35116,
+        "data": [
+          {
+            "candidate": "MOHD SALLEH SAIDIN",
+            "party": "PN - BERSATU",
+            "number_of_voters": 22951
+          },
+          {
+            "candidate": "ASMIRUL ANUAR ARIS",
+            "party": "PH - AMANAH",
+            "number_of_voters": 12165
+          }
+        ]
+      },
+      "N17": {
+        "name": "PENGKALAN KUNDOR",
+        "registered_voters": 46235,
+        "number_of_voter": 33666,
+        "data": [
+          {
+            "candidate": "MARDHIYYAH JOHARI",
+            "party": "PN - PAS",
+            "number_of_voters": 22349
+          },
+          {
+            "candidate": "ISMAIL SALLEH",
+            "party": "PH - AMANAH",
+            "number_of_voters": 11317
+          }
+        ]
+      },
+      "N18": {
+        "name": "TOKAI",
+        "registered_voters": 45374,
+        "number_of_voter": 34739,
+        "data": [
+          {
+            "candidate": "MOHD HAYATI OTHMAN",
+            "party": "PN - PAS",
+            "number_of_voters": 29329
+          },
+          {
+            "candidate": "ZAINAL ABIDIN SAAD",
+            "party": "PH - AMANAH",
+            "number_of_voters": 5410
+          }
+        ]
+      },
+      "N19": {
+        "name": "SUNGAI TIANG",
+        "registered_voters": 49414,
+        "number_of_voter": 37209,
+        "data": [
+          {
+            "candidate": "ABDUL RAZAK KHAMIS",
+            "party": "PN - BERSATU",
+            "number_of_voters": 27154
+          },
+          {
+            "candidate": "MOHAMAD FADZIL ZOLKIPLI",
+            "party": "BN - UMNO",
+            "number_of_voters": 10055
+          }
+        ]
+      },
+      "N20": {
+        "name": "SUNGAI LIMAU",
+        "registered_voters": 34283,
+        "number_of_voter": 27096,
+        "data": [
+          {
+            "candidate": "USTAZ MOHD AZAM ABD SAMAT",
+            "party": "PN - PAS",
+            "number_of_voters": 23000
+          },
+          {
+            "candidate": "SITI BALKHIS HUSAIN",
+            "party": "PH - AMANAH",
+            "number_of_voters": 4096
+          }
+        ]
+      },
+      "N21": {
+        "name": "GUAR CHEMPEDAK",
+        "registered_voters": 30085,
+        "number_of_voter": 22599,
+        "data": [
+          {
+            "candidate": "ABDUL GHAFAR SAAD",
+            "party": "PN - PAS",
+            "number_of_voters": 17266
+          },
+          {
+            "candidate": "ABDUL PARIS ABDUL HAMID",
+            "party": "BN - UMNO",
+            "number_of_voters": 5157
+          },
+          {
+            "candidate": "CIKGU KU ABDUL HALIM",
+            "party": "IND",
+            "number_of_voters": 176
+          }
+        ]
+      },
+      "N22": {
+        "name": "GURUN",
+        "registered_voters": 40941,
+        "number_of_voter": 28958,
+        "data": [
+          {
+            "candidate": "BADDROL BAKHTIAR",
+            "party": "PN - BERSATU",
+            "number_of_voters": 17771
+          },
+          {
+            "candidate": "FIRDAUS JOHARI",
+            "party": "PH - PKR",
+            "number_of_voters": 11187
+          }
+        ]
+      },
+      "N23": {
+        "name": "BELANTEK",
+        "registered_voters": 28165,
+        "number_of_voter": 21408,
+        "data": [
+          {
+            "candidate": "AHMAD SULAIMAN",
+            "party": "PN - PAS",
+            "number_of_voters": 17782
+          },
+          {
+            "candidate": "MAZLI SAIPI",
+            "party": "PH - AMANAH",
+            "number_of_voters": 3626
+          }
+        ]
+      },
+      "N24": {
+        "name": "JENERI",
+        "registered_voters": 35097,
+        "number_of_voter": 27596,
+        "data": [
+          {
+            "candidate": "MUHAMMAD SANUSI MD NOR",
+            "party": "PN - PAS",
+            "number_of_voters": 21823
+          },
+          {
+            "candidate": "MUHAMAD KHIZRI ABU KASSIM",
+            "party": "BN - UMNO",
+            "number_of_voters": 5773
+          }
+        ]
+      },
+      "N25": {
+        "name": "BUKIT SELAMBAU",
+        "registered_voters": 79518,
+        "number_of_voter": 55726,
+        "data": [
+          {
+            "candidate": "AZIZAN HAMZAH (USTAZ)",
+            "party": "PN - PAS",
+            "number_of_voters": 33508
+          },
+          {
+            "candidate": "SUMMUGAM RENGASAMY",
+            "party": "PH - PKR",
+            "number_of_voters": 21843
+          },
+          {
+            "candidate": "DINESH MUNIANDY",
+            "party": "IND",
+            "number_of_voters": 375
+          }
+        ]
+      },
+      "N26": {
+        "name": "TANJONG DAWAI",
+        "registered_voters": 54629,
+        "number_of_voter": 41587,
+        "data": [
+          {
+            "candidate": "HANIF GHAZALI",
+            "party": "PN - PAS",
+            "number_of_voters": 31996
+          },
+          {
+            "candidate": "SHAIFUL HAZIZY ZAINOL ABIDIN (TOK PON)",
+            "party": "BN - UMNO",
+            "number_of_voters": 9591
+          }
+        ]
+      },
+      "N27": {
+        "name": "PANTAI MERDEKA",
+        "registered_voters": 51502,
+        "number_of_voter": 40759,
+        "data": [
+          {
+            "candidate": "SHAHRIR LONG (USTAZ)",
+            "party": "PN - PAS",
+            "number_of_voters": 32225
+          },
+          {
+            "candidate": "WAN MOHALINA WAN MOHAMAD (KAK)",
+            "party": "BN - UMNO",
+            "number_of_voters": 8534
+          }
+        ]
+      },
+      "N28": {
+        "name": "BAKAR ARANG",
+        "registered_voters": 57867,
+        "number_of_voter": 40233,
+        "data": [
+          {
+            "candidate": "ADAM LOH WEE CHAI",
+            "party": "PH - PKR",
+            "number_of_voters": 21889
+          },
+          {
+            "candidate": "RAYMOND TAI KUANG TEE",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 18206
+          },
+          {
+            "candidate": "TAN KEE CHYE",
+            "party": "PRM",
+            "number_of_voters": 138
+          }
+        ]
+      },
+      "N29": {
+        "name": "SIDAM",
+        "registered_voters": 60983,
+        "number_of_voter": 42764,
+        "data": [
+          {
+            "candidate": "BAU WONG BAU ENG",
+            "party": "PH - PKR",
+            "number_of_voters": 21859
+          },
+          {
+            "candidate": "JULIANA ABDUL GHANI",
+            "party": "PN - BERSATU",
+            "number_of_voters": 20905
+          }
+        ]
+      },
+      "N30": {
+        "name": "BAYU",
+        "registered_voters": 47613,
+        "number_of_voter": 36992,
+        "data": [
+          {
+            "candidate": "MOHD TAUFIK YAACOB",
+            "party": "PN - BERSATU",
+            "number_of_voters": 27287
+          },
+          {
+            "candidate": "ISHAK MAT",
+            "party": "BN - UMNO",
+            "number_of_voters": 9705
+          }
+        ]
+      },
+      "N31": {
+        "name": "KUPANG",
+        "registered_voters": 42720,
+        "number_of_voter": 33457,
+        "data": [
+          {
+            "candidate": "NAJMI HJ AHMAD",
+            "party": "PN - PAS",
+            "number_of_voters": 26366
+          },
+          {
+            "candidate": "SUHAIMI HAMZAH",
+            "party": "PH - AMANAH",
+            "number_of_voters": 7091
+          }
+        ]
+      },
+      "N32": {
+        "name": "KUALA KETIL",
+        "registered_voters": 42184,
+        "number_of_voter": 33179,
+        "data": [
+          {
+            "candidate": "MANSOR ZAKARIA",
+            "party": "PN - PAS",
+            "number_of_voters": 24872
+          },
+          {
+            "candidate": "SURIATI CHE MID",
+            "party": "BN - UMNO",
+            "number_of_voters": 8307
+          }
+        ]
+      },
+      "N33": {
+        "name": "MERBAU PULAS",
+        "registered_voters": 53323,
+        "number_of_voter": 40553,
+        "data": [
+          {
+            "candidate": "SITI ASHAH GHAZALI",
+            "party": "PN - PAS",
+            "number_of_voters": 29919
+          },
+          {
+            "candidate": "ASMADI ABU TALIB",
+            "party": "DATO' CHEGU MADI",
+            "number_of_voters": 10634
+          }
+        ]
+      },
+      "N34": {
+        "name": "LUNAS",
+        "registered_voters": 82212,
+        "number_of_voter": 59520,
+        "data": [
+          {
+            "candidate": "KHAIRUL ANUAR BIN RAMLI",
+            "party": "PN - BERSATU",
+            "number_of_voters": 31537
+          },
+          {
+            "candidate": "SHAMSUL ANUAR ABDULLAH (CIKGU SAMSUL)",
+            "party": "PH - PKR",
+            "number_of_voters": 27054
+          },
+          {
+            "candidate": "ARI",
+            "party": "IND",
+            "number_of_voters": 417
+          },
+          {
+            "candidate": "RAJENDARAN NADARAJAN",
+            "party": "IND",
+            "number_of_voters": 364
+          },
+          {
+            "candidate": "PANNIR SELVAM SUPPIAH",
+            "party": "IND",
+            "number_of_voters": 148
+          }
+        ]
+      },
+      "N35": {
+        "name": "KULIM",
+        "registered_voters": 54169,
+        "number_of_voter": 38814,
+        "data": [
+          {
+            "candidate": "WONG CHIA ZHEN",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 23278
+          },
+          {
+            "candidate": "AWANG TEH (TEH LEAN ONG)",
+            "party": "PH - PKR",
+            "number_of_voters": 15536
+          }
+        ]
+      },
+      "N36": {
+        "name": "BANDAR BAHARU",
+        "registered_voters": 36164,
+        "number_of_voter": 27077,
+        "data": [
+          {
+            "candidate": "MOHD SUFFIAN YUSOFF",
+            "party": "PN - PAS",
+            "number_of_voters": 19327
+          },
+          {
+            "candidate": "NURAINI YUSOFF (NONI)",
+            "party": "BN - UMNO",
+            "number_of_voters": 7750
+          }
+        ]
+      }
+    }
   },
   "Kelantan": {
     "p": {
@@ -1414,7 +2082,803 @@
         ]
       }
     },
-    "n": {}
+    "n": {
+      "N1": {
+        "name": "PENGKALAN KUBOR",
+        "registered_voters": 36492,
+        "number_of_voter": 22046,
+        "data": [
+          {
+            "candidate": "WAN ROSLAN WAN HAMAT (USTAZ LAN)",
+            "party": "PN - PAS",
+            "number_of_voters": 14043
+          },
+          {
+            "candidate": "ZULKIFLI TOK KRAWAT",
+            "party": "BN - UMNO",
+            "number_of_voters": 8003
+          }
+        ]
+      },
+      "N2": {
+        "name": "KELABORAN",
+        "registered_voters": 38198,
+        "number_of_voter": 22408,
+        "data": [
+          {
+            "candidate": "MOHD ADANAN HASSAN (CIKGU NAN)",
+            "party": "PN - PAS",
+            "number_of_voters": 15890
+          },
+          {
+            "candidate": "MOHD ROSDI RAZALI",
+            "party": "BN - UMNO",
+            "number_of_voters": 6518
+          }
+        ]
+      },
+      "N3": {
+        "name": "PASIR PEKAN",
+        "registered_voters": 39119,
+        "number_of_voter": 24755,
+        "data": [
+          {
+            "candidate": "AHMAD YAKOB",
+            "party": "DATO' USTAZ MAD",
+            "number_of_voters": 18783
+          },
+          {
+            "candidate": "ZAMAKH SARI IBRAHIM",
+            "party": "PH - PKR",
+            "number_of_voters": 5972
+          }
+        ]
+      },
+      "N4": {
+        "name": "WAKAF BHARU",
+        "registered_voters": 36439,
+        "number_of_voter": 22917,
+        "data": [
+          {
+            "candidate": "MOHD RUSLI ABDULLAH",
+            "party": "PN - PAS",
+            "number_of_voters": 15522
+          },
+          {
+            "candidate": "ABDUL MANNAN MD SAID (ABE NAN)",
+            "party": "BN - UMNO",
+            "number_of_voters": 7395
+          }
+        ]
+      },
+      "N5": {
+        "name": "KIJANG",
+        "registered_voters": 30405,
+        "number_of_voter": 19196,
+        "data": [
+          {
+            "candidate": "IZANI HUSIN",
+            "party": "PN - PAS",
+            "number_of_voters": 14552
+          },
+          {
+            "candidate": "HARIS HUSSIN",
+            "party": "BN - UMNO",
+            "number_of_voters": 4644
+          }
+        ]
+      },
+      "N6": {
+        "name": "CHEMPAKA",
+        "registered_voters": 34641,
+        "number_of_voter": 22466,
+        "data": [
+          {
+            "candidate": " BAHRUM NIK ABDULLAH",
+            "party": "PN - PAS",
+            "number_of_voters": 16728
+          },
+          {
+            "candidate": "NIK NORMI NIK AYUB",
+            "party": "BN - UMNO",
+            "number_of_voters": 5504
+          },
+          {
+            "candidate": "TOK GAWA HIM (ABE LI TOK GAWA)",
+            "party": "IND",
+            "number_of_voters": 234
+          }
+        ]
+      },
+      "N7": {
+        "name": "PANCHOR",
+        "registered_voters": 42768,
+        "number_of_voter": 26714,
+        "data": [
+          {
+            "candidate": "MOHD AMAR ABDULLAH (NIK AMAR)",
+            "party": "PN - PAS",
+            "number_of_voters": 18700
+          },
+          {
+            "candidate": "SYED MOHD ALIDUSTUR SYED MOHD ZAIN",
+            "party": "PH - PKR",
+            "number_of_voters": 8014
+          }
+        ]
+      },
+      "N8": {
+        "name": "TANJONG MAS",
+        "registered_voters": 45579,
+        "number_of_voter": 26465,
+        "data": [
+          {
+            "candidate": "ROHANI IBRAHIM (KAK ANI)",
+            "party": "PN - PAS",
+            "number_of_voters": 17529
+          },
+          {
+            "candidate": "ZINDA KHALIL SASTRO HASSAN",
+            "party": "PH - PKR",
+            "number_of_voters": 8936
+          }
+        ]
+      },
+      "N9": {
+        "name": "KOTA LAMA",
+        "registered_voters": 33043,
+        "number_of_voter": 19391,
+        "data": [
+          {
+            "candidate": "HAFIDZAH MUSTAKIM",
+            "party": "PH - AMANAH",
+            "number_of_voters": 9691
+          },
+          {
+            "candidate": "ZAMRI ISMAIL",
+            "party": "PN - PAS",
+            "number_of_voters": 9489
+          },
+          {
+            "candidate": "ANDY TAN @ AWANG",
+            "party": "PRM",
+            "number_of_voters": 126
+          },
+          {
+            "candidate": "IZAT BUKHARY ISMAIL BUKHARY",
+            "party": "IND",
+            "number_of_voters": 85
+          }
+        ]
+      },
+      "N10": {
+        "name": "BUNUT PAYONG",
+        "registered_voters": 36844,
+        "number_of_voter": 22164,
+        "data": [
+          {
+            "candidate": "SHAARI MAT YAMAN",
+            "party": "PN - PAS",
+            "number_of_voters": 13887
+          },
+          {
+            "candidate": "MOHAMED HASNAN CHE HUSSIN",
+            "party": "BN - UMNO",
+            "number_of_voters": 8277
+          }
+        ]
+      },
+      "N11": {
+        "name": "TENDONG",
+        "registered_voters": 31768,
+        "number_of_voter": 19960,
+        "data": [
+          {
+            "candidate": "ROZI MUHAMAD",
+            "party": "PN - PAS",
+            "number_of_voters": 12360
+          },
+          {
+            "candidate": "NOOR HARIRI MOHAMED NOOR (ABE HARIRI)",
+            "party": "BN - UMNO",
+            "number_of_voters": 6514
+          },
+          {
+            "candidate": "SUZAINAL ADNAN SUKRI (TOK NAN)",
+            "party": "IND",
+            "number_of_voters": 1086
+          }
+        ]
+      },
+      "N12": {
+        "name": "PENGKALAN PASIR",
+        "registered_voters": 33007,
+        "number_of_voter": 18493,
+        "data": [
+          {
+            "candidate": "NASRIFF DAUD YATIMEE",
+            "party": "PN - PAS",
+            "number_of_voters": 13077
+          },
+          {
+            "candidate": "RUSHDAN MUSTAFA",
+            "party": "PH - AMANAH",
+            "number_of_voters": 5416
+          }
+        ]
+      },
+      "N13": {
+        "name": "MERANTI",
+        "registered_voters": 29980,
+        "number_of_voter": 17366,
+        "data": [
+          {
+            "candidate": "MOHD NASSURUDDIN DAUD",
+            "party": "PN - PAS",
+            "number_of_voters": 13260
+          },
+          {
+            "candidate": "ZAHRI OMAR (TOK GAWA ZAHRI)",
+            "party": "BN - UMNO",
+            "number_of_voters": 4106
+          }
+        ]
+      },
+      "N14": {
+        "name": "CHETOK",
+        "registered_voters": 29111,
+        "number_of_voter": 16405,
+        "data": [
+          {
+            "candidate": "ZURAIDIN ABDULLAH",
+            "party": "PN - PAS",
+            "number_of_voters": 12202
+          },
+          {
+            "candidate": "EZZAT HANUZI",
+            "party": "PH - PKR",
+            "number_of_voters": 4203
+          }
+        ]
+      },
+      "N15": {
+        "name": "GUAL PERIOK",
+        "registered_voters": 36081,
+        "number_of_voter": 18005,
+        "data": [
+          {
+            "candidate": "KAMARUZAMAN MOHAMAD",
+            "party": "PN - PAS",
+            "number_of_voters": 11557
+          },
+          {
+            "candidate": "GHAZALI ISMAIL (ABE WA)",
+            "party": "BN - UMNO",
+            "number_of_voters": 6448
+          }
+        ]
+      },
+      "N16": {
+        "name": "APAM PUTRA",
+        "registered_voters": 28834,
+        "number_of_voter": 17353,
+        "data": [
+          {
+            "candidate": "ZAMAKHSHARI MUHAMAD (ABE ZAM)",
+            "party": "PN - PAS",
+            "number_of_voters": 10606
+          },
+          {
+            "candidate": "AKBAR SALIM",
+            "party": "BN - UMNO",
+            "number_of_voters": 6747
+          }
+        ]
+      },
+      "N17": {
+        "name": "SALOR",
+        "registered_voters": 36294,
+        "number_of_voter": 22326,
+        "data": [
+          {
+            "candidate": "SAIZOL ISMAIL (ABE JOE)",
+            "party": "PN - PAS",
+            "number_of_voters": 15893
+          },
+          {
+            "candidate": "MOHAMAD HUSAIN (ADIK MAD)",
+            "party": "BN - UMNO",
+            "number_of_voters": 6433
+          }
+        ]
+      },
+      "N18": {
+        "name": "PASIR TUMBOH",
+        "registered_voters": 37498,
+        "number_of_voter": 23254,
+        "data": [
+          {
+            "candidate": "ABDUL RAHMAN YUNUS (USTAZ ABD RAHMAN)",
+            "party": "PN - PAS",
+            "number_of_voters": 17814
+          },
+          {
+            "candidate": "AINA NAZIRATUL AINI SAYUTY (AINA SAYUTY)",
+            "party": "PH - PKR",
+            "number_of_voters": 5440
+          }
+        ]
+      },
+      "N19": {
+        "name": "DEMIT",
+        "registered_voters": 40561,
+        "number_of_voter": 24781,
+        "data": [
+          {
+            "candidate": "MOHD ASRI MAT DAUD (USTAZ ASRI)",
+            "party": "PN - PAS",
+            "number_of_voters": 18683
+          },
+          {
+            "candidate": "ISMAIL GHANI (TOK WEIL)",
+            "party": "PH - AMANAH",
+            "number_of_voters": 6098
+          }
+        ]
+      },
+      "N20": {
+        "name": "TAWANG",
+        "registered_voters": 43441,
+        "number_of_voter": 27348,
+        "data": [
+          {
+            "candidate": "HARUN ISMAIL (USTAZ HARUN)",
+            "party": "PN - PAS",
+            "number_of_voters": 21665
+          },
+          {
+            "candidate": "MAT ISA CHE DIR (CHE MAT)",
+            "party": "PH - AMANAH",
+            "number_of_voters": 5683
+          }
+        ]
+      },
+      "N21": {
+        "name": "PANTAI IRAMA",
+        "registered_voters": 40512,
+        "number_of_voter": 25109,
+        "data": [
+          {
+            "candidate": "MOHD HUZAIMY CHE HUSIN (HAJI MIE)",
+            "party": "PN - PAS",
+            "number_of_voters": 17779
+          },
+          {
+            "candidate": "ZAKIAH MD NOOR (KAK YAH)",
+            "party": "BN - UMNO",
+            "number_of_voters": 7330
+          }
+        ]
+      },
+      "N22": {
+        "name": "JELAWAT",
+        "registered_voters": 40012,
+        "number_of_voter": 24439,
+        "data": [
+          {
+            "candidate": "ZAMERI MAT NAWANG (LOYAR ZAMERI)",
+            "party": "PN - PAS",
+            "number_of_voters": 16885
+          },
+          {
+            "candidate": "YUSRI CHE NOH (DATO YUSRI)",
+            "party": "BN - UMNO",
+            "number_of_voters": 7277
+          },
+          {
+            "candidate": "ZULKARNAIN HARUN (BABA ZUL)",
+            "party": "IND",
+            "number_of_voters": 277
+          }
+        ]
+      },
+      "N23": {
+        "name": "MELOR",
+        "registered_voters": 28387,
+        "number_of_voter": 18093,
+        "data": [
+          {
+            "candidate": "WAN ROHIMI WAN DAUD",
+            "party": "PN - PAS",
+            "number_of_voters": 12688
+          },
+          {
+            "candidate": "AZMI ISHAK (CIKGU HJ. AZMI)",
+            "party": "BN - UMNO",
+            "number_of_voters": 5405
+          }
+        ]
+      },
+      "N24": {
+        "name": "KADOK",
+        "registered_voters": 21833,
+        "number_of_voter": 13749,
+        "data": [
+          {
+            "candidate": "AZAMI MOHD NOR",
+            "party": "DATO' AZAMI",
+            "number_of_voters": 10442
+          },
+          {
+            "candidate": "MOHD AZIZAN RAZAK (IR AZIZAN RAZAK)",
+            "party": "PH - AMANAH",
+            "number_of_voters": 3307
+          }
+        ]
+      },
+      "N25": {
+        "name": "KOK LANAS",
+        "registered_voters": 35679,
+        "number_of_voter": 22737,
+        "data": [
+          {
+            "candidate": "MOHAMED FARID MOHAMED ZAWAWI",
+            "party": "DATO' FARID",
+            "number_of_voters": 15478
+          },
+          {
+            "candidate": "AHMAD DERAMAN (ABE MAT JELIRA)",
+            "party": "BN - UMNO",
+            "number_of_voters": 7259
+          }
+        ]
+      },
+      "N26": {
+        "name": "BUKIT PANAU",
+        "registered_voters": 50237,
+        "number_of_voter": 28536,
+        "data": [
+          {
+            "candidate": "ABDUL FATTAH MAHMOOD",
+            "party": "DATO' ABDUL FATTAH",
+            "number_of_voters": 22582
+          },
+          {
+            "candidate": " DR. SAMSUL ADABI)",
+            "party": "PH - AMANAH",
+            "number_of_voters": 5954
+          }
+        ]
+      },
+      "N27": {
+        "name": "GUAL IPOH",
+        "registered_voters": 25718,
+        "number_of_voter": 14688,
+        "data": [
+          {
+            "candidate": "BAHARI MOHAMAD NOR",
+            "party": "PN - BERSATU",
+            "number_of_voters": 10320
+          },
+          {
+            "candidate": "ZUHAIRI ZAKARIA (JERI)",
+            "party": "BN - UMNO",
+            "number_of_voters": 4368
+          }
+        ]
+      },
+      "N28": {
+        "name": "KEMAHANG",
+        "registered_voters": 23258,
+        "number_of_voter": 13439,
+        "data": [
+          {
+            "candidate": " MEJAR (B) NIZAM)",
+            "party": "PN - PAS",
+            "number_of_voters": 10375
+          },
+          {
+            "candidate": "MAZLI MUSTAFA (ABE JEK)",
+            "party": "BN - UMNO",
+            "number_of_voters": 3064
+          }
+        ]
+      },
+      "N29": {
+        "name": "SELISING",
+        "registered_voters": 28725,
+        "number_of_voter": 18059,
+        "data": [
+          {
+            "candidate": "TUAN MOHD SARIPUDIN TUAN ISMAIL (UST TUAN SARIPUDIN)",
+            "party": "PN - PAS",
+            "number_of_voters": 12481
+          },
+          {
+            "candidate": "HASHIM ISMAIL (DATO CIKGU HASHIM)",
+            "party": "BN - UMNO",
+            "number_of_voters": 5578
+          }
+        ]
+      },
+      "N30": {
+        "name": "LIMBONGAN",
+        "registered_voters": 35393,
+        "number_of_voter": 20786,
+        "data": [
+          {
+            "candidate": "NOR ASILAH MOHAMED ZIN (USTAZAH ASILAH)",
+            "party": "PN - PAS",
+            "number_of_voters": 15183
+          },
+          {
+            "candidate": "SAMSUDIN GHANI (CIKGU DIN)",
+            "party": "PH - PKR",
+            "number_of_voters": 5603
+          }
+        ]
+      },
+      "N31": {
+        "name": "SEMERAK",
+        "registered_voters": 26781,
+        "number_of_voter": 17234,
+        "data": [
+          {
+            "candidate": "NOR SHAM SULAIMAN (NORSHAM CIKGU ABANG)",
+            "party": "PN - PAS",
+            "number_of_voters": 11531
+          },
+          {
+            "candidate": "MARSHELLA ALI (SHELA CIKGU ALI)",
+            "party": "BN - UMNO",
+            "number_of_voters": 5703
+          }
+        ]
+      },
+      "N32": {
+        "name": "GAAL",
+        "registered_voters": 22671,
+        "number_of_voter": 14299,
+        "data": [
+          {
+            "candidate": "AFAR (USTAZ RODZI",
+            "party": "PN - PAS",
+            "number_of_voters": 10388
+          },
+          {
+            "candidate": "ALIF",
+            "party": "BN - UMNO",
+            "number_of_voters": 3911
+          }
+        ]
+      },
+      "N33": {
+        "name": "PULAI CHONDONG",
+        "registered_voters": 28169,
+        "number_of_voter": 17235,
+        "data": [
+          {
+            "candidate": "AZHAR SALLEH (USTAZ AZHAR)",
+            "party": "PN - PAS",
+            "number_of_voters": 11636
+          },
+          {
+            "candidate": "MUHAMMAD FAKHRAN CHE JUSOH",
+            "party": "BN - UMNO",
+            "number_of_voters": 5599
+          }
+        ]
+      },
+      "N34": {
+        "name": "TEMANGAN",
+        "registered_voters": 26012,
+        "number_of_voter": 15625,
+        "data": [
+          {
+            "candidate": "MOHAMED FADZLI HASSAN ( DATO )",
+            "party": "PN - PAS",
+            "number_of_voters": 11446
+          },
+          {
+            "candidate": "ABDUL KADIR OTHMAN (CIKGU KADIR)",
+            "party": "PH - AMANAH",
+            "number_of_voters": 3967
+          },
+          {
+            "candidate": "PAK TUA FAUZI",
+            "party": "IND",
+            "number_of_voters": 212
+          }
+        ]
+      },
+      "N35": {
+        "name": "KEMUNING",
+        "registered_voters": 35015,
+        "number_of_voter": 20649,
+        "data": [
+          {
+            "candidate": "AHMAD ZAKHRAN MAT NOOR (LAWYER ZAKHRAN)",
+            "party": "PN - PAS",
+            "number_of_voters": 13168
+          },
+          {
+            "candidate": "MOHD FAKAARUDIN ISMAIL (ABE FAKARUDIN)",
+            "party": "BN - UMNO",
+            "number_of_voters": 7481
+          }
+        ]
+      },
+      "N36": {
+        "name": "BUKIT BUNGA",
+        "registered_voters": 21722,
+        "number_of_voter": 12928,
+        "data": [
+          {
+            "candidate": "MOHD ALMIDI JAAFAR",
+            "party": "PN - BERSATU",
+            "number_of_voters": 8540
+          },
+          {
+            "candidate": "MOHD ADHAN KECHIK (DATO ADHAN)",
+            "party": "BN - UMNO",
+            "number_of_voters": 4388
+          }
+        ]
+      },
+      "N37": {
+        "name": "AIR LANAS",
+        "registered_voters": 22468,
+        "number_of_voter": 14061,
+        "data": [
+          {
+            "candidate": "KAMARUDIN MD NOR",
+            "party": "PN - BERSATU",
+            "number_of_voters": 9535
+          },
+          {
+            "candidate": "NASRUL HADI KAMARULZAMAN",
+            "party": "BN - UMNO",
+            "number_of_voters": 4526
+          }
+        ]
+      },
+      "N38": {
+        "name": "KUALA BALAH",
+        "registered_voters": 15704,
+        "number_of_voter": 9771,
+        "data": [
+          {
+            "candidate": "ABDUL HADI AWANG KECHIL",
+            "party": "DATO' HADI",
+            "number_of_voters": 6186
+          },
+          {
+            "candidate": "YAMIN ANUAR",
+            "party": "BN - UMNO",
+            "number_of_voters": 3585
+          }
+        ]
+      },
+      "N39": {
+        "name": "MENGKEBANG",
+        "registered_voters": 26843,
+        "number_of_voter": 15935,
+        "data": [
+          {
+            "candidate": "ZUBIR ABU BAKAR",
+            "party": "PN - PAS",
+            "number_of_voters": 12531
+          },
+          {
+            "candidate": "MOHD SHUKRI ISHAK (ABE YIE)",
+            "party": "PH - PKR",
+            "number_of_voters": 3404
+          }
+        ]
+      },
+      "N40": {
+        "name": "GUCHIL",
+        "registered_voters": 27785,
+        "number_of_voter": 15358,
+        "data": [
+          {
+            "candidate": "HILMI ABDULLAH",
+            "party": "PN - PAS",
+            "number_of_voters": 10826
+          },
+          {
+            "candidate": "ZUBER HASAN",
+            "party": "BN - UMNO",
+            "number_of_voters": 4532
+          }
+        ]
+      },
+      "N41": {
+        "name": "MANEK URAI",
+        "registered_voters": 22611,
+        "number_of_voter": 13220,
+        "data": [
+          {
+            "candidate": "MOHD FAUZI ABDULLAH (ABE UJI)",
+            "party": "PN - PAS",
+            "number_of_voters": 10355
+          },
+          {
+            "candidate": "SUZAINI ADLINA SUKRI (CHE NIE)",
+            "party": "BN - UMNO",
+            "number_of_voters": 2865
+          }
+        ]
+      },
+      "N42": {
+        "name": "DABONG",
+        "registered_voters": 15255,
+        "number_of_voter": 9098,
+        "data": [
+          {
+            "candidate": "KU MOHD ZAKI KU HUSSIEN (TOK IME KU ZAKI)",
+            "party": "PN - PAS",
+            "number_of_voters": 5772
+          },
+          {
+            "candidate": "AHMAD FIRDAUS MUHAMMAD (ABE FIRDAUS)",
+            "party": "BN - UMNO",
+            "number_of_voters": 3326
+          }
+        ]
+      },
+      "N43": {
+        "name": "NENGGIRI",
+        "registered_voters": 20219,
+        "number_of_voter": 12224,
+        "data": [
+          {
+            "candidate": "MOHD AZIZI ABU NAIM",
+            "party": "PN - BERSATU",
+            "number_of_voters": 6517
+          },
+          {
+            "candidate": "AB AZIZ YUSOFF",
+            "party": "BN - UMNO",
+            "number_of_voters": 5707
+          }
+        ]
+      },
+      "N44": {
+        "name": "PALOH",
+        "registered_voters": 21162,
+        "number_of_voter": 12609,
+        "data": [
+          {
+            "candidate": "SHAARI MAT HUSSAIN",
+            "party": "PN - BERSATU",
+            "number_of_voters": 7407
+          },
+          {
+            "candidate": "AMRAN ARIFIN",
+            "party": "BN - UMNO",
+            "number_of_voters": 5202
+          }
+        ]
+      },
+      "N45": {
+        "name": "GALAS",
+        "registered_voters": 29638,
+        "number_of_voter": 18147,
+        "data": [
+          {
+            "candidate": "MOHD SYAHBUDDIN HASHIM (ABE DIN)",
+            "party": "BN - UMNO",
+            "number_of_voters": 10742
+          },
+          {
+            "candidate": "MOHD TARMIZI ABD RAHMAN (USTAZ JI)",
+            "party": "PN - PAS",
+            "number_of_voters": 7405
+          }
+        ]
+      }
+    }
   },
   "Terengganu": {
     "p": {
@@ -1648,7 +3112,562 @@
         ]
       }
     },
-    "n": {}
+    "n": {
+      "N1": {
+        "name": "KUALA BESUT",
+        "registered_voters": 26992,
+        "number_of_voter": 18873,
+        "data": [
+          {
+            "candidate": "AZBI SALLEH (HAJI AZBI)",
+            "party": "PN - PAS",
+            "number_of_voters": 11496
+          },
+          {
+            "candidate": "TENGKU ZAIHAN CHE KU ABD RAHMAN",
+            "party": "BN - UMNO",
+            "number_of_voters": 7377
+          }
+        ]
+      },
+      "N2": {
+        "name": "KOTA PUTERA",
+        "registered_voters": 32792,
+        "number_of_voter": 22911,
+        "data": [
+          {
+            "candidate": "MOHD NURKHUZAINI AB RAHMAN (HJ KHUZ)",
+            "party": "PN - PAS",
+            "number_of_voters": 13360
+          },
+          {
+            "candidate": "MUHAMMAD PEHIMI YUSOF",
+            "party": "BN - UMNO",
+            "number_of_voters": 9551
+          }
+        ]
+      },
+      "N3": {
+        "name": "JERTIH",
+        "registered_voters": 29088,
+        "number_of_voter": 19521,
+        "data": [
+          {
+            "candidate": "DR RIDUAN MOHAMAD NOR",
+            "party": "PN - PAS",
+            "number_of_voters": 12122
+          },
+          {
+            "candidate": "ROZAINI @ KOJA",
+            "party": "BN - UMNO",
+            "number_of_voters": 7399
+          }
+        ]
+      },
+      "N4": {
+        "name": "HULU BESUT",
+        "registered_voters": 23846,
+        "number_of_voter": 16370,
+        "data": [
+          {
+            "candidate": "MIE CHE HUSSIN",
+            "party": "PN - BERSATU",
+            "number_of_voters": 9525
+          },
+          {
+            "candidate": "NAWI MOHAMAD",
+            "party": "BN - UMNO",
+            "number_of_voters": 6665
+          },
+          {
+            "candidate": "CHE HARUN KAMARIAH (CIKGU )",
+            "party": "IND",
+            "number_of_voters": 180
+          }
+        ]
+      },
+      "N5": {
+        "name": "JABI",
+        "registered_voters": 25192,
+        "number_of_voter": 18370,
+        "data": [
+          {
+            "candidate": "AZMAN IBRAHIM",
+            "party": "PN - PAS",
+            "number_of_voters": 11523
+          },
+          {
+            "candidate": "ROSDI ZAKARIA",
+            "party": "BN - UMNO",
+            "number_of_voters": 6847
+          }
+        ]
+      },
+      "N6": {
+        "name": "PERMAISURI",
+        "registered_voters": 30739,
+        "number_of_voter": 22136,
+        "data": [
+          {
+            "candidate": "MOHD YUSOP MAJID",
+            "party": "PN - BERSATU",
+            "number_of_voters": 14837
+          },
+          {
+            "candidate": "HAMDAN HAMZAH",
+            "party": "BN - UMNO",
+            "number_of_voters": 7299
+          }
+        ]
+      },
+      "N7": {
+        "name": "LANGKAP",
+        "registered_voters": 22439,
+        "number_of_voter": 16372,
+        "data": [
+          {
+            "candidate": "AZMI MAAROF",
+            "party": "PN - PAS",
+            "number_of_voters": 9553
+          },
+          {
+            "candidate": "SABRI MOHD NOOR",
+            "party": "BN - UMNO",
+            "number_of_voters": 6819
+          }
+        ]
+      },
+      "N8": {
+        "name": "BATU RAKIT",
+        "registered_voters": 29919,
+        "number_of_voter": 22911,
+        "data": [
+          {
+            "candidate": "MOHD SHAFIZI ISMAIL",
+            "party": "PN - PAS",
+            "number_of_voters": 14465
+          },
+          {
+            "candidate": "BAZLAN ABD RAHMAN",
+            "party": "BN - UMNO",
+            "number_of_voters": 8446
+          }
+        ]
+      },
+      "N9": {
+        "name": "TEPUH",
+        "registered_voters": 30448,
+        "number_of_voter": 23204,
+        "data": [
+          {
+            "candidate": "HISHAMUDDIN ABDUL KARIM",
+            "party": "PN - PAS",
+            "number_of_voters": 17049
+          },
+          {
+            "candidate": "MUHAMMAD HANAFI HASSAN",
+            "party": "BN - UMNO",
+            "number_of_voters": 6155
+          }
+        ]
+      },
+      "N10": {
+        "name": "BULUH GADING",
+        "registered_voters": 27845,
+        "number_of_voter": 22060,
+        "data": [
+          {
+            "candidate": "RIDZUAN HASHIM",
+            "party": "PN - PAS",
+            "number_of_voters": 16213
+          },
+          {
+            "candidate": "OMAR ADAM",
+            "party": "BN - UMNO",
+            "number_of_voters": 5847
+          }
+        ]
+      },
+      "N11": {
+        "name": "SEBERANG TAKIR",
+        "registered_voters": 27733,
+        "number_of_voter": 21515,
+        "data": [
+          {
+            "candidate": "KHAZAN CHE MAT (USTAZ HAJI KHAZAN)",
+            "party": "PN - BERSATU",
+            "number_of_voters": 12156
+          },
+          {
+            "candidate": "AHMAD RAZIF ABD RAHMAN (CIKGU RAZIF)",
+            "party": "BN - UMNO",
+            "number_of_voters": 9359
+          }
+        ]
+      },
+      "N12": {
+        "name": "BUKIT TUNGGAL",
+        "registered_voters": 21055,
+        "number_of_voter": 16411,
+        "data": [
+          {
+            "candidate": "ZAHARUDIN ZAHID",
+            "party": "PN - PAS",
+            "number_of_voters": 12066
+          },
+          {
+            "candidate": "WAN NOORISLAM WAN HASHIM",
+            "party": "BN - UMNO",
+            "number_of_voters": 4345
+          }
+        ]
+      },
+      "N13": {
+        "name": "WAKAF MEMPELAM",
+        "registered_voters": 34509,
+        "number_of_voter": 26063,
+        "data": [
+          {
+            "candidate": "WAN SUKAIRI WAN ABDULLAH (USTAZ)",
+            "party": "PN - PAS",
+            "number_of_voters": 22345
+          },
+          {
+            "candidate": "WAN MOHD HAIKAL WAN GHAZALI",
+            "party": "PH - PKR",
+            "number_of_voters": 3718
+          }
+        ]
+      },
+      "N14": {
+        "name": "BANDAR",
+        "registered_voters": 22057,
+        "number_of_voter": 14884,
+        "data": [
+          {
+            "candidate": "AHMAD SHAH MOHAMED (USTAZ)",
+            "party": "PN - PAS",
+            "number_of_voters": 8438
+          },
+          {
+            "candidate": "ARMI IRZAN MOHD",
+            "party": "BN - UMNO",
+            "number_of_voters": 6074
+          },
+          {
+            "candidate": "LUQMAN LONG",
+            "party": "MUDA",
+            "number_of_voters": 372
+          }
+        ]
+      },
+      "N15": {
+        "name": "LADANG",
+        "registered_voters": 26250,
+        "number_of_voter": 18953,
+        "data": [
+          {
+            "candidate": "ZURAIDA MD NOOR",
+            "party": "PN - PAS",
+            "number_of_voters": 11663
+          },
+          {
+            "candidate": "MOHD SABRI AZMI (DATUK MAT)",
+            "party": "BN - UMNO",
+            "number_of_voters": 7290
+          }
+        ]
+      },
+      "N16": {
+        "name": "BATU BURUK",
+        "registered_voters": 40759,
+        "number_of_voter": 29866,
+        "data": [
+          {
+            "candidate": "MUHAMMAD KHALIL ABDUL HADI (USTAZ)",
+            "party": "PN - PAS",
+            "number_of_voters": 23767
+          },
+          {
+            "candidate": "MOHAMAD ZAMIR GHAZALI",
+            "party": "PH - AMANAH",
+            "number_of_voters": 6099
+          }
+        ]
+      },
+      "N17": {
+        "name": "ALUR LIMBAT",
+        "registered_voters": 36087,
+        "number_of_voter": 27610,
+        "data": [
+          {
+            "candidate": "ARIFFIN DERAMAN (USTAZ ARIFFIN)",
+            "party": "PN - PAS",
+            "number_of_voters": 20133
+          },
+          {
+            "candidate": "YUSERI ISA (CIKGU MOHD YUSERI)",
+            "party": "BN - UMNO",
+            "number_of_voters": 7477
+          }
+        ]
+      },
+      "N18": {
+        "name": "BUKIT PAYUNG",
+        "registered_voters": 28823,
+        "number_of_voter": 22720,
+        "data": [
+          {
+            "candidate": "MOHD NOR (USTAZ)",
+            "party": "PN - PAS",
+            "number_of_voters": 16838
+          },
+          {
+            "candidate": "MOHD KHAN",
+            "party": "BN - UMNO",
+            "number_of_voters": 5882
+          }
+        ]
+      },
+      "N19": {
+        "name": "RU RENDANG",
+        "registered_voters": 32867,
+        "number_of_voter": 24568,
+        "data": [
+          {
+            "candidate": "AHMAD SAMSURI MOKHTAR (DR SAM)",
+            "party": "PN - PAS",
+            "number_of_voters": 20927
+          },
+          {
+            "candidate": "SUHAIMI SULAIMAN (HAJI)",
+            "party": "PH - AMANAH",
+            "number_of_voters": 3641
+          }
+        ]
+      },
+      "N20": {
+        "name": "PENGKALAN BERANGAN",
+        "registered_voters": 35248,
+        "number_of_voter": 27616,
+        "data": [
+          {
+            "candidate": "SULAIMAN SULONG",
+            "party": "PN - PAS",
+            "number_of_voters": 17946
+          },
+          {
+            "candidate": "NIK DIR NIK WAN KU",
+            "party": "BN - UMNO",
+            "number_of_voters": 9670
+          }
+        ]
+      },
+      "N21": {
+        "name": "TELEMUNG",
+        "registered_voters": 21495,
+        "number_of_voter": 16465,
+        "data": [
+          {
+            "candidate": "MOHD ZAWAWI ISMAIL (CIKGU AWI)",
+            "party": "PN - BERSATU",
+            "number_of_voters": 8380
+          },
+          {
+            "candidate": "ROZI MAMAT",
+            "party": "BN - UMNO",
+            "number_of_voters": 8085
+          }
+        ]
+      },
+      "N22": {
+        "name": "MANIR",
+        "registered_voters": 20639,
+        "number_of_voter": 15682,
+        "data": [
+          {
+            "candidate": "HILMI HARUN",
+            "party": "PN - PAS",
+            "number_of_voters": 13471
+          },
+          {
+            "candidate": "EKA LISUT",
+            "party": "PH - PKR",
+            "number_of_voters": 2211
+          }
+        ]
+      },
+      "N23": {
+        "name": "KUALA BERANG",
+        "registered_voters": 21428,
+        "number_of_voter": 16623,
+        "data": [
+          {
+            "candidate": "MAMAD PUTEH (DR. MAMAD)",
+            "party": "PN - PAS",
+            "number_of_voters": 11270
+          },
+          {
+            "candidate": "JALALUDIN ISMAIL (CG JALAL)",
+            "party": "BN - UMNO",
+            "number_of_voters": 5353
+          }
+        ]
+      },
+      "N24": {
+        "name": "AJIL",
+        "registered_voters": 24922,
+        "number_of_voter": 18466,
+        "data": [
+          {
+            "candidate": "MALIAMAN KASSIM",
+            "party": "PN - PAS",
+            "number_of_voters": 12362
+          },
+          {
+            "candidate": "JAILANI JOHARI",
+            "party": "BN - UMNO",
+            "number_of_voters": 6104
+          }
+        ]
+      },
+      "N25": {
+        "name": "BUKIT BESI",
+        "registered_voters": 18195,
+        "number_of_voter": 13392,
+        "data": [
+          {
+            "candidate": "GHAZALI SULAIMAN",
+            "party": "PN - PAS",
+            "number_of_voters": 8552
+          },
+          {
+            "candidate": "DIN ADAM",
+            "party": "BN - UMNO",
+            "number_of_voters": 4840
+          }
+        ]
+      },
+      "N26": {
+        "name": "RANTAU ABANG",
+        "registered_voters": 33394,
+        "number_of_voter": 24996,
+        "data": [
+          {
+            "candidate": "MOHD FADHLI",
+            "party": "PN - PAS",
+            "number_of_voters": 18959
+          },
+          {
+            "candidate": "MOHD ASRI BIN MOHAMAD",
+            "party": "BN - UMNO",
+            "number_of_voters": 6037
+          }
+        ]
+      },
+      "N27": {
+        "name": "SURA",
+        "registered_voters": 30206,
+        "number_of_voter": 20942,
+        "data": [
+          {
+            "candidate": "TENGKU MUHAMMAD FAKHRUDDIN (DR DIN)",
+            "party": "PN - PAS",
+            "number_of_voters": 17395
+          },
+          {
+            "candidate": "OBO OTHMAN OMAR",
+            "party": "PH - PKR",
+            "number_of_voters": 3547
+          }
+        ]
+      },
+      "N28": {
+        "name": "PAKA",
+        "registered_voters": 34839,
+        "number_of_voter": 25486,
+        "data": [
+          {
+            "candidate": "SATIFUL BAHARI MAMAT",
+            "party": "PN - PAS",
+            "number_of_voters": 18681
+          },
+          {
+            "candidate": "AHMAD ABDULLAH ABD WAHAB (MAD PAKA)",
+            "party": "BN - UMNO",
+            "number_of_voters": 6805
+          }
+        ]
+      },
+      "N29": {
+        "name": "KEMASIK",
+        "registered_voters": 28618,
+        "number_of_voter": 21051,
+        "data": [
+          {
+            "candidate": "SAIFUL AZMI SUHAILI",
+            "party": "PN - PAS",
+            "number_of_voters": 13778
+          },
+          {
+            "candidate": "MOHD KHAIRI AFIQ MOHAMAD YUSOF",
+            "party": "BN - UMNO",
+            "number_of_voters": 7273
+          }
+        ]
+      },
+      "N30": {
+        "name": "KIJAL",
+        "registered_voters": 29491,
+        "number_of_voter": 23048,
+        "data": [
+          {
+            "candidate": "RAZALI IDRIS (TOK LI)",
+            "party": "PN - BERSATU",
+            "number_of_voters": 13403
+          },
+          {
+            "candidate": "AHMAD SAID",
+            "party": "BN - UMNO",
+            "number_of_voters": 9645
+          }
+        ]
+      },
+      "N31": {
+        "name": "CUKAI",
+        "registered_voters": 39153,
+        "number_of_voter": 28682,
+        "data": [
+          {
+            "candidate": "HANAFIAH MAT",
+            "party": "PN - PAS",
+            "number_of_voters": 18394
+          },
+          {
+            "candidate": "MOHAMED RAHIM HUSSIN",
+            "party": "BN - UMNO",
+            "number_of_voters": 10288
+          }
+        ]
+      },
+      "N32": {
+        "name": "AIR PUTIH",
+        "registered_voters": 43826,
+        "number_of_voter": 33000,
+        "data": [
+          {
+            "candidate": "MOHD HAFIZ",
+            "party": "PN - PAS",
+            "number_of_voters": 21664
+          },
+          {
+            "candidate": "MOHD. ZAKI SALLEH",
+            "party": "BN - UMNO",
+            "number_of_voters": 11336
+          }
+        ]
+      }
+    }
   },
   "Penang": {
     "p": {
@@ -2047,7 +4066,763 @@
         ]
       }
     },
-    "n": {}
+    "n": {
+      "N1": {
+        "name": "PENAGA",
+        "registered_voters": 25468,
+        "number_of_voter": 20909,
+        "data": [
+          {
+            "candidate": "MOHD YUSNI MAT PIAH (USTAZ YUSNI)",
+            "party": "PN - PAS",
+            "number_of_voters": 13223
+          },
+          {
+            "candidate": "MOHD NAIM SALLEH (USTAZ MOHD NAIM BIN SALLEH)",
+            "party": "BN - UMNO",
+            "number_of_voters": 7686
+          }
+        ]
+      },
+      "N2": {
+        "name": "BERTAM",
+        "registered_voters": 23999,
+        "number_of_voter": 18585,
+        "data": [
+          {
+            "candidate": "REEZAL MERICAN NAINA MERICAN",
+            "party": "BN - UMNO",
+            "number_of_voters": 10453
+          },
+          {
+            "candidate": "KHALIQ MEHTAB MOHD ISHAQ",
+            "party": "PN - BERSATU",
+            "number_of_voters": 8132
+          }
+        ]
+      },
+      "N3": {
+        "name": "PINANG TUNGGAL",
+        "registered_voters": 34723,
+        "number_of_voter": 27192,
+        "data": [
+          {
+            "candidate": "BUKHORI GHAZALI",
+            "party": "PN - PAS",
+            "number_of_voters": 17060
+          },
+          {
+            "candidate": "ZAINUDDIN MOHAMED",
+            "party": "PH - PKR",
+            "number_of_voters": 10132
+          }
+        ]
+      },
+      "N4": {
+        "name": "PERMATANG BERANGAN",
+        "registered_voters": 28519,
+        "number_of_voter": 22951,
+        "data": [
+          {
+            "candidate": "MOHD SOBRI SALEH (PAKCIK SOBRI)",
+            "party": "PN - PAS",
+            "number_of_voters": 15950
+          },
+          {
+            "candidate": "NOR HAFIZAH OTHMAN",
+            "party": "BN - UMNO",
+            "number_of_voters": 7001
+          }
+        ]
+      },
+      "N5": {
+        "name": "SUNGAI DUA",
+        "registered_voters": 28100,
+        "number_of_voter": 22467,
+        "data": [
+          {
+            "candidate": "MUHAMMAD FAUZI YUSOFF (USTAZ FAUZI)",
+            "party": "PN - PAS",
+            "number_of_voters": 13988
+          },
+          {
+            "candidate": "SHAIK HUSSEIN MYDIN",
+            "party": "BN - UMNO",
+            "number_of_voters": 8479
+          }
+        ]
+      },
+      "N6": {
+        "name": "TELOK AYER TAWAR",
+        "registered_voters": 24784,
+        "number_of_voter": 18499,
+        "data": [
+          {
+            "candidate": "AZMI ALANG",
+            "party": "PN - BERSATU",
+            "number_of_voters": 10223
+          },
+          {
+            "candidate": "MOHSEIN SHARIFF",
+            "party": "PH - PKR",
+            "number_of_voters": 8276
+          }
+        ]
+      },
+      "N7": {
+        "name": "SUNGAI PUYU",
+        "registered_voters": 35904,
+        "number_of_voter": 26346,
+        "data": [
+          {
+            "candidate": "PHEE SYN TZE",
+            "party": "PH - DAP",
+            "number_of_voters": 23838
+          },
+          {
+            "candidate": "ANDREW TEOW CHIN SIANG",
+            "party": "PN - PAS",
+            "number_of_voters": 2508
+          }
+        ]
+      },
+      "N8": {
+        "name": "BAGAN JERMAL",
+        "registered_voters": 32529,
+        "number_of_voter": 23225,
+        "data": [
+          {
+            "candidate": "CHEE YEEH KEEN",
+            "party": "PH - DAP",
+            "number_of_voters": 19687
+          },
+          {
+            "candidate": "ONG CHUAN JIN (C J ONG)",
+            "party": "PN - BERSATU",
+            "number_of_voters": 3538
+          }
+        ]
+      },
+      "N9": {
+        "name": "BAGAN DALAM",
+        "registered_voters": 21221,
+        "number_of_voter": 14696,
+        "data": [
+          {
+            "candidate": "KUMARAN KRISHNAN @ CALVIN",
+            "party": "PH - DAP",
+            "number_of_voters": 10506
+          },
+          {
+            "candidate": "K. JAYARAMAN",
+            "party": "PN - PAS",
+            "number_of_voters": 2964
+          },
+          {
+            "candidate": "SATEES MUNIANDY",
+            "party": "IND",
+            "number_of_voters": 1111
+          },
+          {
+            "candidate": "RAJASAKANAN SINNAKANNU",
+            "party": "PFP",
+            "number_of_voters": 115
+          }
+        ]
+      },
+      "N10": {
+        "name": "SEBERANG JAYA",
+        "registered_voters": 49215,
+        "number_of_voter": 36828,
+        "data": [
+          {
+            "candidate": "IZHAR SHAH ARIF SHAH",
+            "party": "PN - BERSATU",
+            "number_of_voters": 20877
+          },
+          {
+            "candidate": "JOHARI KASSIM",
+            "party": "PH - PKR",
+            "number_of_voters": 15951
+          }
+        ]
+      },
+      "N11": {
+        "name": "PERMATANG PASIR",
+        "registered_voters": 30464,
+        "number_of_voter": 23944,
+        "data": [
+          {
+            "candidate": "AMIR HAMZAH",
+            "party": "PN - PAS",
+            "number_of_voters": 13526
+          },
+          {
+            "candidate": "FAIZ FADZIL",
+            "party": "PH - AMANAH",
+            "number_of_voters": 10418
+          }
+        ]
+      },
+      "N12": {
+        "name": "PENANTI",
+        "registered_voters": 28170,
+        "number_of_voter": 21597,
+        "data": [
+          {
+            "candidate": "ZULKEFLI BAKAR",
+            "party": "PN - BERSATU",
+            "number_of_voters": 12586
+          },
+          {
+            "candidate": "ROSIDI HUSSAIN (USTAZ)",
+            "party": "PH - PKR",
+            "number_of_voters": 9011
+          }
+        ]
+      },
+      "N13": {
+        "name": "BERAPIT",
+        "registered_voters": 29076,
+        "number_of_voter": 20313,
+        "data": [
+          {
+            "candidate": "HENG LEE LEE",
+            "party": "PH - DAP",
+            "number_of_voters": 19183
+          },
+          {
+            "candidate": "LEE KOK KEONG",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 1130
+          }
+        ]
+      },
+      "N14": {
+        "name": "MACHANG BUBUK",
+        "registered_voters": 56538,
+        "number_of_voter": 41632,
+        "data": [
+          {
+            "candidate": "LEE KHAI LOON",
+            "party": "PH - PKR",
+            "number_of_voters": 28777
+          },
+          {
+            "candidate": "ANDY TAN HUM WEI",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 12855
+          }
+        ]
+      },
+      "N15": {
+        "name": "PADANG LALANG",
+        "registered_voters": 36001,
+        "number_of_voter": 25400,
+        "data": [
+          {
+            "candidate": "GOOI ZI SEN",
+            "party": "PH - DAP",
+            "number_of_voters": 22315
+          },
+          {
+            "candidate": "SURESH",
+            "party": "PN - BERSATU",
+            "number_of_voters": 2867
+          },
+          {
+            "candidate": "OOI KHAR GIAP",
+            "party": "PFP",
+            "number_of_voters": 218
+          }
+        ]
+      },
+      "N16": {
+        "name": "PERAI",
+        "registered_voters": 20479,
+        "number_of_voter": 13913,
+        "data": [
+          {
+            "candidate": "SUNDARAJOO SOMU",
+            "party": "PH - DAP",
+            "number_of_voters": 10680
+          },
+          {
+            "candidate": "SIVASUNTARAM RAJALINGGAM",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 1541
+          },
+          {
+            "candidate": "DAVID MARSHEL",
+            "party": "IND",
+            "number_of_voters": 1439
+          },
+          {
+            "candidate": "VIKY",
+            "party": "MUDA",
+            "number_of_voters": 253
+          }
+        ]
+      },
+      "N17": {
+        "name": "BUKIT TENGAH",
+        "registered_voters": 31635,
+        "number_of_voter": 23403,
+        "data": [
+          {
+            "candidate": "LEUNG",
+            "party": "PH - PKR",
+            "number_of_voters": 16050
+          },
+          {
+            "candidate": "BALJIT SINGH",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 7353
+          }
+        ]
+      },
+      "N18": {
+        "name": "BUKIT TAMBUN",
+        "registered_voters": 37496,
+        "number_of_voter": 27263,
+        "data": [
+          {
+            "candidate": "GOH CHOON AIK",
+            "party": "PH - PKR",
+            "number_of_voters": 21985
+          },
+          {
+            "candidate": "TAN GIA WEI",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 4810
+          },
+          {
+            "candidate": "SAMUGANATHAN MUNIANDY",
+            "party": "IND",
+            "number_of_voters": 468
+          }
+        ]
+      },
+      "N19": {
+        "name": "JAWI",
+        "registered_voters": 36601,
+        "number_of_voter": 25963,
+        "data": [
+          {
+            "candidate": "NG MOOI LYE",
+            "party": "PH - DAP",
+            "number_of_voters": 20641
+          },
+          {
+            "candidate": "STEVEN KOH",
+            "party": "PN - PAS",
+            "number_of_voters": 5322
+          }
+        ]
+      },
+      "N20": {
+        "name": "SUNGAI BAKAP",
+        "registered_voters": 38409,
+        "number_of_voter": 29303,
+        "data": [
+          {
+            "candidate": "ABANG ZAM",
+            "party": "PN - PAS",
+            "number_of_voters": 15433
+          },
+          {
+            "candidate": "NURHIDAYAH",
+            "party": "PH - PKR",
+            "number_of_voters": 13870
+          }
+        ]
+      },
+      "N21": {
+        "name": "SUNGAI ACHEH",
+        "registered_voters": 26095,
+        "number_of_voter": 18988,
+        "data": [
+          {
+            "candidate": "RASHIDI ZINOL",
+            "party": "BN - UMNO",
+            "number_of_voters": 9556
+          },
+          {
+            "candidate": "ZULKIFLI IBRAHIM",
+            "party": "PN - BERSATU",
+            "number_of_voters": 9432
+          }
+        ]
+      },
+      "N22": {
+        "name": "TANJONG BUNGA",
+        "registered_voters": 29477,
+        "number_of_voter": 18205,
+        "data": [
+          {
+            "candidate": "ZAIRIL KHIR JOHARI",
+            "party": "PH - DAP",
+            "number_of_voters": 13257
+          },
+          {
+            "candidate": "HNG CHEE WEY",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 4430
+          },
+          {
+            "candidate": "LEE CHUI WAH",
+            "party": "PRM",
+            "number_of_voters": 518
+          }
+        ]
+      },
+      "N23": {
+        "name": "AIR PUTIH",
+        "registered_voters": 15371,
+        "number_of_voter": 10506,
+        "data": [
+          {
+            "candidate": "LIM GUAN ENG",
+            "party": "PH - DAP",
+            "number_of_voters": 8996
+          },
+          {
+            "candidate": "KONG CHENG ANN (IVAN KONG)",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 1073
+          },
+          {
+            "candidate": "TEH YEE CHEU",
+            "party": "PRM",
+            "number_of_voters": 437
+          }
+        ]
+      },
+      "N24": {
+        "name": "KEBUN BUNGA",
+        "registered_voters": 24532,
+        "number_of_voter": 16120,
+        "data": [
+          {
+            "candidate": "LEE BOON HENG",
+            "party": "PH - PKR",
+            "number_of_voters": 14159
+          },
+          {
+            "candidate": "TAN ZHEN ZUNE",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 1204
+          },
+          {
+            "candidate": "RAZALIF MOHAMAD ZAIN",
+            "party": "IND",
+            "number_of_voters": 757
+          }
+        ]
+      },
+      "N25": {
+        "name": "PULAU TIKUS",
+        "registered_voters": 23257,
+        "number_of_voter": 13605,
+        "data": [
+          {
+            "candidate": "JOSHUA WOO SZE ZENG",
+            "party": "PH - DAP",
+            "number_of_voters": 11577
+          },
+          {
+            "candidate": "DAVE TANG",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 1808
+          },
+          {
+            "candidate": "GOH CHUIN LOON",
+            "party": "PRM",
+            "number_of_voters": 220
+          }
+        ]
+      },
+      "N26": {
+        "name": "PADANG KOTA",
+        "registered_voters": 15165,
+        "number_of_voter": 9406,
+        "data": [
+          {
+            "candidate": "CHOW KON YEOW",
+            "party": "PH - DAP",
+            "number_of_voters": 8261
+          },
+          {
+            "candidate": "NG KHOON LENG",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 1145
+          }
+        ]
+      },
+      "N27": {
+        "name": "PENGKALAN KOTA",
+        "registered_voters": 21568,
+        "number_of_voter": 15766,
+        "data": [
+          {
+            "candidate": "WONG YUEE HARNG",
+            "party": "PH - DAP",
+            "number_of_voters": 14921
+          },
+          {
+            "candidate": "SUTHAKARAN SUBRAMANIAM",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 845
+          }
+        ]
+      },
+      "N28": {
+        "name": "KOMTAR",
+        "registered_voters": 15532,
+        "number_of_voter": 10714,
+        "data": [
+          {
+            "candidate": "TEH LAI HENG",
+            "party": "PH - DAP",
+            "number_of_voters": 9279
+          },
+          {
+            "candidate": "CHEAH KIM HUAT",
+            "party": "PN - BERSATU",
+            "number_of_voters": 1435
+          }
+        ]
+      },
+      "N29": {
+        "name": "DATOK KERAMAT",
+        "registered_voters": 26791,
+        "number_of_voter": 18452,
+        "data": [
+          {
+            "candidate": "JAGDEEP SINGH DEO",
+            "party": "PH - DAP",
+            "number_of_voters": 13398
+          },
+          {
+            "candidate": "HENG SEE LIN",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 5054
+          }
+        ]
+      },
+      "N30": {
+        "name": "SUNGAI PINANG",
+        "registered_voters": 34416,
+        "number_of_voter": 24608,
+        "data": [
+          {
+            "candidate": "LIM SIEW KHIM",
+            "party": "PH - DAP",
+            "number_of_voters": 16026
+          },
+          {
+            "candidate": "NG FOOK ON",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 7738
+          },
+          {
+            "candidate": "ABDUL GHANI HAROON",
+            "party": "PRM",
+            "number_of_voters": 623
+          },
+          {
+            "candidate": "ANDREW RAJAH",
+            "party": "IND",
+            "number_of_voters": 221
+          }
+        ]
+      },
+      "N31": {
+        "name": "BATU LANCANG",
+        "registered_voters": 33106,
+        "number_of_voter": 23661,
+        "data": [
+          {
+            "candidate": "ONG AH TEONG",
+            "party": "PH - DAP",
+            "number_of_voters": 21796
+          },
+          {
+            "candidate": "MOHD ASWAAD JAAFAR",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 1865
+          }
+        ]
+      },
+      "N32": {
+        "name": "SERI DELIMA",
+        "registered_voters": 31574,
+        "number_of_voter": 20334,
+        "data": [
+          {
+            "candidate": "CONNIE TAN HOOI PENG",
+            "party": "PH - DAP",
+            "number_of_voters": 16384
+          },
+          {
+            "candidate": "MOHAN APPAROO (A MOHAN)",
+            "party": "PN - BERSATU",
+            "number_of_voters": 3950
+          }
+        ]
+      },
+      "N33": {
+        "name": "AIR ITAM",
+        "registered_voters": 23085,
+        "number_of_voter": 15723,
+        "data": [
+          {
+            "candidate": "JOSEPH NG SOON SIANG",
+            "party": "PH - DAP",
+            "number_of_voters": 12456
+          },
+          {
+            "candidate": "CHEANG CHEE GOOI",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 3267
+          }
+        ]
+      },
+      "N34": {
+        "name": "PAYA TERUBONG",
+        "registered_voters": 62734,
+        "number_of_voter": 44258,
+        "data": [
+          {
+            "candidate": "WONG HON WAI",
+            "party": "PH - DAP",
+            "number_of_voters": 40530
+          },
+          {
+            "candidate": "OOI GHEE OON (ANDREW OOI)",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 3728
+          }
+        ]
+      },
+      "N35": {
+        "name": "BATU UBAN",
+        "registered_voters": 43529,
+        "number_of_voter": 29641,
+        "data": [
+          {
+            "candidate": "KUMARESAN ARAMUGAM",
+            "party": "PH - PKR",
+            "number_of_voters": 22773
+          },
+          {
+            "candidate": "MOK KOK ON",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 6065
+          },
+          {
+            "candidate": "LEE KIM NOOR (K N LEE)",
+            "party": "MUDA",
+            "number_of_voters": 803
+          }
+        ]
+      },
+      "N36": {
+        "name": "PANTAI JEREJAK",
+        "registered_voters": 29890,
+        "number_of_voter": 20183,
+        "data": [
+          {
+            "candidate": "FAHMI ZAINOL",
+            "party": "PH - PKR",
+            "number_of_voters": 14116
+          },
+          {
+            "candidate": "OH TONG KEONG",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 5519
+          },
+          {
+            "candidate": "PRIYANKAA LOH XIANG PIN",
+            "party": "MUDA",
+            "number_of_voters": 472
+          },
+          {
+            "candidate": "RAVINDER SINGH",
+            "party": "PRM",
+            "number_of_voters": 76
+          }
+        ]
+      },
+      "N37": {
+        "name": "BATU MAUNG",
+        "registered_voters": 47226,
+        "number_of_voter": 34657,
+        "data": [
+          {
+            "candidate": "MOHAMAD ABDUL HAMID (PROF DATUK DR MOHAMAD)",
+            "party": "PH - PKR",
+            "number_of_voters": 18939
+          },
+          {
+            "candidate": "AZAHARI ARIS",
+            "party": "PN - BERSATU",
+            "number_of_voters": 15718
+          }
+        ]
+      },
+      "N38": {
+        "name": "BAYAN LEPAS",
+        "registered_voters": 39754,
+        "number_of_voter": 29035,
+        "data": [
+          {
+            "candidate": "AZRUL MAHATHIR AZIZ",
+            "party": "PH - AMANAH",
+            "number_of_voters": 15462
+          },
+          {
+            "candidate": "DOMINIC LAU HOE CHAI",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 13573
+          }
+        ]
+      },
+      "N39": {
+        "name": "PULAU BETONG",
+        "registered_voters": 23838,
+        "number_of_voter": 18017,
+        "data": [
+          {
+            "candidate": "MOHAMAD SHUKOR ZAKARIAH",
+            "party": "PN - PAS",
+            "number_of_voters": 9534
+          },
+          {
+            "candidate": "MOHD TUAH ISMAIL",
+            "party": "PH - PKR",
+            "number_of_voters": 8483
+          }
+        ]
+      },
+      "N40": {
+        "name": "TELOK BAHANG",
+        "registered_voters": 17927,
+        "number_of_voter": 13546,
+        "data": [
+          {
+            "candidate": "MUHAMAD KASIM",
+            "party": "PN - BERSATU",
+            "number_of_voters": 7245
+          },
+          {
+            "candidate": "AHMAD ZAKI SHAH SHAH HEADAN",
+            "party": "BN - UMNO",
+            "number_of_voters": 6301
+          }
+        ]
+      }
+    }
   },
   "Perak": {
     "p": {
@@ -6496,7 +9271,1135 @@
         ]
       }
     },
-    "n": {}
+    "n": {
+      "N1": {
+        "name": "SUNGAI AIR TAWAR",
+        "registered_voters": 20026,
+        "number_of_voter": 14894,
+        "data": [
+          {
+            "candidate": "RIZAM ISMAIL",
+            "party": "BN - UMNO",
+            "number_of_voters": 7870
+          },
+          {
+            "candidate": "MOHAMAD ZAIDI SELAMAT (CIKGU)",
+            "party": "PN - BERSATU",
+            "number_of_voters": 7024
+          }
+        ]
+      },
+      "N2": {
+        "name": "SABAK",
+        "registered_voters": 31816,
+        "number_of_voter": 22647,
+        "data": [
+          {
+            "candidate": "SALLEHEN MUKHYI (USTAZ)",
+            "party": "PN - PAS",
+            "number_of_voters": 13431
+          },
+          {
+            "candidate": "SAMAD HASHIM (CIKGU)",
+            "party": "PH - AMANAH",
+            "number_of_voters": 9216
+          }
+        ]
+      },
+      "N3": {
+        "name": "SUNGAI PANJANG",
+        "registered_voters": 40786,
+        "number_of_voter": 30378,
+        "data": [
+          {
+            "candidate": "USTAZ RAZALI SAARI",
+            "party": "PN - PAS",
+            "number_of_voters": 16977
+          },
+          {
+            "candidate": "MOHD IMRAN TAMRIN",
+            "party": "BN - UMNO",
+            "number_of_voters": 13401
+          }
+        ]
+      },
+      "N4": {
+        "name": "SEKINCHAN",
+        "registered_voters": 23936,
+        "number_of_voter": 16446,
+        "data": [
+          {
+            "candidate": "NG SUEE LIM",
+            "party": "PH - DAP",
+            "number_of_voters": 10232
+          },
+          {
+            "candidate": "GOH GAIK MENG",
+            "party": "PN - BERSATU",
+            "number_of_voters": 6214
+          }
+        ]
+      },
+      "N5": {
+        "name": "HULU BERNAM",
+        "registered_voters": 30367,
+        "number_of_voter": 20767,
+        "data": [
+          {
+            "candidate": "MUIZ MAHYUDDIN",
+            "party": "PN - PAS",
+            "number_of_voters": 10718
+          },
+          {
+            "candidate": "AMRAN SAKIR",
+            "party": "PH - AMANAH",
+            "number_of_voters": 10049
+          }
+        ]
+      },
+      "N6": {
+        "name": "KUALA KUBU BAHARU",
+        "registered_voters": 40015,
+        "number_of_voter": 27318,
+        "data": [
+          {
+            "candidate": "LEE KEE HIONG",
+            "party": "PH - DAP",
+            "number_of_voters": 14862
+          },
+          {
+            "candidate": "HENRY TEOH",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 10743
+          },
+          {
+            "candidate": "SIVA PRAKASH",
+            "party": "MUDA",
+            "number_of_voters": 1186
+          },
+          {
+            "candidate": "CHNG BOON LAI",
+            "party": "PRM",
+            "number_of_voters": 527
+          }
+        ]
+      },
+      "N7": {
+        "name": "BATANG KALI",
+        "registered_voters": 86282,
+        "number_of_voter": 61592,
+        "data": [
+          {
+            "candidate": "MUHAMAD MUHAIMIN HARITH ABDULLAH SANI",
+            "party": "PN - BERSATU",
+            "number_of_voters": 32285
+          },
+          {
+            "candidate": "MOHD ISA ABU KASIM",
+            "party": "BN - UMNO",
+            "number_of_voters": 29307
+          }
+        ]
+      },
+      "N8": {
+        "name": "SUNGAI BURONG",
+        "registered_voters": 31715,
+        "number_of_voter": 24052,
+        "data": [
+          {
+            "candidate": "MOHD ZAMRI MOHD ZAINULDIN",
+            "party": "PN - PAS",
+            "number_of_voters": 15447
+          },
+          {
+            "candidate": "MOHAMAD KHIR RAMLI (USTAZ KHIR)",
+            "party": "BN - UMNO",
+            "number_of_voters": 8605
+          }
+        ]
+      },
+      "N9": {
+        "name": "PERMATANG",
+        "registered_voters": 30796,
+        "number_of_voter": 23972,
+        "data": [
+          {
+            "candidate": "NURUL SYAZWANI NOH OMAR",
+            "party": "PN - BERSATU",
+            "number_of_voters": 12850
+          },
+          {
+            "candidate": "MOHD YAHYA MAT SAHRI (PAKYA)",
+            "party": "PH - PKR",
+            "number_of_voters": 11122
+          }
+        ]
+      },
+      "N10": {
+        "name": "BUKIT MELAWATI",
+        "registered_voters": 37956,
+        "number_of_voter": 28467,
+        "data": [
+          {
+            "candidate": "AZLEY YAHYA",
+            "party": "PN - BERSATU",
+            "number_of_voters": 14672
+          },
+          {
+            "candidate": "THIBAN SUBBRAMANIAM",
+            "party": "PH - PKR",
+            "number_of_voters": 13795
+          }
+        ]
+      },
+      "N11": {
+        "name": "IJOK",
+        "registered_voters": 30662,
+        "number_of_voter": 23648,
+        "data": [
+          {
+            "candidate": "JEFRI MEJAN",
+            "party": "PN - PAS",
+            "number_of_voters": 12183
+          },
+          {
+            "candidate": "AMIDI ABDUL MANAN (CIKGU AMIDI)",
+            "party": "PH - PKR",
+            "number_of_voters": 11271
+          },
+          {
+            "candidate": "CK TAN",
+            "party": "IND",
+            "number_of_voters": 194
+          }
+        ]
+      },
+      "N12": {
+        "name": "JERAM",
+        "registered_voters": 36707,
+        "number_of_voter": 28064,
+        "data": [
+          {
+            "candidate": "HARRISON HASSAN",
+            "party": "PN - BERSATU",
+            "number_of_voters": 16731
+          },
+          {
+            "candidate": "JAHAYA IBRAHIM",
+            "party": "BN - UMNO",
+            "number_of_voters": 11333
+          }
+        ]
+      },
+      "N13": {
+        "name": "KUANG",
+        "registered_voters": 45606,
+        "number_of_voter": 33400,
+        "data": [
+          {
+            "candidate": "MOHD RAFIQ ABDULLAH",
+            "party": "PN - BERSATU",
+            "number_of_voters": 18494
+          },
+          {
+            "candidate": "HASNAL REZUA MERICAN",
+            "party": "BN - UMNO",
+            "number_of_voters": 13619
+          },
+          {
+            "candidate": "SALLEH AMIRUDDIN",
+            "party": "IND",
+            "number_of_voters": 1287
+          }
+        ]
+      },
+      "N14": {
+        "name": "RAWANG",
+        "registered_voters": 76841,
+        "number_of_voter": 52678,
+        "data": [
+          {
+            "candidate": "CHUA WEI KIAT",
+            "party": "PH - PKR",
+            "number_of_voters": 39168
+          },
+          {
+            "candidate": "R.REJEAN KUMAR",
+            "party": "PN - BERSATU",
+            "number_of_voters": 13510
+          }
+        ]
+      },
+      "N15": {
+        "name": "TAMAN TEMPLER",
+        "registered_voters": 62978,
+        "number_of_voter": 44792,
+        "data": [
+          {
+            "candidate": "ANFAAL SAARI",
+            "party": "PH - AMANAH",
+            "number_of_voters": 22247
+          },
+          {
+            "candidate": "ZAIDY ABDUL TALIB",
+            "party": "PN - PAS",
+            "number_of_voters": 21780
+          },
+          {
+            "candidate": "AIDA RAHMAN",
+            "party": "MUDA",
+            "number_of_voters": 765
+          }
+        ]
+      },
+      "N16": {
+        "name": "SUNGAI TUA",
+        "registered_voters": 49055,
+        "number_of_voter": 34601,
+        "data": [
+          {
+            "candidate": "AMIRUDIN SHARI",
+            "party": "PH - PKR",
+            "number_of_voters": 19678
+          },
+          {
+            "candidate": "MUHAMMAD HANIF JAMALUDDIN",
+            "party": "PN - PAS",
+            "number_of_voters": 14493
+          },
+          {
+            "candidate": "SUMAN GOPAL",
+            "party": "IND",
+            "number_of_voters": 430
+          }
+        ]
+      },
+      "N17": {
+        "name": "GOMBAK SETIA",
+        "registered_voters": 88480,
+        "number_of_voter": 61616,
+        "data": [
+          {
+            "candidate": "MUHAMMAD HILMAN IDHAM",
+            "party": "PN - BERSATU",
+            "number_of_voters": 30299
+          },
+          {
+            "candidate": "MEGAT ZULKARNAIN OMARDIN",
+            "party": "BN - UMNO",
+            "number_of_voters": 30241
+          },
+          {
+            "candidate": "MOHAMED SALIM MOHAMED ALI",
+            "party": "IND",
+            "number_of_voters": 1076
+          }
+        ]
+      },
+      "N18": {
+        "name": "HULU KELANG",
+        "registered_voters": 71702,
+        "number_of_voter": 49577,
+        "data": [
+          {
+            "candidate": "MOHAMED AZMIN ALI",
+            "party": "PN - BERSATU",
+            "number_of_voters": 25597
+          },
+          {
+            "candidate": "JUWAIRIYA ZULKIFLI",
+            "party": "PH - PKR",
+            "number_of_voters": 23980
+          }
+        ]
+      },
+      "N19": {
+        "name": "BUKIT ANTARABANGSA",
+        "registered_voters": 69501,
+        "number_of_voter": 46726,
+        "data": [
+          {
+            "candidate": "MOHD KAMRI KAMARUDDIN",
+            "party": "PH - PKR",
+            "number_of_voters": 30772
+          },
+          {
+            "candidate": "SASHA LYNA ABDUL LATIF",
+            "party": "PN - BERSATU",
+            "number_of_voters": 14492
+          },
+          {
+            "candidate": "MELANIE TING",
+            "party": "MUDA",
+            "number_of_voters": 1462
+          }
+        ]
+      },
+      "N20": {
+        "name": "LEMBAH JAYA",
+        "registered_voters": 65650,
+        "number_of_voter": 45918,
+        "data": [
+          {
+            "candidate": "SYED AHMAD SYED ABDUL RAHMAN ALHADAD",
+            "party": "PH - PKR",
+            "number_of_voters": 26298
+          },
+          {
+            "candidate": "SHARIFAH HASLIZAH SYED ARIFFIN (CIKGU SHARIFAH)",
+            "party": "PN - PAS",
+            "number_of_voters": 19620
+          }
+        ]
+      },
+      "N21": {
+        "name": "PANDAN INDAH",
+        "registered_voters": 70776,
+        "number_of_voter": 46502,
+        "data": [
+          {
+            "candidate": "IZHAM HASHIM",
+            "party": "PH - AMANAH",
+            "number_of_voters": 27878
+          },
+          {
+            "candidate": "FAZIL MOHAMAD DALI (CIKTON)",
+            "party": "PN - BERSATU",
+            "number_of_voters": 17287
+          },
+          {
+            "candidate": "LISA REDZUAN",
+            "party": "MUDA",
+            "number_of_voters": 1166
+          },
+          {
+            "candidate": "SIVANESWARAN RAMASUNDRAM",
+            "party": "IND",
+            "number_of_voters": 171
+          }
+        ]
+      },
+      "N22": {
+        "name": "TERATAI",
+        "registered_voters": 79579,
+        "number_of_voter": 53105,
+        "data": [
+          {
+            "candidate": "YEW JIA HAUR",
+            "party": "PH - DAP",
+            "number_of_voters": 42519
+          },
+          {
+            "candidate": "CHEW HAN KEAI",
+            "party": "PN - BERSATU",
+            "number_of_voters": 10586
+          }
+        ]
+      },
+      "N23": {
+        "name": "DUSUN TUA",
+        "registered_voters": 74419,
+        "number_of_voter": 53606,
+        "data": [
+          {
+            "candidate": "JOHAN ABDUL AZIZ",
+            "party": "BN - UMNO",
+            "number_of_voters": 26755
+          },
+          {
+            "candidate": "AZHAR HAMBALI",
+            "party": "PN - BERSATU",
+            "number_of_voters": 23741
+          },
+          {
+            "candidate": "AL HAFIZ IKHWAN",
+            "party": "MUDA",
+            "number_of_voters": 3110
+          }
+        ]
+      },
+      "N24": {
+        "name": "SEMENYIH",
+        "registered_voters": 97300,
+        "number_of_voter": 72874,
+        "data": [
+          {
+            "candidate": "NUSHI MAHFODZ",
+            "party": "PN - PAS",
+            "number_of_voters": 37068
+          },
+          {
+            "candidate": "WAN ZULAIKA ANUA",
+            "party": "BN - UMNO",
+            "number_of_voters": 35806
+          }
+        ]
+      },
+      "N25": {
+        "name": "KAJANG",
+        "registered_voters": 109785,
+        "number_of_voter": 77875,
+        "data": [
+          {
+            "candidate": "DAVID CHEONG",
+            "party": "PH - PKR",
+            "number_of_voters": 54794
+          },
+          {
+            "candidate": "LIEW SIN KIM",
+            "party": "PN - BERSATU",
+            "number_of_voters": 20400
+          },
+          {
+            "candidate": "S. ARUTCHELVAN",
+            "party": "PSM",
+            "number_of_voters": 2681
+          }
+        ]
+      },
+      "N26": {
+        "name": "SUNGAI RAMAL",
+        "registered_voters": 97415,
+        "number_of_voter": 72751,
+        "data": [
+          {
+            "candidate": "MOHD SHAFIE NGAH",
+            "party": "PN - PAS",
+            "number_of_voters": 40259
+          },
+          {
+            "candidate": "MAZWAN JOHAR",
+            "party": "PH - AMANAH",
+            "number_of_voters": 32492
+          }
+        ]
+      },
+      "N27": {
+        "name": "BALAKONG",
+        "registered_voters": 104269,
+        "number_of_voter": 72158,
+        "data": [
+          {
+            "candidate": "ONG CHUN WEI",
+            "party": "PH - DAP",
+            "number_of_voters": 54995
+          },
+          {
+            "candidate": "LAI CHOON WEI",
+            "party": "PN - BERSATU",
+            "number_of_voters": 17163
+          }
+        ]
+      },
+      "N28": {
+        "name": "SERI KEMBANGAN",
+        "registered_voters": 62822,
+        "number_of_voter": 44437,
+        "data": [
+          {
+            "candidate": "WONG SIEW KI",
+            "party": "PH - DAP",
+            "number_of_voters": 39684
+          },
+          {
+            "candidate": "LIAU WEI JIAN",
+            "party": "PN - BERSATU",
+            "number_of_voters": 3524
+          },
+          {
+            "candidate": "WONG JUNG LIK",
+            "party": "IND",
+            "number_of_voters": 1229
+          }
+        ]
+      },
+      "N29": {
+        "name": "SERI SERDANG",
+        "registered_voters": 93235,
+        "number_of_voter": 65904,
+        "data": [
+          {
+            "candidate": "ABBAS SALIMI AZMI",
+            "party": "PH - AMANAH",
+            "number_of_voters": 37411
+          },
+          {
+            "candidate": "MOHD SHUKOR MUSTAFFA",
+            "party": "PN - BERSATU",
+            "number_of_voters": 26659
+          },
+          {
+            "candidate": "AMIR HARIRI ABD HADI",
+            "party": "MUDA",
+            "number_of_voters": 1834
+          }
+        ]
+      },
+      "N30": {
+        "name": "KINRARA",
+        "registered_voters": 123782,
+        "number_of_voter": 88045,
+        "data": [
+          {
+            "candidate": "NG SZE HAN",
+            "party": "PH - DAP",
+            "number_of_voters": 71290
+          },
+          {
+            "candidate": "WONG YONG KANG",
+            "party": "PN - BERSATU",
+            "number_of_voters": 16755
+          }
+        ]
+      },
+      "N31": {
+        "name": "SUBANG JAYA",
+        "registered_voters": 111970,
+        "number_of_voter": 74286,
+        "data": [
+          {
+            "candidate": "MICHELLE NG MEI SZE",
+            "party": "PH - DAP",
+            "number_of_voters": 60364
+          },
+          {
+            "candidate": "S. GANA",
+            "party": "PN - BERSATU",
+            "number_of_voters": 9173
+          },
+          {
+            "candidate": "ZAYD SHAUKAT",
+            "party": "MUDA",
+            "number_of_voters": 4749
+          }
+        ]
+      },
+      "N32": {
+        "name": "SERI SETIA",
+        "registered_voters": 80371,
+        "number_of_voter": 55453,
+        "data": [
+          {
+            "candidate": "FAHMI NGAH",
+            "party": "PH - PKR",
+            "number_of_voters": 32367
+          },
+          {
+            "candidate": "MOHD ZUBIR EMBONG",
+            "party": "PN - PAS",
+            "number_of_voters": 21036
+          },
+          {
+            "candidate": "DOBBY CHEW",
+            "party": "MUDA",
+            "number_of_voters": 1357
+          },
+          {
+            "candidate": "HARINDRAN KRISHNAN",
+            "party": "IND",
+            "number_of_voters": 693
+          }
+        ]
+      },
+      "N33": {
+        "name": "TAMAN MEDAN",
+        "registered_voters": 61959,
+        "number_of_voter": 44602,
+        "data": [
+          {
+            "candidate": "AFIF BAHARDIN",
+            "party": "PN - BERSATU",
+            "number_of_voters": 22316
+          },
+          {
+            "candidate": "AHMAD AKHIR PAWAN CHIK",
+            "party": "PH - PKR",
+            "number_of_voters": 22286
+          }
+        ]
+      },
+      "N34": {
+        "name": "BUKIT GASING",
+        "registered_voters": 54238,
+        "number_of_voter": 32872,
+        "data": [
+          {
+            "candidate": "RAJIV RISHYAKARAN",
+            "party": "PH - DAP",
+            "number_of_voters": 28227
+          },
+          {
+            "candidate": "NALLAN DHANABALAN",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 3255
+          },
+          {
+            "candidate": "KALYANA RAJASEKARAN TEAGARAJAN (VKK RAJA)",
+            "party": "MUDA",
+            "number_of_voters": 1390
+          }
+        ]
+      },
+      "N35": {
+        "name": "KAMPUNG TUNKU",
+        "registered_voters": 58357,
+        "number_of_voter": 37007,
+        "data": [
+          {
+            "candidate": "LIM YI WEI",
+            "party": "PH - DAP",
+            "number_of_voters": 33640
+          },
+          {
+            "candidate": "RUBY CHIN",
+            "party": "PN - BERSATU",
+            "number_of_voters": 3367
+          }
+        ]
+      },
+      "N36": {
+        "name": "BANDAR UTAMA",
+        "registered_voters": 73038,
+        "number_of_voter": 46740,
+        "data": [
+          {
+            "candidate": "JAMALIAH JAMALUDDIN",
+            "party": "PH - DAP",
+            "number_of_voters": 39845
+          },
+          {
+            "candidate": "NUR ALIFF MOHD TAUFID",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 4399
+          },
+          {
+            "candidate": "LIM HOOI SEAN (ABE LIM)",
+            "party": "MUDA",
+            "number_of_voters": 2496
+          }
+        ]
+      },
+      "N37": {
+        "name": "BUKIT LANJAN",
+        "registered_voters": 110583,
+        "number_of_voter": 72875,
+        "data": [
+          {
+            "candidate": "PEI LING",
+            "party": "PH - PKR",
+            "number_of_voters": 57051
+          },
+          {
+            "candidate": "MUNIRAA ABU BAKAR",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 15824
+          }
+        ]
+      },
+      "N38": {
+        "name": "PAYA JARAS",
+        "registered_voters": 72563,
+        "number_of_voter": 53313,
+        "data": [
+          {
+            "candidate": "HALIM TAMURI",
+            "party": "PN - PAS",
+            "number_of_voters": 27527
+          },
+          {
+            "candidate": "KHAIRUDDIN OTHMAN",
+            "party": "PH - PKR",
+            "number_of_voters": 25541
+          },
+          {
+            "candidate": "NURHASLINDA BASRI (SIFU LINDA)",
+            "party": "IND",
+            "number_of_voters": 245
+          }
+        ]
+      },
+      "N39": {
+        "name": "KOTA DAMANSARA",
+        "registered_voters": 90130,
+        "number_of_voter": 64457,
+        "data": [
+          {
+            "candidate": "IZUAN KASIM",
+            "party": "PH - PKR",
+            "number_of_voters": 34628
+          },
+          {
+            "candidate": "RADZLAN JALALUDIN",
+            "party": "PN - BERSATU",
+            "number_of_voters": 28934
+          },
+          {
+            "candidate": "SIVARAJAN ARUMUGAM",
+            "party": "PSM",
+            "number_of_voters": 895
+          }
+        ]
+      },
+      "N40": {
+        "name": "KOTA ANGGERIK",
+        "registered_voters": 95104,
+        "number_of_voter": 68737,
+        "data": [
+          {
+            "candidate": "NAJWAN HALIMI",
+            "party": "PH - PKR",
+            "number_of_voters": 38470
+          },
+          {
+            "candidate": "SUKRI OMAR",
+            "party": "PN - PAS",
+            "number_of_voters": 27636
+          },
+          {
+            "candidate": "AZAD AKHBAR",
+            "party": "MUDA",
+            "number_of_voters": 2631
+          }
+        ]
+      },
+      "N41": {
+        "name": "BATU TIGA",
+        "registered_voters": 75486,
+        "number_of_voter": 56654,
+        "data": [
+          {
+            "candidate": "RASHID",
+            "party": "PH - AMANAH",
+            "number_of_voters": 29064
+          },
+          {
+            "candidate": "RINA HARUN",
+            "party": "PN - BERSATU",
+            "number_of_voters": 25682
+          },
+          {
+            "candidate": "SAIYIDAH IZZATI NUR RAZAK MAIDEEN (CHEDA RAZAK)",
+            "party": "MUDA",
+            "number_of_voters": 1908
+          }
+        ]
+      },
+      "N42": {
+        "name": "MERU",
+        "registered_voters": 65801,
+        "number_of_voter": 51437,
+        "data": [
+          {
+            "candidate": "MARIAM ABDUL RASHID",
+            "party": "PH - AMANAH",
+            "number_of_voters": 26980
+          },
+          {
+            "candidate": "HASNIZAM ADHAM",
+            "party": "PN - BERSATU",
+            "number_of_voters": 23558
+          },
+          {
+            "candidate": "SIVARANJANI",
+            "party": "PSM",
+            "number_of_voters": 899
+          }
+        ]
+      },
+      "N43": {
+        "name": "SEMENTA",
+        "registered_voters": 68969,
+        "number_of_voter": 54561,
+        "data": [
+          {
+            "candidate": "USTAZ NAJHAN SALLEH",
+            "party": "PN - PAS",
+            "number_of_voters": 32300
+          },
+          {
+            "candidate": "AFRISHAH AZIZI",
+            "party": "PH - PKR",
+            "number_of_voters": 22261
+          }
+        ]
+      },
+      "N44": {
+        "name": "SELAT KLANG",
+        "registered_voters": 57613,
+        "number_of_voter": 42703,
+        "data": [
+          {
+            "candidate": "ABDUL RASHID ASARI",
+            "party": "PN - BERSATU",
+            "number_of_voters": 25143
+          },
+          {
+            "candidate": "MOHD ROSLEE ABD HAMID",
+            "party": "BN - UMNO",
+            "number_of_voters": 16818
+          },
+          {
+            "candidate": "EZAM MOHD NOR",
+            "party": "PRM",
+            "number_of_voters": 742
+          }
+        ]
+      },
+      "N45": {
+        "name": "BANDAR BARU KLANG",
+        "registered_voters": 82826,
+        "number_of_voter": 61644,
+        "data": [
+          {
+            "candidate": "QUAH PERNG FEI (DR. QUAH)",
+            "party": "PH - DAP",
+            "number_of_voters": 53658
+          },
+          {
+            "candidate": "TAN SENG HUAT",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 7986
+          }
+        ]
+      },
+      "N46": {
+        "name": "PELABUHAN KLANG",
+        "registered_voters": 51907,
+        "number_of_voter": 38816,
+        "data": [
+          {
+            "candidate": "AZMIZAM ZAMAN HURI",
+            "party": "PH - PKR",
+            "number_of_voters": 21889
+          },
+          {
+            "candidate": "WAN HASRINA WAN HASSAN",
+            "party": "PN - PAS",
+            "number_of_voters": 16658
+          },
+          {
+            "candidate": "SYED AHMAD PUTRA",
+            "party": "PRM",
+            "number_of_voters": 269
+          }
+        ]
+      },
+      "N47": {
+        "name": "PANDAMARAN",
+        "registered_voters": 75777,
+        "number_of_voter": 54179,
+        "data": [
+          {
+            "candidate": "TONY LEONG TUCK CHEE",
+            "party": "PH - DAP",
+            "number_of_voters": 46999
+          },
+          {
+            "candidate": "B.GUNALAN",
+            "party": "PN - BERSATU",
+            "number_of_voters": 6701
+          },
+          {
+            "candidate": "TAN KANG YAP",
+            "party": "PRM",
+            "number_of_voters": 479
+          }
+        ]
+      },
+      "N48": {
+        "name": "SENTOSA",
+        "registered_voters": 90270,
+        "number_of_voter": 65366,
+        "data": [
+          {
+            "candidate": "GUNARAJ G",
+            "party": "PH - PKR",
+            "number_of_voters": 54601
+          },
+          {
+            "candidate": "PARAMESWARAN GANASON",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 8252
+          },
+          {
+            "candidate": "THANUSHA RAMANIESWARAN (TEACHER THANUSHA)",
+            "party": "MUDA",
+            "number_of_voters": 2357
+          },
+          {
+            "candidate": "JEICHANDRAN WADIVELU",
+            "party": "PRM",
+            "number_of_voters": 156
+          }
+        ]
+      },
+      "N49": {
+        "name": "SUNGAI KANDIS",
+        "registered_voters": 78605,
+        "number_of_voter": 59026,
+        "data": [
+          {
+            "candidate": "WAN DZAHANURIN AHMAD",
+            "party": "PN - BERSATU",
+            "number_of_voters": 28926
+          },
+          {
+            "candidate": "ZAWAWI AHMAD MUGHNI",
+            "party": "PH - PKR",
+            "number_of_voters": 28759
+          },
+          {
+            "candidate": "AFRIENA SHAQIRA SARIFF",
+            "party": "MUDA",
+            "number_of_voters": 1341
+          }
+        ]
+      },
+      "N50": {
+        "name": "KOTA KEMUNING",
+        "registered_voters": 81946,
+        "number_of_voter": 58871,
+        "data": [
+          {
+            "candidate": "PREAKAS SAMPUNATHAN",
+            "party": "PH - DAP",
+            "number_of_voters": 41254
+          },
+          {
+            "candidate": "JIMMY CHEW JYH GANG",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 16966
+          },
+          {
+            "candidate": "GUNASEKARAN KUPPAN (CIKGU SEKAR)",
+            "party": "PRM",
+            "number_of_voters": 651
+          }
+        ]
+      },
+      "N51": {
+        "name": "SIJANGKANG",
+        "registered_voters": 62907,
+        "number_of_voter": 49536,
+        "data": [
+          {
+            "candidate": "AHMAD YUNUS HAIRI",
+            "party": "PN - PAS",
+            "number_of_voters": 30422
+          },
+          {
+            "candidate": "HAFIZI ABU BAKAR",
+            "party": "BN - UMNO",
+            "number_of_voters": 19114
+          }
+        ]
+      },
+      "N52": {
+        "name": "BANTING",
+        "registered_voters": 44972,
+        "number_of_voter": 33783,
+        "data": [
+          {
+            "candidate": "PAPPARAIDU VERAMAN",
+            "party": "PH - DAP",
+            "number_of_voters": 27223
+          },
+          {
+            "candidate": "SARAVANAN MUTTO KRISHNAN",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 5121
+          },
+          {
+            "candidate": "ANG WEI YANG",
+            "party": "IND",
+            "number_of_voters": 1439
+          }
+        ]
+      },
+      "N53": {
+        "name": "MORIB",
+        "registered_voters": 43828,
+        "number_of_voter": 34029,
+        "data": [
+          {
+            "candidate": "ROSNIZAN AHMAD",
+            "party": "PN - BERSATU",
+            "number_of_voters": 18936
+          },
+          {
+            "candidate": "HASNUL BAHARUDDIN",
+            "party": "PH - AMANAH",
+            "number_of_voters": 15093
+          }
+        ]
+      },
+      "N54": {
+        "name": "TANJONG SEPAT",
+        "registered_voters": 32312,
+        "number_of_voter": 25196,
+        "data": [
+          {
+            "candidate": "BORHAN AMAN SHAH",
+            "party": "PH - PKR",
+            "number_of_voters": 13860
+          },
+          {
+            "candidate": "SABIRIN MARSONO",
+            "party": "PN - PAS",
+            "number_of_voters": 11336
+          }
+        ]
+      },
+      "N55": {
+        "name": "DENGKIL",
+        "registered_voters": 93931,
+        "number_of_voter": 69165,
+        "data": [
+          {
+            "candidate": "JAMIL SALLEH",
+            "party": "PN - BERSATU",
+            "number_of_voters": 33561
+          },
+          {
+            "candidate": "NOORAZLI SAID",
+            "party": "BN - UMNO",
+            "number_of_voters": 33154
+          },
+          {
+            "candidate": "DARREN ONG CHUNG LEE",
+            "party": "PSM",
+            "number_of_voters": 1782
+          },
+          {
+            "candidate": "MOHD DAUD LEONG ABDULLAH",
+            "party": "PUR",
+            "number_of_voters": 668
+          }
+        ]
+      },
+      "N56": {
+        "name": "SUNGAI PELEK",
+        "registered_voters": 47335,
+        "number_of_voter": 34740,
+        "data": [
+          {
+            "candidate": "LWI KIAN KEONG",
+            "party": "PH - DAP",
+            "number_of_voters": 17984
+          },
+          {
+            "candidate": "SUHAIMI GHAZALI",
+            "party": "PN - BERSATU",
+            "number_of_voters": 16526
+          },
+          {
+            "candidate": "NAGESWARAN RAVI",
+            "party": "IND",
+            "number_of_voters": 230
+          }
+        ]
+      }
+    }
   },
   "Federal Territories": {
     "p": {
@@ -7169,7 +11072,675 @@
         ]
       }
     },
-    "n": {}
+    "n": {
+      "N1": {
+        "name": "CHENNAH",
+        "registered_voters": 14554,
+        "number_of_voter": 9576,
+        "data": [
+          {
+            "candidate": "ANTHONY LOKE SIEW FOOK",
+            "party": "PH - DAP",
+            "number_of_voters": 5888
+          },
+          {
+            "candidate": "ROSMADI ARIF",
+            "party": "PN - BERSATU",
+            "number_of_voters": 3688
+          }
+        ]
+      },
+      "N2": {
+        "name": "PERTANG",
+        "registered_voters": 12897,
+        "number_of_voter": 8478,
+        "data": [
+          {
+            "candidate": "JALALUDDIN ALIAS",
+            "party": "BN - UMNO",
+            "number_of_voters": 5634
+          },
+          {
+            "candidate": "AMIRUDDIN HASSAN (CIKGU AMIR)",
+            "party": "PN - PAS",
+            "number_of_voters": 2844
+          }
+        ]
+      },
+      "N3": {
+        "name": "SUNGAI LUI",
+        "registered_voters": 20206,
+        "number_of_voter": 13343,
+        "data": [
+          {
+            "candidate": "MOHD.RAZI MOHD ALI",
+            "party": "BN - UMNO",
+            "number_of_voters": 6939
+          },
+          {
+            "candidate": "MOHAMMAD NORDIN HASHIM",
+            "party": "PN - PAS",
+            "number_of_voters": 6404
+          }
+        ]
+      },
+      "N4": {
+        "name": "KLAWANG",
+        "registered_voters": 13163,
+        "number_of_voter": 8983,
+        "data": [
+          {
+            "candidate": "BAKRI SAWIR",
+            "party": "PH - AMANAH",
+            "number_of_voters": 4598
+          },
+          {
+            "candidate": "DANNI RAIS",
+            "party": "PN - BERSATU",
+            "number_of_voters": 4021
+          },
+          {
+            "candidate": "SAIFUL BAHRI JAAMAN (ANGAH SAIFUL)",
+            "party": "IND",
+            "number_of_voters": 364
+          }
+        ]
+      },
+      "N5": {
+        "name": "SERTING",
+        "registered_voters": 30287,
+        "number_of_voter": 19781,
+        "data": [
+          {
+            "candidate": "MOHAMMAD FAIRUZ MOHAMMAD ISA (USTAZ)",
+            "party": "PN - PAS",
+            "number_of_voters": 10312
+          },
+          {
+            "candidate": "MUHAMAD ZAMRI OMAR",
+            "party": "BN - UMNO",
+            "number_of_voters": 9469
+          }
+        ]
+      },
+      "N6": {
+        "name": "PALONG",
+        "registered_voters": 23494,
+        "number_of_voter": 15316,
+        "data": [
+          {
+            "candidate": "MUSTAFA NAGOOR",
+            "party": "BN - UMNO",
+            "number_of_voters": 7940
+          },
+          {
+            "candidate": "NOOR AZUAN",
+            "party": "PN - BERSATU",
+            "number_of_voters": 7376
+          }
+        ]
+      },
+      "N7": {
+        "name": "JERAM PADANG",
+        "registered_voters": 16332,
+        "number_of_voter": 10231,
+        "data": [
+          {
+            "candidate": "MOHD ZAIDY ABDUL KADIR",
+            "party": "BN - UMNO",
+            "number_of_voters": 5462
+          },
+          {
+            "candidate": "SURASH SREENIVASAN",
+            "party": "PN - BERSATU",
+            "number_of_voters": 4769
+          }
+        ]
+      },
+      "N8": {
+        "name": "BAHAU",
+        "registered_voters": 25769,
+        "number_of_voter": 15470,
+        "data": [
+          {
+            "candidate": "TEO KOK SEONG",
+            "party": "PH - DAP",
+            "number_of_voters": 11939
+          },
+          {
+            "candidate": "KUMAR S PARAMASIVAM (P M KUMAR)",
+            "party": "PN - PAS",
+            "number_of_voters": 3531
+          }
+        ]
+      },
+      "N9": {
+        "name": "LENGGENG",
+        "registered_voters": 27386,
+        "number_of_voter": 19799,
+        "data": [
+          {
+            "candidate": "MOHD ASNA AMIN (HJ ASNA)",
+            "party": "BN - UMNO",
+            "number_of_voters": 10040
+          },
+          {
+            "candidate": "MOHAMMAD FADHLI CHE ME (HAJI)",
+            "party": "PN - PAS",
+            "number_of_voters": 9355
+          },
+          {
+            "candidate": "ZUL AZKI MAT SULOP",
+            "party": "IND",
+            "number_of_voters": 404
+          }
+        ]
+      },
+      "N10": {
+        "name": "NILAI",
+        "registered_voters": 42168,
+        "number_of_voter": 28864,
+        "data": [
+          {
+            "candidate": "ARUL KUMAR JAMBUNATHAN",
+            "party": "PH - DAP",
+            "number_of_voters": 19133
+          },
+          {
+            "candidate": "GAN CHEE BIOW",
+            "party": "PN - BERSATU",
+            "number_of_voters": 8244
+          },
+          {
+            "candidate": "OMAR MOHD ISA",
+            "party": "IND",
+            "number_of_voters": 1430
+          },
+          {
+            "candidate": "YESSU",
+            "party": "IND",
+            "number_of_voters": 57
+          }
+        ]
+      },
+      "N11": {
+        "name": "LOBAK",
+        "registered_voters": 23193,
+        "number_of_voter": 15210,
+        "data": [
+          {
+            "candidate": "CHEW SEH YONG",
+            "party": "PH - DAP",
+            "number_of_voters": 14357
+          },
+          {
+            "candidate": "NG SOON LEAN",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 853
+          }
+        ]
+      },
+      "N12": {
+        "name": "TEMIANG",
+        "registered_voters": 13085,
+        "number_of_voter": 8992,
+        "data": [
+          {
+            "candidate": "NG CHIN TSAI",
+            "party": "PH - DAP",
+            "number_of_voters": 5710
+          },
+          {
+            "candidate": "CHUA ENG PU",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 2642
+          },
+          {
+            "candidate": "AHMAD QUSYAIRI ABDUL RAHIM",
+            "party": "MUDA",
+            "number_of_voters": 640
+          }
+        ]
+      },
+      "N13": {
+        "name": "SIKAMAT",
+        "registered_voters": 32343,
+        "number_of_voter": 23220,
+        "data": [
+          {
+            "candidate": "AMINUDDIN HARUN",
+            "party": "PH - PKR",
+            "number_of_voters": 12730
+          },
+          {
+            "candidate": "RAIHAN HILAL",
+            "party": "PN - BERSATU",
+            "number_of_voters": 10068
+          },
+          {
+            "candidate": "MOHAMMED HAFIZ (TOK MERAH)",
+            "party": "IND",
+            "number_of_voters": 339
+          },
+          {
+            "candidate": "BUJANG ABU",
+            "party": "IND",
+            "number_of_voters": 83
+          }
+        ]
+      },
+      "N14": {
+        "name": "AMPANGAN",
+        "registered_voters": 20992,
+        "number_of_voter": 14858,
+        "data": [
+          {
+            "candidate": "TENGKU ZAMRAH TENGKU SULAIMAN",
+            "party": "PH - PKR",
+            "number_of_voters": 6054
+          },
+          {
+            "candidate": "MUHAMMAD GHAZALI ZAINAL ABIDIN",
+            "party": "PN - BERSATU",
+            "number_of_voters": 5725
+          },
+          {
+            "candidate": "MOHAMAD RAFIE ABDUL MALEK",
+            "party": "IND",
+            "number_of_voters": 3079
+          }
+        ]
+      },
+      "N15": {
+        "name": "JUASSEH",
+        "registered_voters": 13408,
+        "number_of_voter": 9020,
+        "data": [
+          {
+            "candidate": "BIBI SHARLIZA MOHD KHALID",
+            "party": "BN - UMNO",
+            "number_of_voters": 4549
+          },
+          {
+            "candidate": "EDDIN SYAZLEE SHITH",
+            "party": "PN - BERSATU",
+            "number_of_voters": 4471
+          }
+        ]
+      },
+      "N16": {
+        "name": "SERI MENANTI",
+        "registered_voters": 10045,
+        "number_of_voter": 7052,
+        "data": [
+          {
+            "candidate": "USTAZ SUFIAN MARADZI",
+            "party": "BN - UMNO",
+            "number_of_voters": 3711
+          },
+          {
+            "candidate": "JAMALI SALAM",
+            "party": "PN - BERSATU",
+            "number_of_voters": 3341
+          }
+        ]
+      },
+      "N17": {
+        "name": "SENALING",
+        "registered_voters": 9886,
+        "number_of_voter": 6786,
+        "data": [
+          {
+            "candidate": "ISMAIL LASIM",
+            "party": "BN - UMNO",
+            "number_of_voters": 3724
+          },
+          {
+            "candidate": "AMRINA MOHAMMAD KHALID",
+            "party": "PN - BERSATU",
+            "number_of_voters": 3062
+          }
+        ]
+      },
+      "N18": {
+        "name": "PILAH",
+        "registered_voters": 17692,
+        "number_of_voter": 11365,
+        "data": [
+          {
+            "candidate": "NOORZUNITA BEGUM MOHD IBRAHIM",
+            "party": "PH - PKR",
+            "number_of_voters": 6222
+          },
+          {
+            "candidate": "RAFIEI MUSTAFA (CIKGU RAFIEI)",
+            "party": "PN - PAS",
+            "number_of_voters": 5143
+          }
+        ]
+      },
+      "N19": {
+        "name": "JOHOL",
+        "registered_voters": 12313,
+        "number_of_voter": 8339,
+        "data": [
+          {
+            "candidate": "SAIFUL YAZAN SULAIMAN",
+            "party": "BN - UMNO",
+            "number_of_voters": 5228
+          },
+          {
+            "candidate": "KAMARUDIN TAHIR",
+            "party": "PN - PAS",
+            "number_of_voters": 3111
+          }
+        ]
+      },
+      "N20": {
+        "name": "LABU",
+        "registered_voters": 30478,
+        "number_of_voter": 21682,
+        "data": [
+          {
+            "candidate": "ANIP ABU BAKER",
+            "party": "PN - BERSATU",
+            "number_of_voters": 11661
+          },
+          {
+            "candidate": "ISMAIL AHMAD",
+            "party": "PH - PKR",
+            "number_of_voters": 10021
+          }
+        ]
+      },
+      "N21": {
+        "name": "BUKIT KEPAYANG",
+        "registered_voters": 46229,
+        "number_of_voter": 30489,
+        "data": [
+          {
+            "candidate": "NICOLE TAN LEE KOON",
+            "party": "PH - DAP",
+            "number_of_voters": 24626
+          },
+          {
+            "candidate": "SUBRAMANIAM PURUSHOTHAMA",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 4942
+          },
+          {
+            "candidate": "AHMAD ZAMALI MOHAMAD",
+            "party": "IND",
+            "number_of_voters": 921
+          }
+        ]
+      },
+      "N22": {
+        "name": "RAHANG",
+        "registered_voters": 20182,
+        "number_of_voter": 13304,
+        "data": [
+          {
+            "candidate": "SIAU MEOW KONG",
+            "party": "PH - DAP",
+            "number_of_voters": 9868
+          },
+          {
+            "candidate": "LEE BOON SHIAN",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 3436
+          }
+        ]
+      },
+      "N23": {
+        "name": "MAMBAU",
+        "registered_voters": 28952,
+        "number_of_voter": 19301,
+        "data": [
+          {
+            "candidate": "YAP YEW WENG",
+            "party": "PH - DAP",
+            "number_of_voters": 17039
+          },
+          {
+            "candidate": "SATHES KUMAR NILAMEHAM",
+            "party": "PN - PAS",
+            "number_of_voters": 2099
+          },
+          {
+            "candidate": "KUMARAVEL RAMIAH",
+            "party": "IND",
+            "number_of_voters": 163
+          }
+        ]
+      },
+      "N24": {
+        "name": "SEREMBAN JAYA",
+        "registered_voters": 32290,
+        "number_of_voter": 21457,
+        "data": [
+          {
+            "candidate": "GUNASEKAREN PALASAMY (P.GUNA)",
+            "party": "PH - DAP",
+            "number_of_voters": 17080
+          },
+          {
+            "candidate": "GARY LEE BAN FATT",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 4377
+          }
+        ]
+      },
+      "N25": {
+        "name": "PAROI",
+        "registered_voters": 60704,
+        "number_of_voter": 43085,
+        "data": [
+          {
+            "candidate": "KAMAROL RIDZUAN MOHD ZIN",
+            "party": "PN - PAS",
+            "number_of_voters": 23840
+          },
+          {
+            "candidate": "NORWANI AHMAT",
+            "party": "PH - AMANAH",
+            "number_of_voters": 18301
+          },
+          {
+            "candidate": "SYAKIR FITRI",
+            "party": "IND",
+            "number_of_voters": 944
+          }
+        ]
+      },
+      "N26": {
+        "name": "CHEMBONG",
+        "registered_voters": 25625,
+        "number_of_voter": 18187,
+        "data": [
+          {
+            "candidate": "ZAIFULBAHRI IDRIS",
+            "party": "BN - UMNO",
+            "number_of_voters": 11261
+          },
+          {
+            "candidate": "BAKLY BABA",
+            "party": "PN - BERSATU",
+            "number_of_voters": 6926
+          }
+        ]
+      },
+      "N27": {
+        "name": "RANTAU",
+        "registered_voters": 32890,
+        "number_of_voter": 23634,
+        "data": [
+          {
+            "candidate": "MOHAMAD HASAN (TOK MAT)",
+            "party": "BN - UMNO",
+            "number_of_voters": 16957
+          },
+          {
+            "candidate": "ROZMAL MALAKAN",
+            "party": "PN - PAS",
+            "number_of_voters": 6677
+          }
+        ]
+      },
+      "N28": {
+        "name": "KOTA",
+        "registered_voters": 16510,
+        "number_of_voter": 11603,
+        "data": [
+          {
+            "candidate": "SUHAIMI AINI",
+            "party": "BN - UMNO",
+            "number_of_voters": 5869
+          },
+          {
+            "candidate": "AHMAD SHUKRI ABDUL SHUKUR",
+            "party": "PN - BERSATU",
+            "number_of_voters": 5734
+          }
+        ]
+      },
+      "N29": {
+        "name": "CHUAH",
+        "registered_voters": 15095,
+        "number_of_voter": 10046,
+        "data": [
+          {
+            "candidate": "YEW BOON LYE",
+            "party": "PH - PKR",
+            "number_of_voters": 8172
+          },
+          {
+            "candidate": "TANG JAY SON",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 1874
+          }
+        ]
+      },
+      "N30": {
+        "name": "LUKUT",
+        "registered_voters": 26806,
+        "number_of_voter": 17257,
+        "data": [
+          {
+            "candidate": "CHOO KEN HWA",
+            "party": "PH - DAP",
+            "number_of_voters": 13696
+          },
+          {
+            "candidate": "RAGU SUBRAMANIAM (S. RAGU)",
+            "party": "PN - PAS",
+            "number_of_voters": 3561
+          }
+        ]
+      },
+      "N31": {
+        "name": "BAGAN PINANG",
+        "registered_voters": 27790,
+        "number_of_voter": 18416,
+        "data": [
+          {
+            "candidate": "ABDUL FATAH ZAKARIA (USTAZ FATAH)",
+            "party": "PN - PAS",
+            "number_of_voters": 10921
+          },
+          {
+            "candidate": "MOHD NAJIB MOHD ISA",
+            "party": "BN - UMNO",
+            "number_of_voters": 7495
+          }
+        ]
+      },
+      "N32": {
+        "name": "LINGGI",
+        "registered_voters": 20696,
+        "number_of_voter": 14203,
+        "data": [
+          {
+            "candidate": "MOHD FAIZAL RAMLI",
+            "party": "BN - UMNO",
+            "number_of_voters": 7832
+          },
+          {
+            "candidate": "ZAMBRI MD SAID",
+            "party": "PN - BERSATU",
+            "number_of_voters": 6371
+          }
+        ]
+      },
+      "N33": {
+        "name": "SRI TANJUNG",
+        "registered_voters": 19431,
+        "number_of_voter": 12482,
+        "data": [
+          {
+            "candidate": "G.RAJASEKARAN (DR RAJA)",
+            "party": "PH - PKR",
+            "number_of_voters": 8239
+          },
+          {
+            "candidate": "ZABIDI ARIFFIN",
+            "party": "PN - BERSATU",
+            "number_of_voters": 4243
+          }
+        ]
+      },
+      "N34": {
+        "name": "GEMAS",
+        "registered_voters": 29648,
+        "number_of_voter": 20186,
+        "data": [
+          {
+            "candidate": "RIDZUAN AHMAD",
+            "party": "PN - BERSATU",
+            "number_of_voters": 11653
+          },
+          {
+            "candidate": "ABDUL RAZAK AB SAID",
+            "party": "BN - UMNO",
+            "number_of_voters": 8533
+          }
+        ]
+      },
+      "N35": {
+        "name": "GEMENCHEH",
+        "registered_voters": 24602,
+        "number_of_voter": 15376,
+        "data": [
+          {
+            "candidate": "SUHAIMIZAN BIZAR",
+            "party": "BN - UMNO",
+            "number_of_voters": 8905
+          },
+          {
+            "candidate": "TENGKU ABDULLAH TENGKU RAKHMAN (USTAZ TENGKU)",
+            "party": "PN - PAS",
+            "number_of_voters": 6471
+          }
+        ]
+      },
+      "N36": {
+        "name": "REPAH",
+        "registered_voters": 27284,
+        "number_of_voter": 17064,
+        "data": [
+          {
+            "candidate": "VEERAPAN SUPERAMANIAM",
+            "party": "PH - DAP",
+            "number_of_voters": 11507
+          },
+          {
+            "candidate": "ELAINE YONG LI YI",
+            "party": "PN - GERAKAN",
+            "number_of_voters": 5557
+          }
+        ]
+      }
+    }
   },
   "Melaka": {
     "p": {
